@@ -1,5 +1,5 @@
-site_name: lernOS Template Leitfaden
-site_url: https://cogneon.github.io/
+site_name: loscon25 Un-Konferenzband
+site_url: https://cogneon.github.io/loscon25doku
 docs_dir: src
 site_dir: ../docs/de
 
@@ -27,10 +27,11 @@ nav:
       - Peerfinder: https://web.peerfinder.app
 
 theme:
-    name: 'material'
+    name: material
     custom_dir: src/overrides
     palette:
-        scheme: lernos
+        primary: black
+        accent: red
     language: de
     icon:
       logo: material/home

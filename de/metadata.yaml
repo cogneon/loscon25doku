@@ -1,17 +1,16 @@
 ---
-title: "lernOS Template Leitfaden"
-subtitle: "Dein eigener lernOS Leitfaden in einem Sprint"
-author: [Simon Dückert]
-date: "Version 0.2 (01.01.2022)"
+title: "loscon25 Un-Konferenzband"
+subtitle: "KI-unterstützte Dokumentation der lernOS Convention 2025"
+date: "2025"
 titlepage: true
-titlepage-color: "ff6600"
-titlepage-text-color: "ffffff"
-titlepage-rule-color: "ffffff"
+titlepage-color: "000000"
+titlepage-text-color: "ed1b24"
+titlepage-rule-color: "2e3192"
 links-as-notes: true
 lof: false
 toc: true
 toc-own-page: true
 toc-depth: 3
-logo: src/images/lernOS-logo-white-4000px.png
-logo-width: 300px
+logo: src/images/loscon25-key-visual.png
+logo-width: 400px
 ---
