@@ -1,17 +1,9 @@
 # loscon25 Un-Konferenzband
 
-lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
+Die [lernOS Convention 2025](https://wiki.cogneon.de/loscon25) (loscon25, 1.-2. Juli 2025) hat das **Motto "Mind the Knowledge Gap"** ([Blog](https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/)). Die loscon ist keine klassische Konferenz, sie kombiniert Elemente von Konferenz, Barcamp/Un-Konferenz und Community-Treffen (Convention = Zusammenkunft).
 
-lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
+![](images/loscon25-badge.png)
 
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+Für diese **Dokumentation** setzen wir **Künstliche Intelligenz** und die **lernOS Produktionskette** ein. Es entsteht diese **Website** und **Dokumente** in verschiedenen Formaten (z.B. PDF, E-Book), die in der Navigation unter *Download* heruntergeladen werden. Außerdem können die Inhalte der Dokumentation über einen **Chatbot** genutzt werden.
 
-**Du darfst:**
-
-* **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
-* **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
-
-**Unter folgenden Bedingungen:**
-
-- **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
-- **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
+Der loscon 25 Un-Konferenzband wird unter der **Lizenz Creative Commons Namensnennung 4.0 International** ([CC BY](https://creativecommons.org/licenses/by/4.0/deed.de)) zur Verfügung gestellt. Der Inhalt kann und soll gerne weiter verwendet werden.
