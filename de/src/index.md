@@ -4,6 +4,6 @@ Die [lernOS Convention 2025](https://wiki.cogneon.de/loscon25) (loscon25, 1.-2. 
 
 ![](images/loscon25-badge.png)
 
-Für diese **Dokumentation** setzen wir **Künstliche Intelligenz** und die **lernOS Produktionskette** ein. Es entsteht diese **Website** und **Dokumente** in verschiedenen Formaten (z.B. PDF, E-Book), die in der Navigation unter *Download* heruntergeladen werden. Außerdem können die Inhalte der Dokumentation über einen **Chatbot** genutzt werden.
+Für diese **Dokumentation** setzen wir **Künstliche Intelligenz** und die **lernOS Produktionskette** ein. Es entsteht diese **Website** und **Dokumente** in verschiedenen Formaten (z.B. PDF, E-Book), die in der Navigation unter *Download* heruntergeladen werden. Außerdem können die Inhalte der Dokumentation über einen **Chatbot** genutzt werden. Dazu am besten unter Download die Markdown-Version herunterladen und in einem Chat z.B. im ChatGPT oder Microsoft Copilot hochladen.
 
 Der loscon 25 Un-Konferenzband wird unter der **Lizenz Creative Commons Namensnennung 4.0 International** ([CC BY](https://creativecommons.org/licenses/by/4.0/deed.de)) zur Verfügung gestellt. Der Inhalt kann und soll gerne weiter verwendet werden.
