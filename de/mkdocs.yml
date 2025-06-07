@@ -6,12 +6,41 @@ edit_uri: ''
 
 nav:
     - Startseite: index.md
-    - Impulsvorträge: 1-0-keynotes.md
-    - Lightning Talks: 2-0-lightning-talks.md
-    - Sessions & Workshops: 3-0-sessions-workshops.md
-    - Podcasts: 4-0-podcasts.md
-    - Teilgeber:innen: 5-0-participants.md
-    - Anhang: 6-0-appendix.md
+    - Impulsvorträge:
+      - Simon Dückert - Ni lernOS - Wenn wir nur wüssten, was wir wissen: 1-1.md
+      - Bettina Laugwitz - Mind the AI Safety Gap: 1-2.md
+    - Lightning Talks:
+      - Nele Hirsch - Modellierung als Mind-the-Knowledge-Gap-Ansatz bei der Interaktion mit KI-Sprachmodellen: 2-1.md
+      - Oliver Fischer - Selbstorganisation zum Anfassen – Was Teams wirklich stark macht: 2-2.md
+      - Viktoria Köstner - Mind the Knowledge Gap – are your lessons really learned?: 2-3.md
+      - Daniel Prial - KI - Überbrücken wir die Kommunikations-Gaps oder klingen wir alle wie Roboter?: 2-4.md
+      - Jan Bretschneider - Wissenslücken schließen durchs Lösen von Problemen: 2-5.md
+      - Felix Harling - Was Organisationen von Pilzen lernen können: 2-6.md
+      - Harald Schirmer - The Knowledge Gap in Management: 2-7.md
+      - William D. - You can never have enough gaps!: 2-11.md
+    - Sessions & Workshops:
+      - Marcel Kirchner, Thomas Schmidt - Never Prompt Alone! Erfahrungsbericht zum globalen Einsatz des lernOS KI-Leitfadens: 3-1-1.md
+      - Simon Qualmann, Simone Engelhard -  Der Working-Learning Gap – Zwischen Alltagsstress und Lernanspruch: 3-1-2.md
+      - NN - tbd.: 3-1-3.md
+      - NN - tbd.: 3-1-4.md
+      - Magnus Rode, Daniel Prial - The Human & Artificial Intelligence Gap – Impact der KI auf die (digitale) Zusammenarbeit: 3-2-1.md
+      - Oliver Fischer - Selbstorganisation sichtbar machen – Praxiserfahrungen mit dem 6K-Modell der LV 1871: 3-2-2.md
+      - NN - tbd.: 3-2-3.md
+      - NN - tbd.: 3-2-4.md
+      - Susann Schulz - Mind the Diversity Gap - Wie KI unsere blinden Flecken re(pro)duziert: 3-3-1.md
+      - Martin Harnisch - Enterprise Wikis - Warum alle alles lesen und bearbeiten können sollten: 3-3-2.md
+      - NN - tbd.: 3-3-3.md
+      - NN - tbd.: 3-3-4.md
+      - Björn Schotte - Der große Technologie-Struktur-Gap - Warum KI nicht an Technologie, sondern an Strukturen scheitert: 3-4-1.md
+      - Andreas Trebing, Felix Harling - The Second Brain Gap - Sammelst du noch oder denkst du schon?: 3-4-2.md
+      - NN - tbd.: 3-4-3.md
+      - NN - tbd.: 3-4-4.md
+    - Podcasts:
+      - Silvia Roderus - Expert Debriefing unplugged - Wissen strukturiert bewahren und weitergeben: 4-1.md
+      - Gabriele Schobess, Katharina Nolden - lernOS für gesellschaftliches Engagement und Beteiligung: 4-2.md
+      - NN - tbd.: 4-3.md
+      - NN - tbd.: 4-4.md
+    - Anhang: 5-0-appendix.md
     - Download:
       - PDF-Version: https://github.com/cogneon/loscon25doku/blob/master/de/build/loscon-Documentation-de.pdf
       - Word-Version: https://github.com/cogneon/loscon25doku/blob/master/de/build/loscon-Documentation-de.docx
@@ -63,5 +92,3 @@ markdown_extensions:
 
 plugins:
   - search
-  - rss:
-      abstract_chars_count: -1  # -1 for full content
