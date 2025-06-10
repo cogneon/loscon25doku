@@ -1,3 +1,0 @@
-# Anhang
-
-Doku des Ansatzes ...
