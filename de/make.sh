@@ -37,7 +37,7 @@ mogrify -crop 1563x2500+102+0 ebook-cover.jpg
 pandoc metadata.yaml -s --resource-path="./src" --epub-cover-image=ebook-cover.jpg -N --toc -V lang=de-de -o $filename.epub $chapters
 
 # Create Markdown Version (one file)
-pandoc metadata.yaml -s --resource-path="./src" -N --toc -V lang=de-de -o $filename.md $chapters
+pandoc metadata.yaml -s --resource-path="./src" -N -V lang=de-de -o $filename.md $chapters
 
 # Remove Unnecessary Files
 # rm mermaid-filter.err

@@ -12,6 +12,11 @@ nav:
 #    - Lightning Talks:
 #    - Sessions und  Workshops:
 #   - Podcasts:
+    - Download:
+      - Word-Version: https://github.com/cogneon/loscon25doku/blob/main/de/build/loscon-guide.docx
+      - HTML-Version: https://github.com/cogneon/loscon25doku/blob/main/de/build/loscon-guide.html
+      - Markdown: https://github.com/cogneon/loscon25doku/blob/main/de/build/loscon-guide.md
+
 
 
 theme:
