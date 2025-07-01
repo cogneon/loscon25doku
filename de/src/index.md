@@ -1,14 +1,11 @@
 # Willkommen 
 
-Das [SAP Learning and Adoption Forum 2025](https://community.sap.com/t5/sap-training-and-change-management/sap-learning-and-adoption-forum-2025-save-the-date/ba-p/14048737) fand am 25. Juni 2025 in Walldorf statt. Die Inhalte dieser Dokumentation stammen aus den Aufzeichnungen der Lightning Talks, Knowledge Cafes und Workshops.
+![](./images/loscon25-key-visual-banner.png)
+
+Die [lernOS Convention 2025](https://community.sap.com/t5/sap-training-and-change-management/sap-learning-and-adoption-forum-2025-save-the-date/ba-p/14048737) findet vom 1.-2. Juli 2025 in Nürnberg, an drei Satelliten Lokationen (München, Hamburg, Berlin) und Online statt. Die Inhalte dieser Dokumentation stammen aus den Aufzeichnungen der Impulsvorträge, Lightning Talks, Sessions, Workshops und Podcasts.
 
 !!! note "Hinweis"
-    Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen 😉
-
-*Offen: wer steht im Impressum? Unter welcher Lizenz stehen die Inhalte?*
-
-![](https://community.sap.com/t5/image/serverpage/image-id/239155iA5FD44DFCBCAB58F/image-size/large?v=v2&px=999)
-
+    Mit der Dokumentation könnt ihr sogar [mit diesem Chatbot](https://chatgpt.com/g/g-685e35df934c8191bdfbd56cd136038b-loscon25-doku-bot) (CustomGPT, Modell GPT-4o) "reden" ... das funktioniert sogar in natürlicher Sprache mit dem Voice Mode. Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen 😉
 
 # Workflow der KI-generierten Zusammenfassung
 Um die KI-basierte Dokumentation den Teilnehmenden schon während der Veranstaltung bereitstellen zu können, wurde die Auswertung und Bereitstellnug der Inhalte weitgehend automatisiert:

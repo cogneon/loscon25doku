@@ -10,6 +10,6 @@ lof: false
 toc: true
 toc-own-page: true
 toc-depth: 3
-titlepage-logo: ./src/images/loscon25-key-visual.png
+titlepage-logo: src/images/loscon25-key-visual.png
 logo-width: 100mm
 ---

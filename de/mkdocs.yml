@@ -1,37 +1,24 @@
-site_name: SAP Learning & Adoption Forum 2025
-#site_url: https://ai.lernos.org/de
+site_name: lernOS Convention 2025 Dokumentation
+site_url: https://cogneon.github.io/loscon25doku/de/
 docs_dir: src
 site_dir: ./docs/de
 edit_uri: ''
 
 nav:
     - Willkommen: index.md
-    - Lightning Talks:
-      - Timo Deiner - NAppet-ai-te for disruption: 1-1.md
-      - Jochen Robes - Trends in Corporate Learning - mehr als KI!: 1-2.md
-      - Eva Stock - Superkräfte bei Mitarbeitenden - Was ist wichtig aus HR und People Sicht?: 1-3.md
-    - Knowledge Cafes:
-      - Frédéric Heinemann - Collaborative Learning im SAP-Ecosystem - Key-User als Mentoren der Zukunft: 2-1.md
-      - Bernhard Rupp - 12 Freunde müsst ihr sein: 2-2.md
-      - Florence Streif - Weichenstellung fürs digitale Zeitalter - Zwischen Bahnhof und Besprechungsraum: 2-3.md
-      - Moritz Huber - KI im Lern-Lifecycle - PoC für KI-gestütztes Anwenderlernen: 2-4.md
-      - Mike Fritz - SAP Enable Now trifft auf WalkMe und die SAP Integrated Toolchain: 2-5.md
-      - Patrick Fueldner - Von der Einführung zur Skalierung - Nestlés Digital Adoption-Strategie mit WalkMe: 2-6.md
-      - Katja Sommerer - Big Bang - 40 Länder, 800 neue Mitarbeitende - Herausforderungen des Trainings in einem M+A-Projekt: 2-7.md
-      - Andrea Flöth - HR neu gedacht - BARMERs digitale Evolution mit Hilfe von SAP Preferred Success: 2-8.md
-      - Mareike Muth - Übersetzer der Moderne - Das Learning Team als Katalysator zwischen Fachbereich und Enduser: 2-9.md
-      - Simon Dückert - State of GenAI - was in meiner Wissensarbeit wirklich, wirklich funktioniert: 2-10.md
-    - Hands-on Workshops:
-      - Promptathon: 3-1.md
-      - Discovery Workshop AI UseCases im Learning: 3-2.md
-      -  Good Practices & Lessons Learned SAP S/4HANA Transformationen: 3-3.md
+    - Impulsvorträge:
+      - Simon Dückert - Ni lernOS - Wenn wir nur wüssten, was wir wissen: 1-1.md
+      - Bettina Laugwitz - Mind the AI Safety Gap: 1-2.md
+#    - Lightning Talks:
+#    - Sessions und  Workshops:
+#   - Podcasts:
 
 
 theme:
     name: 'material'
 #    custom_dir: src/overrides
     palette:
-        primary: blue
+        primary: black
     language: de
     icon:
       logo: material/home
@@ -43,8 +30,8 @@ theme:
 #extra_css:
 #  - stylesheets/extra.css
 
-#repo_name: 'cogneon/lernos-ai'
-#repo_url: 'https://github.com/cogneon/lernos-ai'
+repo_name: 'cogneon/loscon25doku'
+repo_url: 'https://github.com/cogneon/loscon25doku'
 
 extra:
     social:
