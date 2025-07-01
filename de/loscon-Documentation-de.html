@@ -166,6 +166,71 @@
       vertical-align: middle;
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      {   }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+    code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+    code span.at { color: #7d9029; } /* Attribute */
+    code span.bn { color: #40a070; } /* BaseN */
+    code span.bu { color: #008000; } /* BuiltIn */
+    code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #4070a0; } /* Char */
+    code span.cn { color: #880000; } /* Constant */
+    code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+    code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+    code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+    code span.dt { color: #902000; } /* DataType */
+    code span.dv { color: #40a070; } /* DecVal */
+    code span.er { color: #ff0000; font-weight: bold; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #40a070; } /* Float */
+    code span.fu { color: #06287e; } /* Function */
+    code span.im { color: #008000; font-weight: bold; } /* Import */
+    code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+    code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+    code span.op { color: #666666; } /* Operator */
+    code span.ot { color: #007020; } /* Other */
+    code span.pp { color: #bc7a00; } /* Preprocessor */
+    code span.sc { color: #4070a0; } /* SpecialChar */
+    code span.ss { color: #bb6688; } /* SpecialString */
+    code span.st { color: #4070a0; } /* String */
+    code span.va { color: #19177c; } /* Variable */
+    code span.vs { color: #4070a0; } /* VerbatimString */
+    code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
   </style>
 </head>
 <body>
@@ -177,193 +242,199 @@
 <nav id="TOC" role="doc-toc">
 <ul>
 <li><a href="#willkommen" id="toc-willkommen"><span
-class="toc-section-number">1</span> Willkommen</a></li>
+class="toc-section-number">1</span> Willkommen</a>
+<ul>
 <li><a href="#workflow-der-ki-generierten-zusammenfassung"
 id="toc-workflow-der-ki-generierten-zusammenfassung"><span
-class="toc-section-number">2</span> Workflow der KI-generierten
+class="toc-section-number">1.1</span> Workflow der KI-generierten
 Zusammenfassung</a></li>
+<li><a href="#loscon25-summarizer-prompt"
+id="toc-loscon25-summarizer-prompt"><span
+class="toc-section-number">1.2</span> loscon25 Summarizer
+Prompt</a></li>
+</ul></li>
 <li><a href="#impulsvorträge" id="toc-impulsvorträge"><span
-class="toc-section-number">3</span> Impulsvorträge</a>
+class="toc-section-number">2</span> Impulsvorträge</a>
 <ul>
 <li><a
 href="#simon-dückert-ni-lernos---wenn-wir-nur-wüssten-was-wir-wissen-sollten"
 id="toc-simon-dückert-ni-lernos---wenn-wir-nur-wüssten-was-wir-wissen-sollten"><span
-class="toc-section-number">3.1</span> Simon Dückert: Ni lernOS - Wenn
+class="toc-section-number">2.1</span> Simon Dückert: Ni lernOS - Wenn
 wir nur wüssten, was wir wissen (sollten)</a></li>
 </ul></li>
 <li><a href="#lernos---wenn-wir-nur-wüssten-was-wir-wissen-sollten"
 id="toc-lernos---wenn-wir-nur-wüssten-was-wir-wissen-sollten"><span
-class="toc-section-number">4</span> lernOS - Wenn wir nur wüssten, was
+class="toc-section-number">3</span> lernOS - Wenn wir nur wüssten, was
 wir wissen (sollten)</a>
 <ul>
 <li><a href="#kurze-zusammenfassung-des-vortrags"
 id="toc-kurze-zusammenfassung-des-vortrags"><span
-class="toc-section-number">4.0.1</span> Kurze Zusammenfassung des
+class="toc-section-number">3.0.1</span> Kurze Zusammenfassung des
 Vortrags</a></li>
 <li><a href="#gliederung-und-aufbau-des-vortrags"
 id="toc-gliederung-und-aufbau-des-vortrags"><span
-class="toc-section-number">4.0.2</span> Gliederung und Aufbau des
+class="toc-section-number">3.0.2</span> Gliederung und Aufbau des
 Vortrags</a></li>
 <li><a href="#die-vier-prinzipien-von-ethan-mollick"
 id="toc-die-vier-prinzipien-von-ethan-mollick"><span
-class="toc-section-number">4.0.3</span> Die vier Prinzipien von Ethan
+class="toc-section-number">3.0.3</span> Die vier Prinzipien von Ethan
 Mollick</a></li>
 <li><a href="#das-problem-der-wissenslücken-in-organisationen"
 id="toc-das-problem-der-wissenslücken-in-organisationen"><span
-class="toc-section-number">4.0.4</span> Das Problem der Wissenslücken in
+class="toc-section-number">3.0.4</span> Das Problem der Wissenslücken in
 Organisationen</a></li>
 <li><a href="#ki-als-einstein-in-der-hosentasche"
 id="toc-ki-als-einstein-in-der-hosentasche"><span
-class="toc-section-number">4.0.5</span> KI als “Einstein in der
+class="toc-section-number">3.0.5</span> KI als “Einstein in der
 Hosentasche”</a></li>
 <li><a href="#die-future-backwards-methode-mit-ki"
 id="toc-die-future-backwards-methode-mit-ki"><span
-class="toc-section-number">4.0.6</span> Die Future Backwards-Methode mit
+class="toc-section-number">3.0.6</span> Die Future Backwards-Methode mit
 KI</a></li>
 <li><a href="#technologische-zukunft-agenten-und-mcp"
 id="toc-technologische-zukunft-agenten-und-mcp"><span
-class="toc-section-number">4.0.7</span> Technologische Zukunft: Agenten
+class="toc-section-number">3.0.7</span> Technologische Zukunft: Agenten
 und MCP</a></li>
 <li><a href="#praktische-umsetzung-und-personal-context-files"
 id="toc-praktische-umsetzung-und-personal-context-files"><span
-class="toc-section-number">4.0.8</span> Praktische Umsetzung und
+class="toc-section-number">3.0.8</span> Praktische Umsetzung und
 Personal Context Files</a></li>
 <li><a href="#handlungsempfehlungen-und-call-to-actions"
 id="toc-handlungsempfehlungen-und-call-to-actions"><span
-class="toc-section-number">4.0.9</span> Handlungsempfehlungen und Call
+class="toc-section-number">3.0.9</span> Handlungsempfehlungen und Call
 to Actions</a></li>
 <li><a href="#fazit" id="toc-fazit"><span
-class="toc-section-number">4.0.10</span> Fazit</a></li>
+class="toc-section-number">3.0.10</span> Fazit</a></li>
 <li><a href="#bettina-laugwitz---mind-the-ai-safety-gap"
 id="toc-bettina-laugwitz---mind-the-ai-safety-gap"><span
-class="toc-section-number">4.1</span> Bettina Laugwitz - Mind the AI
+class="toc-section-number">3.1</span> Bettina Laugwitz - Mind the AI
 Safety Gap</a></li>
 </ul></li>
 <li><a
 href="#mind-the-ai-safety-gap---ki-sicherheit-und-ethik-in-der-praxis"
 id="toc-mind-the-ai-safety-gap---ki-sicherheit-und-ethik-in-der-praxis"><span
-class="toc-section-number">5</span> Mind the AI Safety Gap -
+class="toc-section-number">4</span> Mind the AI Safety Gap -
 KI-Sicherheit und Ethik in der Praxis</a>
 <ul>
 <li><a href="#kurze-zusammenfassung"
 id="toc-kurze-zusammenfassung"><span
-class="toc-section-number">5.1</span> Kurze Zusammenfassung</a></li>
+class="toc-section-number">4.1</span> Kurze Zusammenfassung</a></li>
 <li><a href="#gliederung-und-aufbau-des-vortrags-1"
 id="toc-gliederung-und-aufbau-des-vortrags-1"><span
-class="toc-section-number">5.2</span> Gliederung und Aufbau des
+class="toc-section-number">4.2</span> Gliederung und Aufbau des
 Vortrags</a>
 <ul>
 <li><a href="#was-ist-ki-sicherheit-und-ai-safety"
 id="toc-was-ist-ki-sicherheit-und-ai-safety"><span
-class="toc-section-number">5.2.1</span> Was ist KI-Sicherheit und AI
+class="toc-section-number">4.2.1</span> Was ist KI-Sicherheit und AI
 Safety?</a></li>
 <li><a href="#kategorisierung-von-ki-systemen"
 id="toc-kategorisierung-von-ki-systemen"><span
-class="toc-section-number">5.2.2</span> Kategorisierung von
+class="toc-section-number">4.2.2</span> Kategorisierung von
 KI-Systemen</a></li>
 <li><a href="#warum-ki-sicherheit-jetzt-wichtig-ist"
 id="toc-warum-ki-sicherheit-jetzt-wichtig-ist"><span
-class="toc-section-number">5.2.3</span> Warum KI-Sicherheit jetzt
+class="toc-section-number">4.2.3</span> Warum KI-Sicherheit jetzt
 wichtig ist</a></li>
 <li><a href="#saps-responsible-ai-framework"
 id="toc-saps-responsible-ai-framework"><span
-class="toc-section-number">5.2.4</span> SAPs Responsible AI
+class="toc-section-number">4.2.4</span> SAPs Responsible AI
 Framework</a></li>
 <li><a href="#organisatorische-umsetzung-bei-sap"
 id="toc-organisatorische-umsetzung-bei-sap"><span
-class="toc-section-number">5.2.5</span> Organisatorische Umsetzung bei
+class="toc-section-number">4.2.5</span> Organisatorische Umsetzung bei
 SAP</a></li>
 <li><a href="#drei-kernanforderungen-ethischer-ki"
 id="toc-drei-kernanforderungen-ethischer-ki"><span
-class="toc-section-number">5.2.6</span> Drei Kernanforderungen ethischer
+class="toc-section-number">4.2.6</span> Drei Kernanforderungen ethischer
 KI</a></li>
 <li><a href="#handlungsempfehlungen-und-call-to-actions-1"
 id="toc-handlungsempfehlungen-und-call-to-actions-1"><span
-class="toc-section-number">5.2.7</span> Handlungsempfehlungen und Call
+class="toc-section-number">4.2.7</span> Handlungsempfehlungen und Call
 to Actions</a></li>
 <li><a href="#historische-parallelen-und-zukunftsperspektiven"
 id="toc-historische-parallelen-und-zukunftsperspektiven"><span
-class="toc-section-number">5.2.8</span> Historische Parallelen und
+class="toc-section-number">4.2.8</span> Historische Parallelen und
 Zukunftsperspektiven</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#lightning-talks" id="toc-lightning-talks"><span
-class="toc-section-number">6</span> Lightning Talks</a>
+class="toc-section-number">5</span> Lightning Talks</a>
 <ul>
 <li><a
 href="#frédéric-heinemann---collaborative-learning-im-sap-ecosystem---key-user-als-mentoren-der-zukunft"
 id="toc-frédéric-heinemann---collaborative-learning-im-sap-ecosystem---key-user-als-mentoren-der-zukunft"><span
-class="toc-section-number">6.1</span> Frédéric Heinemann - Collaborative
+class="toc-section-number">5.1</span> Frédéric Heinemann - Collaborative
 Learning im SAP-Ecosystem - Key-User als Mentoren der Zukunft</a></li>
 <li><a
 href="#simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert"
 id="toc-simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert"><span
-class="toc-section-number">6.2</span> Simon Dückert - State of GenAI -
+class="toc-section-number">5.2</span> Simon Dückert - State of GenAI -
 was in meiner Wissensarbeit wirklich, wirklich funktioniert</a></li>
 <li><a href="#bernhard-rupp---12-freunde-müsst-ihr-sein"
 id="toc-bernhard-rupp---12-freunde-müsst-ihr-sein"><span
-class="toc-section-number">6.3</span> Bernhard Rupp - 12 Freunde müsst
+class="toc-section-number">5.3</span> Bernhard Rupp - 12 Freunde müsst
 ihr sein</a></li>
 <li><a
 href="#florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum"
 id="toc-florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum"><span
-class="toc-section-number">6.4</span> Florence Streif - Weichenstellung
+class="toc-section-number">5.4</span> Florence Streif - Weichenstellung
 fürs digitale Zeitalter - Zwischen Bahnhof und Besprechungsraum</a></li>
 <li><a
 href="#moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen"
 id="toc-moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen"><span
-class="toc-section-number">6.5</span> Moritz Huber - KI im
+class="toc-section-number">5.5</span> Moritz Huber - KI im
 Lern-Lifecycle - PoC für KI-gestütztes Anwenderlernen</a></li>
 <li><a
 href="#mike-fritz---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain"
 id="toc-mike-fritz---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain"><span
-class="toc-section-number">6.6</span> Mike Fritz - SAP Enable Now trifft
+class="toc-section-number">5.6</span> Mike Fritz - SAP Enable Now trifft
 auf WalkMe und die SAP Integrated Toolchain</a></li>
 <li><a
 href="#patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme"
 id="toc-patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme"><span
-class="toc-section-number">6.7</span> Patrick Fueldner - Von der
+class="toc-section-number">5.7</span> Patrick Fueldner - Von der
 Einführung zur Skalierung - Nestlés Digital Adoption-Strategie mit
 WalkMe</a></li>
 <li><a
 href="#katja-sommerer---big-bang---40-länder-800-neue-mitarbeitende---herausforderungen-des-trainings-in-einem-ma-projekt"
 id="toc-katja-sommerer---big-bang---40-länder-800-neue-mitarbeitende---herausforderungen-des-trainings-in-einem-ma-projekt"><span
-class="toc-section-number">6.8</span> Katja Sommerer - Big Bang - 40
+class="toc-section-number">5.8</span> Katja Sommerer - Big Bang - 40
 Länder, 800 neue Mitarbeitende - Herausforderungen des Trainings in
 einem M+A-Projekt</a></li>
 <li><a
 href="#andrea-flöth---hr-neu-gedacht---barmers-digitale-evolution-mit-hilfe-von-sap-preferred-success"
 id="toc-andrea-flöth---hr-neu-gedacht---barmers-digitale-evolution-mit-hilfe-von-sap-preferred-success"><span
-class="toc-section-number">6.9</span> Andrea Flöth - HR neu gedacht -
+class="toc-section-number">5.9</span> Andrea Flöth - HR neu gedacht -
 BARMERs digitale Evolution mit Hilfe von SAP Preferred Success</a></li>
 <li><a
 href="#mareike-muth---übersetzer-der-moderne---das-learning-team-als-katalysator-zwischen-fachbereich-und-enduser"
 id="toc-mareike-muth---übersetzer-der-moderne---das-learning-team-als-katalysator-zwischen-fachbereich-und-enduser"><span
-class="toc-section-number">6.10</span> Mareike Muth - Übersetzer der
+class="toc-section-number">5.10</span> Mareike Muth - Übersetzer der
 Moderne - Das Learning Team als Katalysator zwischen Fachbereich und
 Enduser</a></li>
 </ul></li>
 <li><a href="#sessions-workshops" id="toc-sessions-workshops"><span
-class="toc-section-number">7</span> Sessions &amp; Workshops</a>
+class="toc-section-number">6</span> Sessions &amp; Workshops</a>
 <ul>
 <li><a href="#promptathon" id="toc-promptathon"><span
-class="toc-section-number">7.1</span> Promptathon</a></li>
+class="toc-section-number">6.1</span> Promptathon</a></li>
 <li><a href="#discovery-workshop-ai-usecases-im-learning"
 id="toc-discovery-workshop-ai-usecases-im-learning"><span
-class="toc-section-number">7.2</span> Discovery Workshop AI UseCases im
+class="toc-section-number">6.2</span> Discovery Workshop AI UseCases im
 Learning</a></li>
 <li><a
 href="#good-practices-lessons-learned-sap-s4hana-transformationen"
 id="toc-good-practices-lessons-learned-sap-s4hana-transformationen"><span
-class="toc-section-number">7.3</span> Good Practices &amp; Lessons
+class="toc-section-number">6.3</span> Good Practices &amp; Lessons
 Learned SAP S/4HANA Transformationen</a></li>
 </ul></li>
 <li><a href="#anhang" id="toc-anhang"><span
-class="toc-section-number">8</span> Anhang</a>
+class="toc-section-number">7</span> Anhang</a>
 <ul>
 <li><a href="#dokumentation-der-ki-basierten-dokumentation"
 id="toc-dokumentation-der-ki-basierten-dokumentation"><span
-class="toc-section-number">8.1</span> Dokumentation der KI-basierten
+class="toc-section-number">7.1</span> Dokumentation der KI-basierten
 Dokumentation</a></li>
 </ul></li>
 </ul>
@@ -383,10 +454,10 @@ diesem Chatbot</a> (CustomGPT, Modell GPT-4o) “reden” … das funktioniert
 sogar in natürlicher Sprache mit dem Voice Mode. Die KI-generierten
 Zusammenfassungen wurden <strong>NICHT</strong> nachberarbeitet. Die KI
 kann Fehler machen 😉</p>
-<h1 data-number="2"
+<h2 data-number="1.1"
 id="workflow-der-ki-generierten-zusammenfassung"><span
-class="header-section-number">2</span> Workflow der KI-generierten
-Zusammenfassung</h1>
+class="header-section-number">1.1</span> Workflow der KI-generierten
+Zusammenfassung</h2>
 <p>Um die KI-basierte Dokumentation den Teilnehmenden schon während der
 Veranstaltung bereitstellen zu können, wurde die Auswertung und
 Bereitstellnug der Inhalte weitgehend automatisiert:</p>
@@ -430,11 +501,33 @@ href="https://chatboxai.app/">Chatbox</a>, <a
 href="https://www.nomic.ai/gpt4all">GPT4All</a>, <a
 href="https://openwebui.com/">Open WebUI</a>) zu verwenden.</li>
 </ol>
-<h1 data-number="3" id="impulsvorträge"><span
-class="header-section-number">3</span> Impulsvorträge</h1>
-<h2 data-number="3.1"
+<h2 data-number="1.2" id="loscon25-summarizer-prompt"><span
+class="header-section-number">1.2</span> loscon25 Summarizer Prompt</h2>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode markdown"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>Du bist mein Assistent der Vorträge von Veranstaltungen zusammenfasst. Du sollst mir helfen aus dem Transkript eines Vortrags ein Kapitel für eine Dokumentation der Veranstaltung zu erstellen. Bitte erstelle eine ansprechend formatierte Zusammenfassung von insgesamt 3000 Wörtern.  </span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>Dabei sollten folgende Punkte berücksichtigt werden: </span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Kurze Zusammenfassung des Vortrags in wenigen Sätzen </span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Die Gliederung und der Aufbau des Vortrags </span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Nenne Kernaussagen und verwende dazu nach Möglichkeit die Formulierung im Vortrag </span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Beschreibe alle Kernaussagen in jeweils einem eigenen Kapitel</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Handlungsempfehlungen (Call to Actions, Aufrufe, Bitten), die im Verlauf des Vortrags hervorgehoben wurden </span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="fu"># Regeln:</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Die Zusammenfassung sollte in klarer, prägnanter Sprache verfasst und in gut lesbare Abschnitte unterteilt sein.</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Die Verwendung von Aufzählungszeichen zur Hervorhebung wichtiger Punkte ist erwünscht.</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Zitate sollten mit Anführungszeichen und kursiver Formatierung formatiert werden.</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Aufzählungen sollen mit einem Spiegelstrich &quot;- ...&quot; beginnen. Zwischen Spiegelstrichen darf KEINE Leerzeile sein</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Formatiere das Ergebnis mit maximal zwei Überschriftsebenen und Ebene 3 (###) als oberster Ebene.</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Formatiere die Dokumentation im Markdown Format zum Kopieren</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>Frage mich zuerst nach dem Transkript und bearbeite dies dann mit diesen Anweisungen.</span></code></pre></div>
+<h1 data-number="2" id="impulsvorträge"><span
+class="header-section-number">2</span> Impulsvorträge</h1>
+<h2 data-number="2.1"
 id="simon-dückert-ni-lernos---wenn-wir-nur-wüssten-was-wir-wissen-sollten"><span
-class="header-section-number">3.1</span> Simon Dückert: Ni lernOS - Wenn
+class="header-section-number">2.1</span> Simon Dückert: Ni lernOS - Wenn
 wir nur wüssten, was wir wissen (sollten)</h2>
 <blockquote>
 <p>Gerade in turbulenten Zeiten wie unseren ist das strategische
@@ -447,12 +540,12 @@ Dieser Impuls gibt einen kompakten Überblick wie der Werkzeugkasten des
 Wissensmanagement und lernOS Individuen, Teams und Organisationen bei
 diesem Kraftakt helfen kann.</p>
 </blockquote>
-<h1 data-number="4"
+<h1 data-number="3"
 id="lernos---wenn-wir-nur-wüssten-was-wir-wissen-sollten"><span
-class="header-section-number">4</span> lernOS - Wenn wir nur wüssten,
+class="header-section-number">3</span> lernOS - Wenn wir nur wüssten,
 was wir wissen (sollten)</h1>
-<h3 data-number="4.0.1" id="kurze-zusammenfassung-des-vortrags"><span
-class="header-section-number">4.0.1</span> Kurze Zusammenfassung des
+<h3 data-number="3.0.1" id="kurze-zusammenfassung-des-vortrags"><span
+class="header-section-number">3.0.1</span> Kurze Zusammenfassung des
 Vortrags</h3>
 <p>Simon Dückert präsentiert einen innovativen Ansatz zum
 Wissensmanagement durch den praktischen Einsatz von KI-Tools. Er
@@ -463,8 +556,8 @@ Organisationen ihre Wissenslücken identifizieren und schließen können.
 Der Vortrag verdeutlicht die Diskrepanz zwischen der rasanten
 technologischen Entwicklung und den noch immer hierarchischen
 Organisationsstrukturen des 20. Jahrhunderts.</p>
-<h3 data-number="4.0.2" id="gliederung-und-aufbau-des-vortrags"><span
-class="header-section-number">4.0.2</span> Gliederung und Aufbau des
+<h3 data-number="3.0.2" id="gliederung-und-aufbau-des-vortrags"><span
+class="header-section-number">3.0.2</span> Gliederung und Aufbau des
 Vortrags</h3>
 <p>Der Vortrag gliedert sich in mehrere aufeinander aufbauende
 Abschnitte:</p>
@@ -481,11 +574,11 @@ und Anti-Vision für Wissensmanagement</p>
 <p><strong>4. Ausblick auf zukünftige Entwicklungen</strong> -
 KI-Agenten und Model Context Protocol (MCP) - Integration von KI in
 bestehende Systeme</p>
-<h3 data-number="4.0.3" id="die-vier-prinzipien-von-ethan-mollick"><span
-class="header-section-number">4.0.3</span> Die vier Prinzipien von Ethan
+<h3 data-number="3.0.3" id="die-vier-prinzipien-von-ethan-mollick"><span
+class="header-section-number">3.0.3</span> Die vier Prinzipien von Ethan
 Mollick</h3>
-<h4 data-number="4.0.3.1" id="always-put-ai-at-the-table"><span
-class="header-section-number">4.0.3.1</span> Always put AI at the
+<h4 data-number="3.0.3.1" id="always-put-ai-at-the-table"><span
+class="header-section-number">3.0.3.1</span> Always put AI at the
 table</h4>
 <p><em>“Bei allem, was wir machen, die KI mit an den Tisch zu
 setzen”</em> - dieses erste Prinzip bildet die Grundlage für Simons
@@ -497,9 +590,9 @@ Claude (Anthropic’s KI) in den Vortrag. Simon lädt sein Personal Context
 File hoch und arbeitet in Echtzeit mit der KI zusammen, um strategische
 Fragestellungen zu durchdenken. Dies verdeutlicht, wie KI von einem
 passiven Tool zu einem aktiven Arbeitspartner werden kann.</p>
-<h4 data-number="4.0.3.2"
+<h4 data-number="3.0.3.2"
 id="human-in-the-loop---always-put-the-human-in-the-loop"><span
-class="header-section-number">4.0.3.2</span> Human in the Loop - Always
+class="header-section-number">3.0.3.2</span> Human in the Loop - Always
 put the human in the loop</h4>
 <p>Das zweite Prinzip betont die unverzichtbare Rolle menschlicher
 Expertise: <em>“Bei dem, was rauskommt, vielleicht habt ihr die
@@ -512,8 +605,8 @@ Einordnung der KI-Outputs. Er nutzt sein Fachwissen, um die Qualität und
 Relevanz der generierten Inhalte zu beurteilen und zeigt auf, wie
 wichtig die menschliche Validierung bleibt, auch wenn KI-Systeme immer
 ausgefeilter werden.</p>
-<h4 data-number="4.0.3.3" id="anthropomorphismus-mit-bewusstsein"><span
-class="header-section-number">4.0.3.3</span> Anthropomorphismus mit
+<h4 data-number="3.0.3.3" id="anthropomorphismus-mit-bewusstsein"><span
+class="header-section-number">3.0.3.3</span> Anthropomorphismus mit
 Bewusstsein</h4>
 <p>Das dritte Prinzip lautet: <em>“Rede mit der KI, als ob es ein Mensch
 wäre. Anthropomorphismus, aber in Klammern, sei dir aber immer bewusst,
@@ -527,13 +620,13 @@ denkt überhaupt nichts.”</em></p>
 <p>Diese Klarstellung ist besonders wichtig, da sie hilft, realistische
 Erwartungen an KI-Systeme zu entwickeln und deren Grenzen zu
 verstehen.</p>
-<h3 data-number="4.0.4"
+<h3 data-number="3.0.4"
 id="das-problem-der-wissenslücken-in-organisationen"><span
-class="header-section-number">4.0.4</span> Das Problem der Wissenslücken
+class="header-section-number">3.0.4</span> Das Problem der Wissenslücken
 in Organisationen</h3>
-<h4 data-number="4.0.4.1"
+<h4 data-number="3.0.4.1"
 id="strukturelle-defizite-im-deutschen-wirtschaftssystem"><span
-class="header-section-number">4.0.4.1</span> Strukturelle Defizite im
+class="header-section-number">3.0.4.1</span> Strukturelle Defizite im
 deutschen Wirtschaftssystem</h4>
 <p>Simon identifiziert ein fundamentales Problem: <em>“Wir als Land, was
 eigentlich nur Wissen und Ideen als Ressource hat, wir sitzen nicht auf
@@ -546,9 +639,9 @@ Wissensgesellschaft und den noch immer vorherrschenden
 industriezeitalterlichen Organisationsformen auf. Deutschland als
 ressourcenarmes Land ist besonders auf effektives Wissensmanagement
 angewiesen, nutzt aber seine Potentiale nicht optimal.</p>
-<h4 data-number="4.0.4.2"
+<h4 data-number="3.0.4.2"
 id="mangelnde-verankerung-von-wissensmanagement"><span
-class="header-section-number">4.0.4.2</span> Mangelnde Verankerung von
+class="header-section-number">3.0.4.2</span> Mangelnde Verankerung von
 Wissensmanagement</h4>
 <p>Ein zentrales Problem sieht Simon in der unzureichenden
 institutionellen Verankerung: <em>“Das Thema Wissensmanagement aus
@@ -562,11 +655,11 @@ bonusrelevant. Es gibt keine Abteilung oder Stabsstelle.”</em></p>
 <p>Diese Beobachtung verdeutlicht, dass Wissensmanagement oft als
 Nebenaktivität behandelt wird, anstatt als strategische Kernfunktion der
 Organisation.</p>
-<h3 data-number="4.0.5" id="ki-als-einstein-in-der-hosentasche"><span
-class="header-section-number">4.0.5</span> KI als “Einstein in der
+<h3 data-number="3.0.5" id="ki-als-einstein-in-der-hosentasche"><span
+class="header-section-number">3.0.5</span> KI als “Einstein in der
 Hosentasche”</h3>
-<h4 data-number="4.0.5.1" id="zugang-zu-weltwissen"><span
-class="header-section-number">4.0.5.1</span> Zugang zu Weltwissen</h4>
+<h4 data-number="3.0.5.1" id="zugang-zu-weltwissen"><span
+class="header-section-number">3.0.5.1</span> Zugang zu Weltwissen</h4>
 <p>Simon verwendet eine einprägsame Metaphor: <em>“Das, was ihr kriegt
 mit so einem LLM ist, ihr kriegt den kleinen Einstein in der
 Hosentasche, der ganz fleißig das ganze Internet durchgelesen hat. Und
@@ -577,9 +670,9 @@ Wissenslücken zu schließen.”</em></p>
 von Large Language Models liegt. Sie bieten Zugang zu einem enormen
 Wissensschatz, der weit über das hinausgeht, was einzelne Berater oder
 Experten liefern können.</p>
-<h4 data-number="4.0.5.2"
+<h4 data-number="3.0.5.2"
 id="überlegenheit-gegenüber-traditioneller-beratung"><span
-class="header-section-number">4.0.5.2</span> Überlegenheit gegenüber
+class="header-section-number">3.0.5.2</span> Überlegenheit gegenüber
 traditioneller Beratung</h4>
 <p>Die Vorteile werden konkret benannt: <em>“Und das ist viel, viel
 mehr, als wenn ihr ein oder fünf oder zehn Berater zu einem Thema
@@ -588,12 +681,12 @@ Fingerspitzen.”</em></p>
 <p>Diese Aussage positioniert KI nicht als Ersatz für menschliche
 Expertise, sondern als Ergänzung, die einen viel breiteren
 Wissenshorizont eröffnet.</p>
-<h3 data-number="4.0.6" id="die-future-backwards-methode-mit-ki"><span
-class="header-section-number">4.0.6</span> Die Future Backwards-Methode
+<h3 data-number="3.0.6" id="die-future-backwards-methode-mit-ki"><span
+class="header-section-number">3.0.6</span> Die Future Backwards-Methode
 mit KI</h3>
-<h4 data-number="4.0.6.1"
+<h4 data-number="3.0.6.1"
 id="rückblick-entwicklung-der-letzten-20-jahre"><span
-class="header-section-number">4.0.6.1</span> Rückblick: Entwicklung der
+class="header-section-number">3.0.6.1</span> Rückblick: Entwicklung der
 letzten 20 Jahre</h4>
 <p>Simon demonstriert, wie KI bei der historischen Analyse helfen kann:
 <em>“Und das ist was, was LLMs super können. Die sind auf dem ganzen
@@ -605,8 +698,8 @@ aussehen?”</em></p>
 Wissensmanagement seit Jahrzehnten beschäftigen, aber noch immer nicht
 gelöst sind. Dies verdeutlicht die Langsamkeit organisationaler
 Veränderungen im Vergleich zur technologischen Entwicklung.</p>
-<h4 data-number="4.0.6.2" id="zukunftsvision-heaven-szenario"><span
-class="header-section-number">4.0.6.2</span> Zukunftsvision:
+<h4 data-number="3.0.6.2" id="zukunftsvision-heaven-szenario"><span
+class="header-section-number">3.0.6.2</span> Zukunftsvision:
 Heaven-Szenario</h4>
 <p>Für die Zukunftsvision schlägt die KI konkrete Strukturen vor, wie
 die Einrichtung von Chief Knowledge Officer-Positionen und die
@@ -618,8 +711,8 @@ nebenher, jeder macht das als Corporate Hobby.”</em></p>
 <p>Diese Vision macht deutlich, welche Ressourcen und strukturellen
 Veränderungen nötig wären, um Wissensmanagement wirklich erfolgreich zu
 implementieren.</p>
-<h4 data-number="4.0.6.3" id="anti-vision-hell-szenario"><span
-class="header-section-number">4.0.6.3</span> Anti-Vision:
+<h4 data-number="3.0.6.3" id="anti-vision-hell-szenario"><span
+class="header-section-number">3.0.6.3</span> Anti-Vision:
 Hell-Szenario</h4>
 <p>Das negative Szenario umfasst Probleme wie kognitiven Overload,
 digitale Abhängigkeit und Knowledge Silos. Besonders relevant ist der
@@ -629,12 +722,12 @@ Talentflucht wegen schlechter Wissenskultur. Die guten Talente in der
 Zukunft, wenn sie immer knapper werden jetzt durch demografischen
 Wandel, die gehen natürlich dahin, wo sie gute Arbeitsbedingungen
 vorfinden und eine gute Wissenskultur vorfinden.”</em></p>
-<h3 data-number="4.0.7"
+<h3 data-number="3.0.7"
 id="technologische-zukunft-agenten-und-mcp"><span
-class="header-section-number">4.0.7</span> Technologische Zukunft:
+class="header-section-number">3.0.7</span> Technologische Zukunft:
 Agenten und MCP</h3>
-<h4 data-number="4.0.7.1" id="von-passiven-zu-aktiven-ki-systemen"><span
-class="header-section-number">4.0.7.1</span> Von passiven zu aktiven
+<h4 data-number="3.0.7.1" id="von-passiven-zu-aktiven-ki-systemen"><span
+class="header-section-number">3.0.7.1</span> Von passiven zu aktiven
 KI-Systemen</h4>
 <p>Simon skizziert die nächste Entwicklungsstufe: <em>“Dieser Schritt
 von KI und Sprachmodelle sind passiv. Hinzu, die werden aktive Agenten,
@@ -644,9 +737,9 @@ Werkstudentin, dann kommen die wieder, haben es gemacht und sage, ich
 passt nicht, dann gehen die wieder weg.”</em></p>
 <p>Diese Entwicklung hin zu autonomen KI-Agenten wird die Art, wie wir
 mit Technologie arbeiten, fundamental verändern.</p>
-<h4 data-number="4.0.7.2"
+<h4 data-number="3.0.7.2"
 id="model-context-protocol-als-game-changer"><span
-class="header-section-number">4.0.7.2</span> Model Context Protocol als
+class="header-section-number">3.0.7.2</span> Model Context Protocol als
 Game Changer</h4>
 <p>Das Model Context Protocol wird als revolutionäre Entwicklung
 dargestellt: <em>“Das ist ein Standard von Entropic, wo man jetzt
@@ -659,13 +752,13 @@ Rolle wird MCP spielen.”</em></p>
 haben: <em>“Das heißt, ihr werdet mit jedem Excel-File, mit jeder
 PowerPoint-Präsentation, mit jeder Datenbank, mit ganzen GitHub-Repos
 über den MCP-Standard sprechen können.”</em></p>
-<h3 data-number="4.0.8"
+<h3 data-number="3.0.8"
 id="praktische-umsetzung-und-personal-context-files"><span
-class="header-section-number">4.0.8</span> Praktische Umsetzung und
+class="header-section-number">3.0.8</span> Praktische Umsetzung und
 Personal Context Files</h3>
-<h4 data-number="4.0.8.1"
+<h4 data-number="3.0.8.1"
 id="kontextualisierung-der-ki-interaktion"><span
-class="header-section-number">4.0.8.1</span> Kontextualisierung der
+class="header-section-number">3.0.8.1</span> Kontextualisierung der
 KI-Interaktion</h4>
 <p>Ein wichtiger praktischer Aspekt ist die Vorbereitung der KI-Systeme:
 <em>“Das heißt insbesondere, wenn ihr halt mit verschiedenen KIs
@@ -676,8 +769,8 @@ ich gerade? In welchen Projekten bin ich drin?”</em></p>
 <p>Diese Kontextualisierung ist entscheidend für die Qualität der
 KI-Outputs und macht die Interaktion effizienter und
 zielgerichteter.</p>
-<h4 data-number="4.0.8.2" id="das-problem-des-memory-loss"><span
-class="header-section-number">4.0.8.2</span> Das Problem des “Memory
+<h4 data-number="3.0.8.2" id="das-problem-des-memory-loss"><span
+class="header-section-number">3.0.8.2</span> Das Problem des “Memory
 Loss”</h4>
 <p>Simon beschreibt eine grundlegende Herausforderung: <em>“Ein bisschen
 Problem bei diesen Chats ist ja immer, die kennen einen nicht. Sobald
@@ -686,12 +779,12 @@ wer kennt noch Man in Black, geblitztingst. Also ihr seid sofort mit dem
 geblitztingsten Werkstudenten da, der nichts von euch weiß.”</em></p>
 <p>Diese Analogie verdeutlicht die Notwendigkeit, KI-Systeme
 kontinuierlich mit relevantem Kontext zu versorgen.</p>
-<h3 data-number="4.0.9"
+<h3 data-number="3.0.9"
 id="handlungsempfehlungen-und-call-to-actions"><span
-class="header-section-number">4.0.9</span> Handlungsempfehlungen und
+class="header-section-number">3.0.9</span> Handlungsempfehlungen und
 Call to Actions</h3>
-<h4 data-number="4.0.9.1" id="sofortiger-einstieg-in-ki-tools"><span
-class="header-section-number">4.0.9.1</span> Sofortiger Einstieg in
+<h4 data-number="3.0.9.1" id="sofortiger-einstieg-in-ki-tools"><span
+class="header-section-number">3.0.9.1</span> Sofortiger Einstieg in
 KI-Tools</h4>
 <p>Simon ermutigt zur direkten Anwendung: <em>“Sprecht mich gerne an.
 Das sind alles Sachen, die nicht erfunden oder Raumschiff Enterprise
@@ -699,8 +792,8 @@ oder gefakt sind. Für mich war jetzt auch die Präsentation ohne Netz und
 doppelten Boden.”</em></p>
 <p>Die Live-Demonstration soll zeigen, dass diese Technologien bereits
 heute verfügbar und einsetzbar sind.</p>
-<h4 data-number="4.0.9.2" id="aufbau-von-ki-kompetenz"><span
-class="header-section-number">4.0.9.2</span> Aufbau von
+<h4 data-number="3.0.9.2" id="aufbau-von-ki-kompetenz"><span
+class="header-section-number">3.0.9.2</span> Aufbau von
 KI-Kompetenz</h4>
 <p>Der Vortrag appelliert daran, sich aktiv mit verschiedenen Aspekten
 der KI-Entwicklung auseinanderzusetzen, auch wenn es überwältigend
@@ -708,26 +801,26 @@ erscheinen mag: <em>“Selbst im Thema KI gibt es so viel mehr Subthemen,
 mit denen man sich jetzt aktuell beschäftigen müsste, dass man diese
 typische Fear of Missing Out, also man muss irgendwie das für sich
 sortiert haben.”</em></p>
-<h4 data-number="4.0.9.3" id="experimentelles-lernen"><span
-class="header-section-number">4.0.9.3</span> Experimentelles Lernen</h4>
+<h4 data-number="3.0.9.3" id="experimentelles-lernen"><span
+class="header-section-number">3.0.9.3</span> Experimentelles Lernen</h4>
 <p>Simon betont die Wichtigkeit des praktischen Ausprobierens: <em>“Wir
 haben hier ganz viel Platz, setzen uns hin, auch in der
 Abendveranstaltung und können uns das alle in Ruhe anschauen.”</em></p>
-<h4 data-number="4.0.9.4"
+<h4 data-number="3.0.9.4"
 id="strategische-organisationsentwicklung"><span
-class="header-section-number">4.0.9.4</span> Strategische
+class="header-section-number">3.0.9.4</span> Strategische
 Organisationsentwicklung</h4>
 <p>Für Organisationen empfiehlt Simon eine systematische
 Herangehensweise an Wissensmanagement, die über Einzelprojekte
 hinausgeht und strukturelle Veränderungen umfasst.</p>
-<h4 data-number="4.0.9.5" id="beschäftigung-mit-mcp"><span
-class="header-section-number">4.0.9.5</span> Beschäftigung mit MCP</h4>
+<h4 data-number="3.0.9.5" id="beschäftigung-mit-mcp"><span
+class="header-section-number">3.0.9.5</span> Beschäftigung mit MCP</h4>
 <p>Als konkrete technische Empfehlung gibt Simon mit: <em>“Also wenn
 jemand noch nie was von MCP gehört hat, beschäftigt euch da mal
 damit.”</em> Diese Technologie wird in naher Zukunft die Art der
 KI-Nutzung fundamental verändern.</p>
-<h3 data-number="4.0.10" id="fazit"><span
-class="header-section-number">4.0.10</span> Fazit</h3>
+<h3 data-number="3.0.10" id="fazit"><span
+class="header-section-number">3.0.10</span> Fazit</h3>
 <p>Der Vortrag zeigt eindrucksvoll, wie KI bereits heute als
 strategischer Partner für Reflexion und Entwicklung eingesetzt werden
 kann. Simon demonstriert nicht nur die technischen Möglichkeiten,
@@ -748,9 +841,9 @@ Veränderungen.</p>
 Context Protocol werden die Arbeitswelt in den nächsten Jahren erheblich
 verändern. Wer diese Entwicklungen proaktiv mitgestaltet, wird
 entscheidende Wettbewerbsvorteile erlangen.</p>
-<h2 data-number="4.1"
+<h2 data-number="3.1"
 id="bettina-laugwitz---mind-the-ai-safety-gap"><span
-class="header-section-number">4.1</span> Bettina Laugwitz - Mind the AI
+class="header-section-number">3.1</span> Bettina Laugwitz - Mind the AI
 Safety Gap</h2>
 <blockquote>
 <p>Safety im Sinne von “AI soll so konstruiert sein und verwendet
@@ -759,12 +852,12 @@ Prinzipien eine wichtige Rolle, aber auch “AI Literacy”, die allen
 Beteiligten ermöglicht, Risiken, Grenzen und Möglichkeiten bewusst
 abzuwägen.</p>
 </blockquote>
-<h1 data-number="5"
+<h1 data-number="4"
 id="mind-the-ai-safety-gap---ki-sicherheit-und-ethik-in-der-praxis"><span
-class="header-section-number">5</span> Mind the AI Safety Gap -
+class="header-section-number">4</span> Mind the AI Safety Gap -
 KI-Sicherheit und Ethik in der Praxis</h1>
-<h2 data-number="5.1" id="kurze-zusammenfassung"><span
-class="header-section-number">5.1</span> Kurze Zusammenfassung</h2>
+<h2 data-number="4.1" id="kurze-zusammenfassung"><span
+class="header-section-number">4.1</span> Kurze Zusammenfassung</h2>
 <p>Bettina Laugwitz von SAP präsentierte einen umfassenden Überblick
 über AI Safety und KI-Ethik, wobei sie die Parallelen zwischen der
 Entwicklung der Automobilindustrie und der heutigen KI-Revolution
@@ -774,8 +867,8 @@ stellte SAPs Ansatz zur verantwortungsvollen KI-Entwicklung vor. Durch
 anschauliche Beispiele verdeutlichte sie sowohl die Potenziale als auch
 die Risiken aktueller KI-Technologien und präsentierte konkrete
 Lösungsansätze für die Implementierung ethischer KI-Systeme.</p>
-<h2 data-number="5.2" id="gliederung-und-aufbau-des-vortrags-1"><span
-class="header-section-number">5.2</span> Gliederung und Aufbau des
+<h2 data-number="4.2" id="gliederung-und-aufbau-des-vortrags-1"><span
+class="header-section-number">4.2</span> Gliederung und Aufbau des
 Vortrags</h2>
 <p>Der Vortrag folgte einer strukturierten 3x3-Gliederung:</p>
 <p><strong>Was:</strong> Definition und Abgrenzung von KI-Sicherheit und
@@ -786,8 +879,8 @@ Responsible AI Framework</p>
 Automobilentwicklung, beginnend mit Bertha Benz’ historischer Fahrt
 1888, um die gesellschaftlichen Auswirkungen disruptiver Technologien zu
 verdeutlichen.</p>
-<h3 data-number="5.2.1" id="was-ist-ki-sicherheit-und-ai-safety"><span
-class="header-section-number">5.2.1</span> Was ist KI-Sicherheit und AI
+<h3 data-number="4.2.1" id="was-ist-ki-sicherheit-und-ai-safety"><span
+class="header-section-number">4.2.1</span> Was ist KI-Sicherheit und AI
 Safety?</h3>
 <p>Laugwitz etablierte zunächst eine klare begriffliche Grundlage und
 betonte die Unterscheidung zwischen “Security” (sicher gebaut) und
@@ -809,8 +902,8 @@ hinausgeht</li>
 AI”</em> der Europäischen Kommission von 2018, die drei Grundpfeiler
 definiert: <em>“Trustworthy AI needs to be rechtmäßig, robust und
 ethisch.”</em></p>
-<h3 data-number="5.2.2" id="kategorisierung-von-ki-systemen"><span
-class="header-section-number">5.2.2</span> Kategorisierung von
+<h3 data-number="4.2.2" id="kategorisierung-von-ki-systemen"><span
+class="header-section-number">4.2.2</span> Kategorisierung von
 KI-Systemen</h3>
 <p>Ein wesentlicher Teil der Präsentation widmete sich der
 systematischen Einordnung verschiedener KI-Technologien:</p>
@@ -827,21 +920,21 @@ Fokus auf plausible Ausgaben, nicht auf Wahrheit</p>
 <p><strong>KI-Agenten:</strong> - Komplexere Abläufe mit
 Planungsfähigkeiten - Kooperation mit anderen Agenten - Tool-Verwendung
 für komplexe Aufgaben</p>
-<h3 data-number="5.2.3" id="warum-ki-sicherheit-jetzt-wichtig-ist"><span
-class="header-section-number">5.2.3</span> Warum KI-Sicherheit jetzt
+<h3 data-number="4.2.3" id="warum-ki-sicherheit-jetzt-wichtig-ist"><span
+class="header-section-number">4.2.3</span> Warum KI-Sicherheit jetzt
 wichtig ist</h3>
 <p>Laugwitz argumentierte mit drei Hauptgründen für die Dringlichkeit
 des Themas:</p>
-<h4 data-number="5.2.3.1" id="dynamische-systementwicklung"><span
-class="header-section-number">5.2.3.1</span> Dynamische
+<h4 data-number="4.2.3.1" id="dynamische-systementwicklung"><span
+class="header-section-number">4.2.3.1</span> Dynamische
 Systementwicklung</h4>
 <p><em>“Das Weiterentwickeln von den Systemen durch Daten und
 Erfahrungen führt halt dazu, dass es eine Dynamik gibt, dass die Systeme
 nicht einfach so sind, wie man so fertig programmiert hat, ausgeliefert
 hat und dann sind sie so sicher und robust bis zum nächsten Upgrade,
 sondern man muss es eben im Auge behalten.”</em></p>
-<h4 data-number="5.2.3.2" id="skalierungseffekte"><span
-class="header-section-number">5.2.3.2</span> Skalierungseffekte</h4>
+<h4 data-number="4.2.3.2" id="skalierungseffekte"><span
+class="header-section-number">4.2.3.2</span> Skalierungseffekte</h4>
 <p>Die Referentin nutzte die Automobilgeschichte als Metapher: <em>“Das
 ist das einzige Auto, was außerhalb von Mannheim da herumfährt. Das
 einzige Auto, das da herumfährt, ist jetzt noch mal kein großes Risiko
@@ -853,9 +946,9 @@ Weltkugel herumfahren.”</em></p>
 wir es jetzt heute erleben, ähnlich disruptiv sein kann wie diese
 Technologie. Mit großen Auswirkungen. Das Tempo ist atemberaubend und
 deswegen auch sehr wichtig, ein Auge drauf zu haben.”</em></p>
-<h4 data-number="5.2.3.3"
+<h4 data-number="4.2.3.3"
 id="begrenzte-ki-literacy-und-bias-problematik"><span
-class="header-section-number">5.2.3.3</span> Begrenzte KI-Literacy und
+class="header-section-number">4.2.3.3</span> Begrenzte KI-Literacy und
 Bias-Problematik</h4>
 <p>Anhand praktischer Beispiele demonstrierte Laugwitz die Grenzen
 aktueller KI-Systeme:</p>
@@ -868,32 +961,32 @@ aktueller KI-Systeme:</p>
 <p><em>“Also in den Daten gibt es eine Verzerrung, die sind Jahrzehnte
 alt, spiegelt vielleicht eine gesellschaftliche Realität von vor 30, 40
 Jahren wieder, aber auch nicht repräsentativ und so weiter.”</em></p>
-<h3 data-number="5.2.4" id="saps-responsible-ai-framework"><span
-class="header-section-number">5.2.4</span> SAPs Responsible AI
+<h3 data-number="4.2.4" id="saps-responsible-ai-framework"><span
+class="header-section-number">4.2.4</span> SAPs Responsible AI
 Framework</h3>
 <p>Laugwitz präsentierte SAPs dreisäuliges Modell für
 verantwortungsvolle KI:</p>
-<h4 data-number="5.2.4.1" id="ki-compliance"><span
-class="header-section-number">5.2.4.1</span> KI-Compliance</h4>
+<h4 data-number="4.2.4.1" id="ki-compliance"><span
+class="header-section-number">4.2.4.1</span> KI-Compliance</h4>
 <ul>
 <li>Einhaltung globaler Vorschriften und Gesetze</li>
 <li>Anpassung an verschiedene Rechtsräume</li>
 </ul>
-<h4 data-number="5.2.4.2" id="ki-sicherheit"><span
-class="header-section-number">5.2.4.2</span> KI-Sicherheit</h4>
+<h4 data-number="4.2.4.2" id="ki-sicherheit"><span
+class="header-section-number">4.2.4.2</span> KI-Sicherheit</h4>
 <ul>
 <li>Robuste Implementierung</li>
 <li>Schutz vor Manipulation und Hacking</li>
 <li>Zuverlässige Funktionsweise</li>
 </ul>
-<h4 data-number="5.2.4.3" id="ki-ethik"><span
-class="header-section-number">5.2.4.3</span> KI-Ethik</h4>
+<h4 data-number="4.2.4.3" id="ki-ethik"><span
+class="header-section-number">4.2.4.3</span> KI-Ethik</h4>
 <ul>
 <li>Ethische Prinzipien für gute KI-Systeme</li>
 <li>Verantwortungsübernahme für Systemverhalten</li>
 </ul>
-<h3 data-number="5.2.5" id="organisatorische-umsetzung-bei-sap"><span
-class="header-section-number">5.2.5</span> Organisatorische Umsetzung
+<h3 data-number="4.2.5" id="organisatorische-umsetzung-bei-sap"><span
+class="header-section-number">4.2.5</span> Organisatorische Umsetzung
 bei SAP</h3>
 <p>Die Referentin betonte SAPs langjährige Expertise: <em>“Das Thema ist
 schon wirklich ganz lange bei uns ein wichtiges Thema und hat sich über
@@ -904,26 +997,26 @@ betrifft.”</em></p>
 definierten Rollen und Verantwortlichkeiten - KI-Ethik-Bewertungsprozess
 in der Produktentwicklung - Online-Kurse für Mitarbeiterbildung -
 Kontinuierliche Risikoanalyse und -minimierung</p>
-<h3 data-number="5.2.6" id="drei-kernanforderungen-ethischer-ki"><span
-class="header-section-number">5.2.6</span> Drei Kernanforderungen
+<h3 data-number="4.2.6" id="drei-kernanforderungen-ethischer-ki"><span
+class="header-section-number">4.2.6</span> Drei Kernanforderungen
 ethischer KI</h3>
-<h4 data-number="5.2.6.1"
+<h4 data-number="4.2.6.1"
 id="menschliche-kontrolle-und-selbstbestimmung"><span
-class="header-section-number">5.2.6.1</span> Menschliche Kontrolle und
+class="header-section-number">4.2.6.1</span> Menschliche Kontrolle und
 Selbstbestimmung</h4>
 <p><em>“Es geht immer darum, dass der Mensch die Maschine unter
 Kontrolle hat und nicht umgekehrt.”</em> Die Referentin betonte die
 Bedeutung von “Human in the Loop”-Konzepten und die bewusste
 Entscheidung, an welchen Stellen menschliche Intervention erforderlich
 ist.</p>
-<h4 data-number="5.2.6.2" id="fairness-und-nichtdiskriminierung"><span
-class="header-section-number">5.2.6.2</span> Fairness und
+<h4 data-number="4.2.6.2" id="fairness-und-nichtdiskriminierung"><span
+class="header-section-number">4.2.6.2</span> Fairness und
 Nichtdiskriminierung</h4>
 <p>Besonders relevant in HR-Anwendungen, um Verzerrungen bei
 Bewerbungsverfahren zu vermeiden. Die systematische Analyse und
 Korrektur von Bias in Trainingsdaten und Algorithmen steht im Fokus.</p>
-<h4 data-number="5.2.6.3" id="transparenz-und-erklärbarkeit"><span
-class="header-section-number">5.2.6.3</span> Transparenz und
+<h4 data-number="4.2.6.3" id="transparenz-und-erklärbarkeit"><span
+class="header-section-number">4.2.6.3</span> Transparenz und
 Erklärbarkeit</h4>
 <p><em>“Da geht es darum, dass Menschen die Möglichkeit haben müssen zu
 verstehen, was macht die Maschine jetzt eigentlich, so gut es halt
@@ -932,12 +1025,12 @@ Methoden entwickelt werden, um: - Systemverantwortlichen Einblicke in
 die Funktionsweise zu geben - Anwendern die Bewertung von
 KI-Empfehlungen zu ermöglichen - Fachexperten die Validierung von
 Ergebnissen zu erlauben</p>
-<h3 data-number="5.2.7"
+<h3 data-number="4.2.7"
 id="handlungsempfehlungen-und-call-to-actions-1"><span
-class="header-section-number">5.2.7</span> Handlungsempfehlungen und
+class="header-section-number">4.2.7</span> Handlungsempfehlungen und
 Call to Actions</h3>
-<h4 data-number="5.2.7.1" id="für-organisationen"><span
-class="header-section-number">5.2.7.1</span> Für Organisationen</h4>
+<h4 data-number="4.2.7.1" id="für-organisationen"><span
+class="header-section-number">4.2.7.1</span> Für Organisationen</h4>
 <ul>
 <li><strong>Aufbau organisatorischer Strukturen:</strong> Etablierung
 von Rollen, Verantwortlichkeiten und Prozessen für KI-Ethik</li>
@@ -947,8 +1040,8 @@ KI-Anwendungen</li>
 <li><strong>Kontinuierliche Weiterbildung:</strong> Aufbau von
 KI-Literacy in der gesamten Organisation</li>
 </ul>
-<h4 data-number="5.2.7.2" id="für-entwickler-und-produktteams"><span
-class="header-section-number">5.2.7.2</span> Für Entwickler und
+<h4 data-number="4.2.7.2" id="für-entwickler-und-produktteams"><span
+class="header-section-number">4.2.7.2</span> Für Entwickler und
 Produktteams</h4>
 <ul>
 <li><strong>Frühzeitige Ethik-Integration:</strong> <em>“Wenn man eine
@@ -960,8 +1053,8 @@ könnten Risiken sein”</em></li>
 <li><strong>Transparenz-Features:</strong> Entwicklung erklärbarer
 KI-Funktionen</li>
 </ul>
-<h4 data-number="5.2.7.3" id="für-die-gesellschaft"><span
-class="header-section-number">5.2.7.3</span> Für die Gesellschaft</h4>
+<h4 data-number="4.2.7.3" id="für-die-gesellschaft"><span
+class="header-section-number">4.2.7.3</span> Für die Gesellschaft</h4>
 <ul>
 <li><strong>Wachsamkeit bewahren:</strong> <em>“Warum sollten wir also
 wachsam bleiben”</em> - kontinuierliche Beobachtung der
@@ -971,8 +1064,8 @@ Verständnisses für KI-Technologien und deren Grenzen</li>
 <li><strong>Ethische Standards entwickeln:</strong> Partizipation an
 gesellschaftlichen Diskussionen über KI-Ethik</li>
 </ul>
-<h4 data-number="5.2.7.4" id="spezifische-ressourcen-empfehlungen"><span
-class="header-section-number">5.2.7.4</span> Spezifische
+<h4 data-number="4.2.7.4" id="spezifische-ressourcen-empfehlungen"><span
+class="header-section-number">4.2.7.4</span> Spezifische
 Ressourcen-Empfehlungen</h4>
 <p>Laugwitz verwies mehrfach auf konkrete Hilfsmittel: - <strong>SAP
 Responsible AI Website:</strong> Umfassende Dokumentation und Downloads
@@ -980,9 +1073,9 @@ Responsible AI Website:</strong> Umfassende Dokumentation und Downloads
 Implementierung - <strong>Online-Kurse:</strong> Strukturierte
 Weiterbildungsmöglichkeiten - <strong>UNESCO-Empfehlungen:</strong>
 Internationale Standards als Orientierung</p>
-<h3 data-number="5.2.8"
+<h3 data-number="4.2.8"
 id="historische-parallelen-und-zukunftsperspektiven"><span
-class="header-section-number">5.2.8</span> Historische Parallelen und
+class="header-section-number">4.2.8</span> Historische Parallelen und
 Zukunftsperspektiven</h3>
 <p>Die durchgängige Analogie zur Automobilentwicklung verdeutlichte
 wichtige Prinzipien:</p>
@@ -1007,92 +1100,92 @@ Lösungsansätzen und klaren Handlungsempfehlungen, machte deutlich, dass
 KI-Sicherheit nicht nur eine technische Herausforderung, sondern eine
 gesellschaftliche Gestaltungsaufgabe ist, die proaktives Handeln aller
 Beteiligten erfordert.</p>
-<h1 data-number="6" id="lightning-talks"><span
-class="header-section-number">6</span> Lightning Talks</h1>
-<h2 data-number="6.1"
+<h1 data-number="5" id="lightning-talks"><span
+class="header-section-number">5</span> Lightning Talks</h1>
+<h2 data-number="5.1"
 id="frédéric-heinemann---collaborative-learning-im-sap-ecosystem---key-user-als-mentoren-der-zukunft"><span
-class="header-section-number">6.1</span> Frédéric Heinemann -
+class="header-section-number">5.1</span> Frédéric Heinemann -
 Collaborative Learning im SAP-Ecosystem - Key-User als Mentoren der
 Zukunft</h2>
 <p>…</p>
-<h2 data-number="6.2"
+<h2 data-number="5.2"
 id="simon-dückert---state-of-genai---was-in-meiner-wissensarbeit-wirklich-wirklich-funktioniert"><span
-class="header-section-number">6.2</span> Simon Dückert - State of GenAI
+class="header-section-number">5.2</span> Simon Dückert - State of GenAI
 - was in meiner Wissensarbeit wirklich, wirklich funktioniert</h2>
 <p>…</p>
-<h2 data-number="6.3"
+<h2 data-number="5.3"
 id="bernhard-rupp---12-freunde-müsst-ihr-sein"><span
-class="header-section-number">6.3</span> Bernhard Rupp - 12 Freunde
+class="header-section-number">5.3</span> Bernhard Rupp - 12 Freunde
 müsst ihr sein</h2>
 <p>…</p>
-<h2 data-number="6.4"
+<h2 data-number="5.4"
 id="florence-streif---weichenstellung-fürs-digitale-zeitalter---zwischen-bahnhof-und-besprechungsraum"><span
-class="header-section-number">6.4</span> Florence Streif -
+class="header-section-number">5.4</span> Florence Streif -
 Weichenstellung fürs digitale Zeitalter - Zwischen Bahnhof und
 Besprechungsraum</h2>
 <p>…</p>
-<h2 data-number="6.5"
+<h2 data-number="5.5"
 id="moritz-huber---ki-im-lern-lifecycle---poc-für-ki-gestütztes-anwenderlernen"><span
-class="header-section-number">6.5</span> Moritz Huber - KI im
+class="header-section-number">5.5</span> Moritz Huber - KI im
 Lern-Lifecycle - PoC für KI-gestütztes Anwenderlernen</h2>
 <p>…</p>
-<h2 data-number="6.6"
+<h2 data-number="5.6"
 id="mike-fritz---sap-enable-now-trifft-auf-walkme-und-die-sap-integrated-toolchain"><span
-class="header-section-number">6.6</span> Mike Fritz - SAP Enable Now
+class="header-section-number">5.6</span> Mike Fritz - SAP Enable Now
 trifft auf WalkMe und die SAP Integrated Toolchain</h2>
 <p>…</p>
-<h2 data-number="6.7"
+<h2 data-number="5.7"
 id="patrick-fueldner---von-der-einführung-zur-skalierung---nestlés-digital-adoption-strategie-mit-walkme"><span
-class="header-section-number">6.7</span> Patrick Fueldner - Von der
+class="header-section-number">5.7</span> Patrick Fueldner - Von der
 Einführung zur Skalierung - Nestlés Digital Adoption-Strategie mit
 WalkMe</h2>
 <p>…</p>
-<h2 data-number="6.8"
+<h2 data-number="5.8"
 id="katja-sommerer---big-bang---40-länder-800-neue-mitarbeitende---herausforderungen-des-trainings-in-einem-ma-projekt"><span
-class="header-section-number">6.8</span> Katja Sommerer - Big Bang - 40
+class="header-section-number">5.8</span> Katja Sommerer - Big Bang - 40
 Länder, 800 neue Mitarbeitende - Herausforderungen des Trainings in
 einem M+A-Projekt</h2>
 <p>…</p>
-<h2 data-number="6.9"
+<h2 data-number="5.9"
 id="andrea-flöth---hr-neu-gedacht---barmers-digitale-evolution-mit-hilfe-von-sap-preferred-success"><span
-class="header-section-number">6.9</span> Andrea Flöth - HR neu gedacht -
+class="header-section-number">5.9</span> Andrea Flöth - HR neu gedacht -
 BARMERs digitale Evolution mit Hilfe von SAP Preferred Success</h2>
 <p>…</p>
-<h2 data-number="6.10"
+<h2 data-number="5.10"
 id="mareike-muth---übersetzer-der-moderne---das-learning-team-als-katalysator-zwischen-fachbereich-und-enduser"><span
-class="header-section-number">6.10</span> Mareike Muth - Übersetzer der
+class="header-section-number">5.10</span> Mareike Muth - Übersetzer der
 Moderne - Das Learning Team als Katalysator zwischen Fachbereich und
 Enduser</h2>
 <p>…</p>
-<h1 data-number="7" id="sessions-workshops"><span
-class="header-section-number">7</span> Sessions &amp; Workshops</h1>
-<h2 data-number="7.1" id="promptathon"><span
-class="header-section-number">7.1</span> Promptathon</h2>
+<h1 data-number="6" id="sessions-workshops"><span
+class="header-section-number">6</span> Sessions &amp; Workshops</h1>
+<h2 data-number="6.1" id="promptathon"><span
+class="header-section-number">6.1</span> Promptathon</h2>
 <blockquote>
 <p>Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
 Use Cases in Weiterbildung und Change Management im SAP-Bereich.</p>
 </blockquote>
-<h2 data-number="7.2"
+<h2 data-number="6.2"
 id="discovery-workshop-ai-usecases-im-learning"><span
-class="header-section-number">7.2</span> Discovery Workshop AI UseCases
+class="header-section-number">6.2</span> Discovery Workshop AI UseCases
 im Learning</h2>
 <blockquote>
 <p>Exploration und Identifizierung von relevanten Use Cases für den
 Einsatz von KI für Change Management und Training in SAP Projekten.</p>
 </blockquote>
-<h2 data-number="7.3"
+<h2 data-number="6.3"
 id="good-practices-lessons-learned-sap-s4hana-transformationen"><span
-class="header-section-number">7.3</span> Good Practices &amp; Lessons
+class="header-section-number">6.3</span> Good Practices &amp; Lessons
 Learned SAP S/4HANA Transformationen</h2>
 <blockquote>
 <p>Strategien für erfolgreiches OCM und Learning - Wichtige Do’s &amp;
 Dont’s und deren Umsetzung mit dem SAP Activate Framework.</p>
 </blockquote>
-<h1 data-number="8" id="anhang"><span
-class="header-section-number">8</span> Anhang</h1>
-<h2 data-number="8.1"
+<h1 data-number="7" id="anhang"><span
+class="header-section-number">7</span> Anhang</h1>
+<h2 data-number="7.1"
 id="dokumentation-der-ki-basierten-dokumentation"><span
-class="header-section-number">8.1</span> Dokumentation der KI-basierten
+class="header-section-number">7.1</span> Dokumentation der KI-basierten
 Dokumentation</h2>
 <p>Falls jemand einen ähnlichen Ansatz der KI-basierten Dokumentation
 verwenden möchte, hier ein paar Informationen zu unserer

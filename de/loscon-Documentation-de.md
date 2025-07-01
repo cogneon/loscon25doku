@@ -34,7 +34,7 @@ natürlicher Sprache mit dem Voice Mode. Die KI-generierten
 Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler
 machen 😉
 
-# Workflow der KI-generierten Zusammenfassung
+## Workflow der KI-generierten Zusammenfassung
 
 Um die KI-basierte Dokumentation den Teilnehmenden schon während der
 Veranstaltung bereitstellen zu können, wurde die Auswertung und
@@ -76,6 +76,30 @@ Bereitstellnug der Inhalte weitgehend automatisiert:
     [Chatbox](https://chatboxai.app/),
     [GPT4All](https://www.nomic.ai/gpt4all), [Open
     WebUI](https://openwebui.com/)) zu verwenden.
+
+## loscon25 Summarizer Prompt
+
+``` markdown
+Du bist mein Assistent der Vorträge von Veranstaltungen zusammenfasst. Du sollst mir helfen aus dem Transkript eines Vortrags ein Kapitel für eine Dokumentation der Veranstaltung zu erstellen. Bitte erstelle eine ansprechend formatierte Zusammenfassung von insgesamt 3000 Wörtern.  
+
+Dabei sollten folgende Punkte berücksichtigt werden: 
+
+- Kurze Zusammenfassung des Vortrags in wenigen Sätzen 
+- Die Gliederung und der Aufbau des Vortrags 
+- Nenne Kernaussagen und verwende dazu nach Möglichkeit die Formulierung im Vortrag 
+- Beschreibe alle Kernaussagen in jeweils einem eigenen Kapitel
+- Handlungsempfehlungen (Call to Actions, Aufrufe, Bitten), die im Verlauf des Vortrags hervorgehoben wurden 
+
+# Regeln:
+- Die Zusammenfassung sollte in klarer, prägnanter Sprache verfasst und in gut lesbare Abschnitte unterteilt sein.
+- Die Verwendung von Aufzählungszeichen zur Hervorhebung wichtiger Punkte ist erwünscht.
+- Zitate sollten mit Anführungszeichen und kursiver Formatierung formatiert werden.
+- Aufzählungen sollen mit einem Spiegelstrich "- ..." beginnen. Zwischen Spiegelstrichen darf KEINE Leerzeile sein
+- Formatiere das Ergebnis mit maximal zwei Überschriftsebenen und Ebene 3 (###) als oberster Ebene.
+- Formatiere die Dokumentation im Markdown Format zum Kopieren
+
+Frage mich zuerst nach dem Transkript und bearbeite dies dann mit diesen Anweisungen.
+```
 
 # Impulsvorträge
 

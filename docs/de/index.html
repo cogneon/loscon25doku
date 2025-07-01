@@ -242,6 +242,19 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Willkommen
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="." class="md-nav__link md-nav__link--active">
         
   
@@ -253,6 +266,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#workflow-der-ki-generierten-zusammenfassung" class="md-nav__link">
+    <span class="md-ellipsis">
+      Workflow der KI-generierten Zusammenfassung
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#loscon25-summarizer-prompt" class="md-nav__link">
+    <span class="md-ellipsis">
+      loscon25 Summarizer Prompt
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -486,7 +536,7 @@
 <p class="admonition-title">Hinweis</p>
 <p>Mit der Dokumentation könnt ihr sogar <a href="https://chatgpt.com/g/g-685e35df934c8191bdfbd56cd136038b-loscon25-doku-bot">mit diesem Chatbot</a> (CustomGPT, Modell GPT-4o) "reden" ... das funktioniert sogar in natürlicher Sprache mit dem Voice Mode. Die KI-generierten Zusammenfassungen wurden <strong>NICHT</strong> nachberarbeitet. Die KI kann Fehler machen 😉</p>
 </div>
-<h1 id="workflow-der-ki-generierten-zusammenfassung">Workflow der KI-generierten Zusammenfassung</h1>
+<h2 id="workflow-der-ki-generierten-zusammenfassung">Workflow der KI-generierten Zusammenfassung</h2>
 <p>Um die KI-basierte Dokumentation den Teilnehmenden schon während der Veranstaltung bereitstellen zu können, wurde die Auswertung und Bereitstellnug der Inhalte weitgehend automatisiert:</p>
 <p><img alt="" src="images/ai-documentation-chain.png" /></p>
 <ol>
@@ -496,8 +546,29 @@
 <li>Die Zusammenfassungen werden in der <strong>Repo-Struktur</strong> von <a href="https://lernos.org">lernOS</a> in einem Github-Repository abgelegt.</li>
 <li>Mit der <strong>lernOS Produktionskette</strong> wird aus den Markdown-Dateien automatisch diese Web-Version sowie weitere Formate zum Download (pdf, html, docx, md) erzeugt.</li>
 <li>Die Markdown-Version (mit allen Zusammenfassungen) wird als <strong>"Wissensbasis" für einen Chatbot</strong> auf Basis eines <a href="https://help.openai.com/en/articles/8554397-creating-a-gpt">CustomGPT</a> verwendet. Nutzende können so mit der Zusammenfassung der Veranstaltung "sprechen".</li>
-<li>Interessenten können sich eine <strong>Markdown-Version der Dokumentation</strong> unter <em>Download</em> zusätzlich herunterladen, um sie in eigenen KI-Tools wie z.B. <a href="https://www.microsoft.com/de-de/microsoft-copilot/organizations">Microsoft Copilot</a>, <a href="https://www.sap.com/germany/products/artificial-intelligence/ai-assistant.html">SAP Joule</a>, <a href="https://gemini.google.com/">Gemini</a>, <a href="https://notebooklm.google/">NotebookLM</a>, <a href="https://chat.mistral.ai/">Le Chat</a> (europäisch) oder lokalen KI-Tools (<a href="https://lmstudio.ai/">LM Studio</a>, <a href="https://chatboxai.app/">Chatbox</a>, <a href="https://www.nomic.ai/gpt4all">GPT4All</a>, <a href="https://openwebui.com/">Open WebUI</a>) zu verwenden. </li>
+<li>Interessenten können sich eine <strong>Markdown-Version der Dokumentation</strong> unter <em>Download</em> zusätzlich herunterladen, um sie in eigenen KI-Tools wie z.B. <a href="https://www.microsoft.com/de-de/microsoft-copilot/organizations">Microsoft Copilot</a>, <a href="https://www.sap.com/germany/products/artificial-intelligence/ai-assistant.html">SAP Joule</a>, <a href="https://gemini.google.com/">Gemini</a>, <a href="https://notebooklm.google/">NotebookLM</a>, <a href="https://chat.mistral.ai/">Le Chat</a> (europäisch) oder lokalen KI-Tools (<a href="https://lmstudio.ai/">LM Studio</a>, <a href="https://chatboxai.app/">Chatbox</a>, <a href="https://www.nomic.ai/gpt4all">GPT4All</a>, <a href="https://openwebui.com/">Open WebUI</a>) zu verwenden.</li>
 </ol>
+<h2 id="loscon25-summarizer-prompt">loscon25 Summarizer Prompt</h2>
+<div class="highlight"><pre><span></span><code>Du bist mein Assistent der Vorträge von Veranstaltungen zusammenfasst. Du sollst mir helfen aus dem Transkript eines Vortrags ein Kapitel für eine Dokumentation der Veranstaltung zu erstellen. Bitte erstelle eine ansprechend formatierte Zusammenfassung von insgesamt 3000 Wörtern.  
+
+Dabei sollten folgende Punkte berücksichtigt werden: 
+
+<span class="k">-</span><span class="w"> </span>Kurze Zusammenfassung des Vortrags in wenigen Sätzen 
+<span class="k">-</span><span class="w"> </span>Die Gliederung und der Aufbau des Vortrags 
+<span class="k">-</span><span class="w"> </span>Nenne Kernaussagen und verwende dazu nach Möglichkeit die Formulierung im Vortrag 
+<span class="k">-</span><span class="w"> </span>Beschreibe alle Kernaussagen in jeweils einem eigenen Kapitel
+<span class="k">-</span><span class="w"> </span>Handlungsempfehlungen (Call to Actions, Aufrufe, Bitten), die im Verlauf des Vortrags hervorgehoben wurden 
+
+<span class="gh"># Regeln:</span>
+<span class="k">-</span><span class="w"> </span>Die Zusammenfassung sollte in klarer, prägnanter Sprache verfasst und in gut lesbare Abschnitte unterteilt sein.
+<span class="k">-</span><span class="w"> </span>Die Verwendung von Aufzählungszeichen zur Hervorhebung wichtiger Punkte ist erwünscht.
+<span class="k">-</span><span class="w"> </span>Zitate sollten mit Anführungszeichen und kursiver Formatierung formatiert werden.
+<span class="k">-</span><span class="w"> </span>Aufzählungen sollen mit einem Spiegelstrich &quot;- ...&quot; beginnen. Zwischen Spiegelstrichen darf KEINE Leerzeile sein
+<span class="k">-</span><span class="w"> </span>Formatiere das Ergebnis mit maximal zwei Überschriftsebenen und Ebene 3 (###) als oberster Ebene.
+<span class="k">-</span><span class="w"> </span>Formatiere die Dokumentation im Markdown Format zum Kopieren
+
+Frage mich zuerst nach dem Transkript und bearbeite dies dann mit diesen Anweisungen.
+</code></pre></div>
 
 
 
