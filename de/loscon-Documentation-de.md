@@ -6,7 +6,7 @@ subtitle: KI-unterstützte Dokumentation der lernOS Convention 2025
 title: loscon25 Un-Konferenzband
 titlepage: true
 titlepage-color: 000000
-titlepage-logo: src/images/loscon25-key-visual.png
+titlepage-logo: ./src/images/loscon25-key-visual.png
 titlepage-rule-color: 2e3192
 titlepage-text-color: ed1b24
 toc: true
@@ -14,84 +14,110 @@ toc-depth: 3
 toc-own-page: true
 ---
 
-- [[1]{.toc-section-number}
+- [[1]{.toc-section-number} loscon25
+  Un-Konferenzband](#loscon25-un-konferenzband){#toc-loscon25-un-konferenzband}
+- [[2]{.toc-section-number}
   Impulsvorträge](#impulsvorträge){#toc-impulsvorträge}
-  - [[1.1]{.toc-section-number} Simon Dückert: Ni lernOS - Wenn wir nur
+  - [[2.1]{.toc-section-number} Simon Dückert: Ni lernOS - Wenn wir nur
     wüssten, was wir
     wissen](#simon-dückert-ni-lernos---wenn-wir-nur-wüssten-was-wir-wissen){#toc-simon-dückert-ni-lernos---wenn-wir-nur-wüssten-was-wir-wissen}
-  - [[1.2]{.toc-section-number} Bettina Laugwitz: Mind the AI Safety
+  - [[2.2]{.toc-section-number} Bettina Laugwitz: Mind the AI Safety
     Gap](#bettina-laugwitz-mind-the-ai-safety-gap){#toc-bettina-laugwitz-mind-the-ai-safety-gap}
-- [[2]{.toc-section-number} Lightning
+- [[3]{.toc-section-number} Lightning
   Talks](#lightning-talks){#toc-lightning-talks}
-  - [[2.1]{.toc-section-number} Nele Hirsch: Modellierung als
+  - [[3.1]{.toc-section-number} Nele Hirsch: Modellierung als
     Mind-the-Knowledge-Gap-Ansatz bei der Interaktion mit
     KI-Sprachmodellen](#nele-hirsch-modellierung-als-mind-the-knowledge-gap-ansatz-bei-der-interaktion-mit-ki-sprachmodellen){#toc-nele-hirsch-modellierung-als-mind-the-knowledge-gap-ansatz-bei-der-interaktion-mit-ki-sprachmodellen}
-  - [[2.2]{.toc-section-number} William D.: You can never have enough
+  - [[3.2]{.toc-section-number} William D.: You can never have enough
     gaps!](#william-d.-you-can-never-have-enough-gaps){#toc-william-d.-you-can-never-have-enough-gaps}
-  - [[2.3]{.toc-section-number} Oliver Fischer: Selbstorganisation zum
+  - [[3.3]{.toc-section-number} Oliver Fischer: Selbstorganisation zum
     Anfassen -- Was Teams wirklich stark
     macht](#oliver-fischer-selbstorganisation-zum-anfassen-was-teams-wirklich-stark-macht){#toc-oliver-fischer-selbstorganisation-zum-anfassen-was-teams-wirklich-stark-macht}
-  - [[2.4]{.toc-section-number} Viktoria Köstner: Mind the Knowledge Gap
+  - [[3.4]{.toc-section-number} Viktoria Köstner: Mind the Knowledge Gap
     -- are your lessons really
     learned?](#viktoria-köstner-mind-the-knowledge-gap-are-your-lessons-really-learned){#toc-viktoria-köstner-mind-the-knowledge-gap-are-your-lessons-really-learned}
-  - [[2.5]{.toc-section-number} Daniel Prial: KI: Überbrücken wir die
+  - [[3.5]{.toc-section-number} Daniel Prial: KI: Überbrücken wir die
     Kommunikations-Gaps oder klingen wir alle wie
     Roboter?](#daniel-prial-ki-überbrücken-wir-die-kommunikations-gaps-oder-klingen-wir-alle-wie-roboter){#toc-daniel-prial-ki-überbrücken-wir-die-kommunikations-gaps-oder-klingen-wir-alle-wie-roboter}
-  - [[2.6]{.toc-section-number} Jan Bretschneider: Wissenslücken
+  - [[3.6]{.toc-section-number} Jan Bretschneider: Wissenslücken
     schließen durchs Lösen von
     Problemen](#jan-bretschneider-wissenslücken-schließen-durchs-lösen-von-problemen){#toc-jan-bretschneider-wissenslücken-schließen-durchs-lösen-von-problemen}
-  - [[2.7]{.toc-section-number} Felix Harling: Was Organisationen von
+  - [[3.7]{.toc-section-number} Felix Harling: Was Organisationen von
     Pilzen lernen
     können](#felix-harling-was-organisationen-von-pilzen-lernen-können){#toc-felix-harling-was-organisationen-von-pilzen-lernen-können}
-  - [[2.8]{.toc-section-number} Harald Schirmer: The Knowledge Gap in
+  - [[3.8]{.toc-section-number} Harald Schirmer: The Knowledge Gap in
     Management](#harald-schirmer-the-knowledge-gap-in-management){#toc-harald-schirmer-the-knowledge-gap-in-management}
-- [[3]{.toc-section-number} Sessions &
+- [[4]{.toc-section-number} Sessions &
   Workshops](#sessions-workshops){#toc-sessions-workshops}
-  - [[3.1]{.toc-section-number} Marcel Kirchner, Thomas Schmidt: Never
+  - [[4.1]{.toc-section-number} Marcel Kirchner, Thomas Schmidt: Never
     Prompt Alone! Erfahrungsbericht zum globalen Einsatz des lernOS
     KI-Leitfadens](#marcel-kirchner-thomas-schmidt-never-prompt-alone-erfahrungsbericht-zum-globalen-einsatz-des-lernos-ki-leitfadens){#toc-marcel-kirchner-thomas-schmidt-never-prompt-alone-erfahrungsbericht-zum-globalen-einsatz-des-lernos-ki-leitfadens}
-  - [[3.2]{.toc-section-number} Simon Qualmann, Simone Engelhard: Der
+  - [[4.2]{.toc-section-number} Simon Qualmann, Simone Engelhard: Der
     Working-Learning Gap -- Zwischen Alltagsstress und
     Lernanspruch](#simon-qualmann-simone-engelhard-der-working-learning-gap-zwischen-alltagsstress-und-lernanspruch){#toc-simon-qualmann-simone-engelhard-der-working-learning-gap-zwischen-alltagsstress-und-lernanspruch}
-  - [[3.3]{.toc-section-number} NN: tbd.](#nn-tbd.){#toc-nn-tbd.}
-  - [[3.4]{.toc-section-number} NN: tbd.](#nn-tbd.-1){#toc-nn-tbd.-1}
-  - [[3.5]{.toc-section-number} Magnus Rode, Daniel Prial: The Human &
+  - [[4.3]{.toc-section-number} NN: tbd.](#nn-tbd.){#toc-nn-tbd.}
+  - [[4.4]{.toc-section-number} NN: tbd.](#nn-tbd.-1){#toc-nn-tbd.-1}
+  - [[4.5]{.toc-section-number} Magnus Rode, Daniel Prial: The Human &
     Artificial Intelligence Gap -- Impact der KI auf die (digitale)
     Zusammenarbeit](#magnus-rode-daniel-prial-the-human-artificial-intelligence-gap-impact-der-ki-auf-die-digitale-zusammenarbeit){#toc-magnus-rode-daniel-prial-the-human-artificial-intelligence-gap-impact-der-ki-auf-die-digitale-zusammenarbeit}
-  - [[3.6]{.toc-section-number} Oliver Fischer: Selbstorganisation
+  - [[4.6]{.toc-section-number} Oliver Fischer: Selbstorganisation
     sichtbar machen -- Praxiserfahrungen mit dem 6K-Modell der LV
     1871](#oliver-fischer-selbstorganisation-sichtbar-machen-praxiserfahrungen-mit-dem-6k-modell-der-lv-1871){#toc-oliver-fischer-selbstorganisation-sichtbar-machen-praxiserfahrungen-mit-dem-6k-modell-der-lv-1871}
-  - [[3.7]{.toc-section-number} NN: tbd.](#nn-tbd.-2){#toc-nn-tbd.-2}
-  - [[3.8]{.toc-section-number} NN: tbd.](#nn-tbd.-3){#toc-nn-tbd.-3}
-  - [[3.9]{.toc-section-number} Susann Schulz: Mind the Diversity Gap:
+  - [[4.7]{.toc-section-number} NN: tbd.](#nn-tbd.-2){#toc-nn-tbd.-2}
+  - [[4.8]{.toc-section-number} NN: tbd.](#nn-tbd.-3){#toc-nn-tbd.-3}
+  - [[4.9]{.toc-section-number} Susann Schulz: Mind the Diversity Gap:
     Wie KI unsere blinden Flecken
     re(pro)duziert](#susann-schulz-mind-the-diversity-gap-wie-ki-unsere-blinden-flecken-reproduziert){#toc-susann-schulz-mind-the-diversity-gap-wie-ki-unsere-blinden-flecken-reproduziert}
-  - [[3.10]{.toc-section-number} Martin Harnisch: Enterprise Wikis:
+  - [[4.10]{.toc-section-number} Martin Harnisch: Enterprise Wikis:
     Warum alle alles lesen und bearbeiten können
     sollten](#martin-harnisch-enterprise-wikis-warum-alle-alles-lesen-und-bearbeiten-können-sollten){#toc-martin-harnisch-enterprise-wikis-warum-alle-alles-lesen-und-bearbeiten-können-sollten}
-  - [[3.11]{.toc-section-number} NN: tbd.](#nn-tbd.-4){#toc-nn-tbd.-4}
-  - [[3.12]{.toc-section-number} NN: tbd.](#nn-tbd.-5){#toc-nn-tbd.-5}
-  - [[3.13]{.toc-section-number} Björn Schotte: Der große
+  - [[4.11]{.toc-section-number} NN: tbd.](#nn-tbd.-4){#toc-nn-tbd.-4}
+  - [[4.12]{.toc-section-number} NN: tbd.](#nn-tbd.-5){#toc-nn-tbd.-5}
+  - [[4.13]{.toc-section-number} Björn Schotte: Der große
     Technologie-Struktur-Gap: Warum KI nicht an Technologie, sondern an
     Strukturen
     scheitert](#björn-schotte-der-große-technologie-struktur-gap-warum-ki-nicht-an-technologie-sondern-an-strukturen-scheitert){#toc-björn-schotte-der-große-technologie-struktur-gap-warum-ki-nicht-an-technologie-sondern-an-strukturen-scheitert}
-  - [[3.14]{.toc-section-number} Andreas Trebing, Felix Harling: The
+  - [[4.14]{.toc-section-number} Andreas Trebing, Felix Harling: The
     Second Brain Gap - Sammelst du noch oder denkst du
     schon?](#andreas-trebing-felix-harling-the-second-brain-gap---sammelst-du-noch-oder-denkst-du-schon){#toc-andreas-trebing-felix-harling-the-second-brain-gap---sammelst-du-noch-oder-denkst-du-schon}
-  - [[3.15]{.toc-section-number} NN: tbd.](#nn-tbd.-6){#toc-nn-tbd.-6}
-  - [[3.16]{.toc-section-number} NN: tbd.](#nn-tbd.-7){#toc-nn-tbd.-7}
-- [[4]{.toc-section-number} Podcasts](#podcasts){#toc-podcasts}
-  - [[4.1]{.toc-section-number} Silvia Roderus: Expert Debriefing
+  - [[4.15]{.toc-section-number} NN: tbd.](#nn-tbd.-6){#toc-nn-tbd.-6}
+  - [[4.16]{.toc-section-number} NN: tbd.](#nn-tbd.-7){#toc-nn-tbd.-7}
+- [[5]{.toc-section-number} Podcasts](#podcasts){#toc-podcasts}
+  - [[5.1]{.toc-section-number} Silvia Roderus: Expert Debriefing
     unplugged: Wissen strukturiert bewahren und
     weitergeben](#silvia-roderus-expert-debriefing-unplugged-wissen-strukturiert-bewahren-und-weitergeben){#toc-silvia-roderus-expert-debriefing-unplugged-wissen-strukturiert-bewahren-und-weitergeben}
-  - [[4.2]{.toc-section-number} Gabriele Schobess, Katharina Nolden:
+  - [[5.2]{.toc-section-number} Gabriele Schobess, Katharina Nolden:
     lernOS für gesellschaftliches Engagement und
     Beteiligung](#gabriele-schobess-katharina-nolden-lernos-für-gesellschaftliches-engagement-und-beteiligung){#toc-gabriele-schobess-katharina-nolden-lernos-für-gesellschaftliches-engagement-und-beteiligung}
-  - [[4.3]{.toc-section-number} NN: tbd.](#nn-tbd.-8){#toc-nn-tbd.-8}
-  - [[4.4]{.toc-section-number} NN: tbd.](#nn-tbd.-9){#toc-nn-tbd.-9}
-- [[5]{.toc-section-number} Anhang](#anhang){#toc-anhang}
-- [[6]{.toc-section-number} loscon25
-  Un-Konferenzband](#loscon25-un-konferenzband){#toc-loscon25-un-konferenzband}
+  - [[5.3]{.toc-section-number} NN: tbd.](#nn-tbd.-8){#toc-nn-tbd.-8}
+  - [[5.4]{.toc-section-number} NN: tbd.](#nn-tbd.-9){#toc-nn-tbd.-9}
+- [[6]{.toc-section-number} Anhang](#anhang){#toc-anhang}
+  - [[6.1]{.toc-section-number} Dokumentation der KI-basierten
+    Dokumentation](#dokumentation-der-ki-basierten-dokumentation){#toc-dokumentation-der-ki-basierten-dokumentation}
+
+# loscon25 Un-Konferenzband
+
+Die [lernOS Convention 2025](https://wiki.cogneon.de/loscon25)
+(loscon25, 1.-2. Juli 2025) hat das **Motto "Mind the Knowledge Gap"**
+([Blog](https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/)).
+Die loscon ist keine klassische Konferenz, sie kombiniert Elemente von
+Konferenz, Barcamp/Un-Konferenz und Community-Treffen (Convention =
+Zusammenkunft).
+
+![](images/loscon25-badge.png)
+
+Für diese **Dokumentation** setzen wir **Künstliche Intelligenz** und
+die **lernOS Produktionskette** ein. Es entsteht diese **Website** und
+**Dokumente** in verschiedenen Formaten (z.B. PDF, E-Book), die in der
+Navigation unter *Download* heruntergeladen werden. Außerdem können die
+Inhalte der Dokumentation über einen **Chatbot** genutzt werden. Dazu am
+besten unter Download die Markdown-Version herunterladen und in einem
+Chat z.B. im ChatGPT oder Microsoft Copilot hochladen.
+
+Der loscon 25 Un-Konferenzband wird unter der **Lizenz Creative Commons
+Namensnennung 4.0 International** ([CC
+BY](https://creativecommons.org/licenses/by/4.0/deed.de)) zur Verfügung
+gestellt. Der Inhalt kann und soll gerne weiter verwendet werden.
 
 # Impulsvorträge
 
@@ -325,28 +351,22 @@ Medien und einer realistischen Dosierung.
 
 # Anhang
 
-Doku des Ansatzes ...
+## Dokumentation der KI-basierten Dokumentation
 
-# loscon25 Un-Konferenzband
+Falls jemand einen ähnlichen Ansatz der KI-basierten Dokumentation
+verwenden möchte, hier ein paar Informationen zu unserer Konfiguration:
 
-Die [lernOS Convention 2025](https://wiki.cogneon.de/loscon25)
-(loscon25, 1.-2. Juli 2025) hat das **Motto "Mind the Knowledge Gap"**
-([Blog](https://cogneon.de/2025/03/02/mind-the-knowledge-gap-das-motto-der-lernos-convention-2025/)).
-Die loscon ist keine klassische Konferenz, sie kombiniert Elemente von
-Konferenz, Barcamp/Un-Konferenz und Community-Treffen (Convention =
-Zusammenkunft).
+1.  Alle Programmpunkte haben wir in Microsoft Teams (Vorträge,
+    Sessions) oder Discord/Reaper (Podcasts) aufgezeichnet (mp4, mp3).
+2.  Die Aufzeichnungen haben wir mit Whisper auf einem Mac Mini M4
+    transkribiert (txt).
+3.  Die Transkripte haben wir mit einem Prompt (s.u.) in eine
+    Dokumentation transformiert (md).
+4.  Alle Dokumentationen haben wir in eine vorgefertigte Struktur in
+    einem Github Repository kopiert
+    ([github.com/cogneon/loscon25doku](github.com/cogneon/loscon25doku)).
+5.  Mit der lernOS Produktionskette haben wir die Inhalte im Repository
+    in eine [Web-Version](https://cogneon.github.io/loscon25doku/de) und
+    weitere Download-Formate transformiert.
 
-![](images/loscon25-badge.png)
-
-Für diese **Dokumentation** setzen wir **Künstliche Intelligenz** und
-die **lernOS Produktionskette** ein. Es entsteht diese **Website** und
-**Dokumente** in verschiedenen Formaten (z.B. PDF, E-Book), die in der
-Navigation unter *Download* heruntergeladen werden. Außerdem können die
-Inhalte der Dokumentation über einen **Chatbot** genutzt werden. Dazu am
-besten unter Download die Markdown-Version herunterladen und in einem
-Chat z.B. im ChatGPT oder Microsoft Copilot hochladen.
-
-Der loscon 25 Un-Konferenzband wird unter der **Lizenz Creative Commons
-Namensnennung 4.0 International** ([CC
-BY](https://creativecommons.org/licenses/by/4.0/deed.de)) zur Verfügung
-gestellt. Der Inhalt kann und soll gerne weiter verwendet werden.
+**Prompt:** folgt.
