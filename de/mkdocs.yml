@@ -5,7 +5,7 @@ site_dir: ./docs/de
 edit_uri: ''
 
 nav:
-    - Willkommen: index.md
+    - Willkommen2: index.md
     - Impulsvorträge:
       - Simon Dückert - Ni lernOS - Wenn wir nur wüssten, was wir wissen: 1-1.md
       - Bettina Laugwitz - Mind the AI Safety Gap: 1-2.md
