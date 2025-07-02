@@ -662,62 +662,559 @@ Beteiligten erfordert.
 
 # Lightning Talks
 
-## Frédéric Heinemann - Collaborative Learning im SAP-Ecosystem - Key-User als Mentoren der Zukunft
+## Nele Hirsch - Modellierung als 'Mind the knowledge gap'-Ansatz bei der Interaktion mit KI-Sprachmodellen
 
-...
+> Der Ansatz der Modellierung (= sich seiner eigenen mentalen Modelle
+> bewusst werden, diese reflektieren und weiter entwickeln) kann sehr
+> gut als Grundlage zur Interaktion mit KI-Sprachmodellen genutzt
+> werden. Auf diese Weise wird ausgehend von bestehendem Wissen in
+> Interaktion mit KI-Sprachmodellen weiter gelernt. Ich werde
+> vorstellen, wie das praktisch aussehen kann und von meinen Erfahrungen
+> mit dem Ansatz berichten.
 
-## Simon Dückert - State of GenAI - was in meiner Wissensarbeit wirklich, wirklich funktioniert
+### Zusammenfassung des Vortrags: Modellierung als pädagogisches Konzept im KI-Zeitalter
 
-...
+Nele Hirsch präsentiert in ihrem kompakten 5-Minuten-Vortrag das
+pädagogische Konzept der Modellierung als Antwort auf die
+Herausforderungen, die KI-Sprachmodelle für das Lernen mit sich bringen.
+Sie argumentiert, dass technologische Fortschritte wie ChatGPT zwar
+beeindruckend sind, aber ohne bewusste Lernprozesse keine Menschen
+klüger machen. Die Modellierung bietet einen strukturierten Ansatz, um
+KI-Tools sinnvoll in Lernprozesse zu integrieren und dabei echtes
+Verständnis zu fördern.
 
-## Bernhard Rupp - 12 Freunde müsst ihr sein
+### Aufbau und Gliederung des Vortrags
 
-...
+Der Vortrag folgt einer klaren, dreiteiligen Struktur:
 
-## Florence Streif - Weichenstellung fürs digitale Zeitalter - Zwischen Bahnhof und Besprechungsraum
+1.  **Problemstellung**: Die Gefahr oberflächlicher KI-Nutzung ohne
+    echten Lerngewinn
+2.  **Lösungsansatz**: Das Drei-Schritte-Modell der Modellierung
+3.  **Praktische Anwendung**: Konkrete Umsetzung am Beispiel einer
+    Mindmap zu Mobile Learning
 
-...
+### Die Kernproblematik: Technologischer Fortschritt ohne menschlichen Lerngewinn
 
-## Moritz Huber - KI im Lern-Lifecycle - PoC für KI-gestütztes Anwenderlernen
+Hirsch eröffnet ihren Vortrag mit einer kritischen Betrachtung der
+öffentlichen Wahrnehmung von KI-Erfolgen. Sie bezieht sich auf
+Schlagzeilen wie *"ChatGPT besteht jetzt sogar das bayerische Abitur"*
+und stellt die zentrale Frage: *"Wenn ChatGPT oder irgendein anderes
+KI-Sprachmodell irgendwas Tolles hinkriegt, dann ist davon ja noch kein
+einziger Mensch schlauer, klüger, kompetenter, fähiger geworden."*
 
-...
+Diese Kernaussage verdeutlicht das fundamentale Problem im Umgang mit
+KI-Technologien im Bildungsbereich:
 
-## Mike Fritz - SAP Enable Now trifft auf WalkMe und die SAP Integrated Toolchain
+- Technologische Leistungen werden oft als Selbstzweck gefeiert
+- Der eigentliche Bildungsauftrag - Menschen zu befähigen - gerät aus
+  dem Blick
+- Es besteht die Gefahr, dass KI-Tools zu passivem Konsumverhalten
+  führen
 
-...
+### Das Drei-Schritte-Modell der Modellierung
 
-## Patrick Fueldner - Von der Einführung zur Skalierung - Nestlés Digital Adoption-Strategie mit WalkMe
+Hirsch präsentiert die Modellierung als bewährtes pädagogisches Konzept,
+das sich besonders gut für die Integration von KI eignet. Das Modell
+umfasst drei aufeinander aufbauende Schritte:
 
-...
+#### Schritt 1: Externalisierung des vorhandenen Wissens
 
-## Katja Sommerer - Big Bang - 40 Länder, 800 neue Mitarbeitende - Herausforderungen des Trainings in einem M+A-Projekt
+*"Man geht so vor, dass man als erstes sagt, was habe ich überhaupt in
+meinem Kopf und versucht es zu externalisieren. Also irgendwie für sich,
+für andere sichtbar zu machen."*
 
-...
+Dieser erste Schritt ist fundamental wichtig, da er:
 
-## Andrea Flöth - HR neu gedacht - BARMERs digitale Evolution mit Hilfe von SAP Preferred Success
+- Das bereits vorhandene Wissen bewusst macht
+- Eine Basis für weitere Lernprozesse schafft
+- Verhindert, dass Lernende von externen Informationen überwältigt
+  werden
 
-...
+#### Schritt 2: Bearbeitung und Weiterentwicklung
 
-## Mareike Muth - Übersetzer der Moderne - Das Learning Team als Katalysator zwischen Fachbereich und Enduser
+*"Der wirkliche Lernprozess ist dann dieses, dass ich an diesem, was ich
+externalisiert habe, so ein bisschen rumbasteln kann."*
 
-...
+In diesem Schritt findet der eigentliche Lernprozess statt:
+
+- Aktive Auseinandersetzung mit dem externalisierten Wissen
+- Experimentieren und Anpassen
+- Iterative Verbesserung durch Trial-and-Error
+
+#### Schritt 3: Reflexion und Metakognition
+
+*"Im dritten Schritt versuche ich dann natürlich noch zu reflektieren,
+also wie passte das jetzt, wie habe ich gelernt, wie könnte ich das das
+nächste Mal vielleicht noch schlauer machen."*
+
+Die Reflexionsphase ermöglicht:
+
+- Bewertung des Lernprozesses
+- Entwicklung von Strategien für zukünftiges Lernen
+- Förderung metakognitiver Fähigkeiten
+
+### Veranschaulichung durch praktische Beispiele
+
+Hirsch macht das abstrakte Konzept durch konkrete Beispiele greifbar:
+*"Man kann sich das Ganze ziemlich gut, quasi plastisch vorstellen, wenn
+man es so mit praktischen, konkreten Sachen zu tun hat. Also sowas wie,
+ich will jetzt irgendwie einen kleinen Stromkreislauf aufbauen oder ich
+will eine Brücke bauen."*
+
+Diese Beispiele verdeutlichen:
+
+- Den iterativen Charakter des Lernprozesses
+- Die Bedeutung des Scheiterns als Lernchance
+- Die Notwendigkeit praktischer Erprobung
+
+### Die besondere Relevanz für KI-gestütztes Lernen
+
+Hirsch identifiziert eine spezifische Gefahr beim Einsatz von
+KI-Sprachmodellen: *"Die ganz, ganz große Gefahr bei KI-Sprachmodellen
+liegt aus einer pädagogischen Perspektive ja daran, dass wir verleitet
+werden, eher Abkürzungen zu machen und so ein bisschen auch verleitet
+werden, wow, da ist das riesige Wissen, was da eigentlich drinnen liegt
+und ich kann einfach klick, klick, klick, klick und das wird mir alles
+so ein bisschen zugeworfen."*
+
+Diese Analyse zeigt verschiedene Problembereiche auf:
+
+- Verführung zur oberflächlichen Nutzung
+- Überwältigung durch die Informationsfülle
+- Mangelnde Verknüpfung mit vorhandenem Wissen
+- Passive Konsumhaltung statt aktiver Auseinandersetzung
+
+### Lösungsansatz: KI als Sparring Partner
+
+Die Modellierung bietet einen Weg, KI-Tools konstruktiv zu nutzen:
+*"Damit ich wirklich was damit anfangen kann, muss ich das ja verknüpfen
+und vernetzen mit dem, was ich schon in meinem Kopf habe."*
+
+Hirsch schlägt vor, KI in allen drei Phasen der Modellierung
+einzusetzen:
+
+- **Externalisierung**: KI hilft beim Bewusstmachen des eigenen Wissens
+- **Bearbeitung**: KI fungiert als Sparring Partner für die
+  Weiterentwicklung
+- **Reflexion**: KI unterstützt bei der Bewertung des Lernprozesses
+
+### Praktisches Beispiel: Mobile Learning Mindmap
+
+Hirsch demonstriert die Anwendung anhand eines konkreten Projekts: *"Ich
+habe es hier versucht, indem ich einfach mal gesagt habe, okay, was weiß
+ich denn zu Mobile Learning? Da wollte ich ein kleines Lernangebot dazu
+gestalten und habe einfach darum umgeschrieben, was fällt mir dazu
+ein."*
+
+Der Prozess gliederte sich wie folgt:
+
+1.  **Analoge Externalisierung**: Erstellen einer handschriftlichen
+    Mindmap
+2.  **Digitale Bearbeitung**: Eingabe in ein KI-Sprachmodell
+3.  **Gezielter Dialog**: Spezifische Nachfragen zu einzelnen Bereichen
+4.  **Ergänzung**: Integration der KI-Rückmeldungen in die ursprüngliche
+    Struktur
+
+### Alternative Externalisierungsmethoden
+
+Hirsch erwähnt verschiedene Möglichkeiten der Externalisierung:
+
+- Mindmaps (wie im Beispiel gezeigt)
+- Storytelling-Ansätze
+- Thesenformulierung
+- Entwicklung eigener KI-gestützter Lernwerkzeuge
+
+Besonders interessant ist ihr Hinweis auf die Entwicklung
+maßgeschneiderter Lerntools: *"Richtig cool wird es dann, wenn ich gar
+nicht in diesem klassischen Chatbot-Ding drinnen bleibe, sondern zum
+Beispiel KI-Sprachmodelle auch nutze, um mir gezielt ein Lernwerkzeug zu
+entwickeln."*
+
+### Vorteile des analogen Starts
+
+Ein wichtiger Aspekt ist Hirschs Präferenz für den analogen Beginn:
+*"Ich mache das gerne, dass ich den ersten Schritt mit der
+Externalisierung tatsächlich so mache, dass ich das noch gar nicht
+digital mache und lieber Ewa sowas aufzeichne."*
+
+Diese Herangehensweise bietet mehrere Vorteile:
+
+- Ungestörte Reflexion ohne technische Ablenkung
+- Förderung der kreativen Denkprozesse
+- Bewusste Abgrenzung zwischen eigenem und KI-generiertem Wissen
+- Haptisches Lernerlebnis
+
+### Strategien für effektive KI-Nutzung
+
+Hirsch betont die Bedeutung gezielter Interaktion mit KI-Systemen: *"In
+den einzelnen Bereichen ganz gezielt chatten, also sagen, schau doch
+mal, was ich als Definition festgelegt habe, was sagst du denn da dazu,
+was sagst du zu meinen Herausforderungen, was fällt dir da sonst noch
+ein."*
+
+Diese Strategie umfasst:
+
+- Spezifische statt allgemeine Anfragen
+- Aufbau auf bereits externalisiertem Wissen
+- Kritische Auseinandersetzung mit KI-Antworten
+- Iterative Verfeinerung der Ergebnisse
+
+### Metakognitive Reflexion als Schlüsselkompetenz
+
+Ein zentraler Aspekt der Modellierung ist die abschließende Reflexion:
+*"Ich kann am Ende diesen Lernprozess und auch die KI-Nutzung
+reflektieren und damit dann auch nochmal schlauer werden."*
+
+Diese Reflexionsebene ermöglicht:
+
+- Bewertung der Effektivität des gewählten Vorgehens
+- Identifikation von Verbesserungsmöglichkeiten
+- Entwicklung persönlicher Lernstrategien
+- Kritische Bewertung der KI-Unterstützung
+
+### Handlungsempfehlungen und Call to Actions
+
+Aus dem Vortrag lassen sich folgende konkrete Handlungsempfehlungen
+ableiten:
+
+#### Für Lehrende und Bildungsverantwortliche
+
+- Implementierung des Drei-Schritte-Modells der Modellierung in
+  KI-gestützte Lernprozesse
+- Förderung der bewussten Externalisierung von Vorwissen vor KI-Nutzung
+- Schulung im kritischen Umgang mit KI-generierten Inhalten
+- Entwicklung von Reflexionskompetenzen bei Lernenden
+
+#### Für Lernende
+
+- Bewusste Anwendung der Modellierungsstrategie bei KI-Nutzung
+- Widerstand gegen die Verführung zu oberflächlichen "Abkürzungen"
+- Aktive Verknüpfung von KI-Inhalten mit eigenem Vorwissen
+- Regelmäßige Reflexion über Lernprozesse und KI-Nutzung
+
+#### Für Bildungseinrichtungen
+
+- Integration der Modellierungsprinzipien in Curricula
+- Bereitstellung von Ressourcen für analoge Externalisierungsprozesse
+- Schulung von Lehrkräften in pädagogisch sinnvoller KI-Integration
+- Entwicklung von Bewertungskriterien für KI-gestützte Lernprozesse
+
+### Ausblick und Potenziale
+
+Hirsch schließt mit einem optimistischen Ausblick: *"Modellierung kann
+ich empfehlen als ein Ansatz."* Dieser Ansatz bietet Potenziale für:
+
+- Nachhaltigere Lernprozesse durch bewusste Wissensverknüpfung
+- Entwicklung kritischer Medienkompetenz im Umgang mit KI
+- Förderung selbstregulierter Lernprozesse
+- Präventive Maßnahmen gegen oberflächliche KI-Nutzung
+
+### Fazit: Ein bewährtes Konzept für neue Herausforderungen
+
+Hirschs Vortrag zeigt eindrucksvoll, wie etablierte pädagogische
+Konzepte neue Relevanz im digitalen Zeitalter gewinnen können. Die
+Modellierung erweist sich als praktikables Instrument, um die Potenziale
+von KI-Technologien zu nutzen, ohne dabei die Gefahr oberflächlicher
+Nutzung zu übersehen.
+
+Der Ansatz ist besonders wertvoll, weil er:
+
+- Auf bewährten pädagogischen Prinzipien aufbaut
+- Konkrete Handlungsschritte bietet
+- Sowohl für Lehrende als auch Lernende anwendbar ist
+- Die Balance zwischen technologischer Innovation und pädagogischer
+  Verantwortung wahrt
+
+Die Kernbotschaft des Vortrags lässt sich zusammenfassen als Aufruf zu
+einem bewussten, reflektierten Umgang mit KI-Technologien, bei dem das
+menschliche Lernen und Verstehen im Mittelpunkt steht. Nur so kann
+verhindert werden, dass beeindruckende technologische Fortschritte zu
+einer Verarmung echter Bildungsprozesse führen.
+
+## Thomas Jenewein: Von Wissenslücken zu Veränderungserfolg -- Wie Change Management Wissen und Emotionen verbindet
+
+> Change Management minimiert Risiken und Widerstände, fördert die
+> Akzeptanz bei den Mitarbeitern und stellt sicher, dass Veränderungen
+> nachhaltig und erfolgreich umgesetzt werden können. Wir schauen auf
+> die wesentlichen Praktiken anhand des neuen lernOS Leitfadens.
+
+## Oliver Fischer: Selbstorganisation zum Anfassen -- Was Teams wirklich stark macht
+
+> Was haben Kommunikation, Kontrolle und Kollegialität gemeinsam? Sie
+> gehören zu den sechs Dimensionen, mit denen wir bei der LV 1871 die
+> Selbstorganisation unserer Teams sichtbar machen. In diesem
+> 5-Minuten-Impuls zeige ich, wie ein einfaches Modell echte Aha-Momente
+> erzeugen kann -- nicht nur im Team, sondern auch bei Führungskräften
+> und im Change-Prozess. Wer wissen will, wie sich agile Reife nicht nur
+> fühlen, sondern auch messen lässt, sollte am nächsten Tag unbedingt
+> beim ausführlichen Vortrag vorbeischauen. Plus: Das Modell gibt's für
+> Neugierige auch zum Ausprobieren.
+
+## Victoria Köstner: Mind the Knowledge Gap -- are your lessons really learned?
+
+> Viele Projekte dokumentieren Erkenntnisse -- aber lernen sie auch
+> daraus? In diesem Lightning Talk zeige ich, warum Lessons Learned oft
+> ins Leere laufen und wie kollektives Lernen mit dem Projekt-Trialog
+> gelingt.
+
+## Daniel Prial: KI: Überbrücken wir die Kommunikations-Gaps oder klingen wir alle wie Roboter?
+
+> Bringt uns KI als Menschen näher zusammen oder treibt sie uns weiter
+> auseinander? Einer der größten Anwendungsfälle für KI-basierte LLM ist
+> das Übersetzen und Verbessern des Schreibens. Dies wirft eine
+> tiefgreifende Frage über die Auswirkungen von KI auf die menschliche
+> Kommunikation auf. Verbessert KI das Verständnis und überbrückt die
+> Kommunikations-Gaps zwischen Kolleg\*Innen, die über Sprachgrenzen
+> hinweg sprechen, oder nimmt sie die Authentizität unserer Fehler und
+> Missverständnisse weg? Verbinden wir uns mehr auf der Welt, oder
+> klingen wir alle wie Klone von ChatGPT? So erstaunlich diese
+> Technologie auch ist, die Frage bleibt bestehen.
+
+## Jan Bretschneider: Wissenslücken schließen durchs Lösen von Problemen
+
+> Ausgehend von Gerd Wohlands Definition eines Problem, will ich zeigen,
+> dass Probleme auch Wissenslücken sind. Methodisches Vorgehen kann uns
+> helfen, diese Lücken zu schließen.
+
+## Felix Harling: Was Organisationen von Pilzen lernen können.
+
+> Wer Peer Learning Enthusiast:in in einer Organisation ist, fühlst sich
+> sicher manchmal als Untergrund-Agent:in. Was können wir von den
+> Untergrund-Stars - den Pilzen - lernen? Inspiriert von "Verwobenes
+> Leben" (Merlin Sheldrake) ist dieser Lightning Talk ein Plädoyer für
+> Wissensökologie. Mit einem Augenzwinkern - und drei Fragen für alle,
+> die tiefer graben wollen. Dieser Talk ist ein Ergebnis aus meiner
+> Lernreise mit dem Zettelkasten Leitfaden.
+
+## Harald Schirmer: The Knowledge Gap in Management
+
+> Der Pitch zur Session - je weiter oben in der Karriere, je älter, um
+> so weniger Zeit und Lernlust im Management ... wir werfen einen Blick
+> auf eine "Referenzgruppe" - das globale GUIDE Netzwerk und
+> vergleichen.
+
+## Dajana Prellwitz: Wissenslücken füllt man nicht mit Tools -- Wissensmanagement neu gedacht bei NETZSCH
+
+> Wie gelingt es, Wissenslücken in einem internationalen
+> Industrieunternehmen systematisch zu schließen -- und dabei nicht nur
+> Tools, sondern vor allem Kultur zu verändern? In diesem Lightning Talk
+> gibt Dajana Prellwitz Einblicke in das Strategieprojekt „Knowledge
+> Culture" der NETZSCH-Gruppe -- mit Blick auf die Roadmap, erste
+> Umsetzungsschritte und die Herausforderungen auf dem Weg zu einer
+> gelebten Wissenskultur.
+
+## Armin Zoike: Mind the AI Gap: Warum dokmentiertes Wissen das wichtigste Asset im KI-Zeitalter ist und wie man es einfach aufbaut
+
+> Das bestehenden Ansätze zum Wissensmanagement es nur begrenzt schaffen
+> Wissen aus den Köpfen von Mitarbeitern zu digitalisieren, führt nicht
+> nur zu direkten Produktivitätsverlusten durch Wissensverlust,
+> Wissenssilos und verlorener Zeit bei der Suche und beim Teilen von
+> Informationen, sondern bedroht fundamental die Wettbewerbsfähigkeit
+> von Unternehmen im KI-Zeitalter. Ich gehe kurz darauf ein warum
+> Unternehmen nur in dem Maße von KI profitieren können, in dem sie
+> dieser ihr Wissen digital dokumentiert zur Verfügung stellen können
+> und zeige dann auf wie das am effektivsten gelingt.
 
 # Sessions & Workshops
+
+## Narcel Kirchner, Thomas Schmidt: Never Prompt Alone! Erfahrungsbericht zum globalen Einsatz des lernOS KI-Leitfadens
+
+> Nachdem wir im vergangenen Jahr den lernOS KI-Leitfaden neben dem
+> offenen KI-MOOC auch bei Continental intern mit etwa 200 KollegInnen
+> pilotieren konnten, durften wir diesen von Januar bis Mai 2025 in
+> enger Zusammenarbeit von IT, Communications und Learning allen
+> anbieten. Das (e)skalierte gleich mal richtig und so konnten wir die
+> Lernreise nun mit über 3.000 Interessierten durchführen. Was dabei
+> alles zu beachten war, wie der Leitfaden ankam, was für eine besondere
+> Prompting Challenge wir zum Abschluss mit allen durchgeführt haben und
+> welche Lessons Learned wir daraus ziehen konnten, wollen wir Euch hier
+> einmal vorstellen. Gerne möchten wir uns auch mit Euch über
+> vergleichbare KI-Upskilling Maßnahmen und aktuelle Wissenslücken im
+> Leitfaden austauschen.
 
 ## Promptathon
 
 > Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
 > Use Cases in Weiterbildung und Change Management im SAP-Bereich.
 
-## Discovery Workshop AI UseCases im Learning
+## Promptathon
 
-> Exploration und Identifizierung von relevanten Use Cases für den
-> Einsatz von KI für Change Management und Training in SAP Projekten.
+> Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
+> Use Cases in Weiterbildung und Change Management im SAP-Bereich.
 
-## Good Practices & Lessons Learned SAP S/4HANA Transformationen
+## Promptathon
 
-> Strategien für erfolgreiches OCM und Learning - Wichtige Do's & Dont's
-> und deren Umsetzung mit dem SAP Activate Framework.
+> Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
+> Use Cases in Weiterbildung und Change Management im SAP-Bereich.
+
+## Promptathon
+
+> Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
+> Use Cases in Weiterbildung und Change Management im SAP-Bereich.
+
+## Promptathon
+
+> Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
+> Use Cases in Weiterbildung und Change Management im SAP-Bereich.
+
+## Promptathon
+
+> Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
+> Use Cases in Weiterbildung und Change Management im SAP-Bereich.
+
+## Promptathon
+
+> Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
+> Use Cases in Weiterbildung und Change Management im SAP-Bereich.
+
+## Magnus Rode, Daniel Prial: The Human & Artificial Intelligence Gap -- Impact der KI auf die (digitale) Zusammenarbeit
+
+> In dieser Session diskutieren wir, ob Künstliche Intelligenz (KI) uns
+> dabei hilft, besser (digital) zusammenzuarbeiten, oder ob sie uns
+> menschlich weiter auseinanderbringt. Ein zentrales Thema ist die
+> Eigenverantwortung: Wie gehen wir damit um?
+
+## Susann Schulz: Mind the Diversity Gap: Wie KI unsere blinden Flecken re(pro)duziert
+
+> Künstliche Intelligenz reproduziert unseren Bias nicht nur -- sie
+> verstärkt ihn sogar. Gleichzeitig kann sie helfen, diese blinden
+> Flecken sichtbar zu machen. In dieser interaktiven Session analysieren
+> wir KI-generierte Texte und Bilder, reflektieren über fehlende
+> Perspektiven und erproben, wie wir durch bewusste Beschreibungen und
+> gezielte Perspektivwechsel vielfältigere, inklusivere Darstellungen
+> anstoßen können. Gemeinsam nähern wir uns dem Diversity Gap -- und
+> werfen einen bewussten Blick auf das, was oft übersehen wird.
+
+## Björn Schotte: Der große Technologie-Struktur-Gap: Warum KI nicht an Technologie, sondern an Strukturen scheitert
+
+> KI verändert radikal, wie Produkte entstehen: Hypothesen werden aus
+> Daten generiert, funktionierender Programmcode entsteht automatisch on
+> the fly, Prototypen werden live validiert, und Entscheidungen durch KI
+> vorbereitet und ausgelöst -- ohne, dass Teams klassisch „arbeiten"
+> müssen. Wir erleben den Aufstieg hyperautomatisierter Produktarbeit,
+> ermöglicht durch Agentic Meshes (dynamisch koordinierte Netzwerke
+> spezialisierter KI-Agenten), adaptive Systeme und kontinuierlich
+> ablaufende Feedback- und Release-Schleifen. Doch während die
+> Technologie längst bereit ist, bleibt eine Sache zurück: die
+> Organisation selbst. In traditionellen Strukturen stoßen AI-first
+> Ansätze schnell an Grenzen -- sei es durch Rollenbilder,
+> Freigabeprozesse oder das vorherrschende, durch KI sehr schnell
+> veraltende Verständnis von Produktarbeit. Die eigentliche Limitierung
+> ist nicht mehr technologisch -- sie ist strukturell: Die Organisation
+> und ihre Architektur sind nicht dafür gebaut, mit KI Schritt zu
+> halten. Und wer das nicht erkennt, wird nicht nur ausgebremst --
+> sondern verliert den Anschluss. Relevanz, Innovationskraft und
+> Entscheidungsfähigkeit stehen auf dem Spiel. KI verändert das
+> Spielfeld -- und Organisationen, die sich nicht mitverändern, werden
+> ersetzt. In dieser Session wird zeigt, warum es nicht reicht, KI-Tools
+> einzuführen oder Prozesse zu modernisieren. Nur wer auch die
+> Organisation neu denkt -- ihre Struktur, Schnittstellen,
+> Entscheidungswege -- wird das Potenzial von KI wirklich freisetzen.
+> Mit Beispielen aus der Praxis wird deutlich, wie dieser Wandel
+> gelingt, bevor das eigene Setup zum Bremsklotz wird -- oder einen
+> überrollt.
+
+## Simone Engelhard, Simon Qualmann: Der Working-Learning Gap -- Zwischen Alltagsstress und Lernanspruch
+
+> Wir glauben: Wer sich im Job weiterentwickeln soll, braucht mehr als
+> gute Inhalte -- nämlich Zeit, Struktur und Motivation. In dieser
+> Session nehmen wir den Working-Learning Gap unter die Lupe: die Lücke
+> zwischen dem Wunsch nach Weiterbildung und den realen Möglichkeiten im
+> Arbeitsalltag. Wie viel Zeit fürs Lernen ist realistisch -- und wie
+> viel wird erwartet? Welche Formate helfen wirklich weiter, ohne
+> zusätzlich zu belasten? Und was motiviert Menschen überhaupt, sich mit
+> Freude weiterzubilden? Gemeinsam wollen wir Lösungen finden, wie
+> Lernen im Alltag gelingt -- ohne Druck, sondern mit klugen Formaten,
+> passenden Medien und einer realistischen Dosierung.
+
+## Oliver Fischer: Selbstorganisation sichtbar machen -- Praxiserfahrungen mit dem 6K-Modell der LV 1871
+
+> Wie selbstorganisiert arbeiten unsere Teams wirklich -- und wie können
+> wir das zuverlässig messen? Bei der LV 1871 setzen wir seit drei
+> Jahren das eigens entwickelte 6K-Modell ein, um den Reifegrad agiler
+> Teams systematisch zu erfassen und weiterzuentwickeln. Anhand von
+> sechs Dimensionen (Kompetenzen, Kollegialität, Kommunikation,
+> Kontrolle, Kooperation, Koordination) erfolgt eine regelmäßige Selbst-
+> und Fremdeinschätzung, die eine wertvolle Grundlage für Teamdialoge,
+> Reflexion und gezielte Entwicklung bietet. Der Vortrag zeigt, wie das
+> Modell im Alltag eingesetzt wird, welche Erkenntnisse daraus gewonnen
+> werden und welche Impulse es für die Teamentwicklung liefert.
+> Interessierte Teilnehmende sind eingeladen, das Modell im eigenen
+> Kontext zu verproben -- wir stellen dafür Materialien und Begleitung
+> zur Verfügung.
+
+## Martin Harnisch: Enterprise Wikis: Warum alle alles lesen und bearbeiten können sollten
+
+> In vielen Organisationen sind Wikis stark eingeschränkt -- und bleiben
+> damit unter ihren Möglichkeiten. In dieser Session zeige ich, warum
+> ein offenes Wiki, in dem alle alles lesen und bearbeiten können, die
+> Zusammenarbeit und den Wissenstransfer massiv verbessern kann. Wir
+> sprechen über Vorteile, typische Bedenken und sinnvolle Grenzen -- und
+> darüber, wie ein Wiki zur lernenden Organisation beiträgt.
+
+## Andreas Trebing, Felix Harling: The Second Brain Gap - Sammelst du noch oder denkst du schon?
+
+> Ein Diskurs über den Nutzen des Zettelkastens, um mehr aus deinem
+> angesammelten Wissen zu machen.
+
+## Promptathon
+
+> Entwicklung und Optimierung von KI-Prompts für Herausforderungen und
+> Use Cases in Weiterbildung und Change Management im SAP-Bereich.
+
+# Podcasts
+
+## Silvia Roderus: Expert Debriefing unplugged: Wissen strukturiert bewahren und weitergeben
+
+> Wenn Mitarbeitende die Organisation verlassen, droht wertvolles Wissen
+> verloren zu gehen. Der Expert Debriefing Prozess bietet hier einen
+> strukturierten und moderierten Weg, dieses Wissen systematisch zu
+> sichern und weiterzugeben - unterstützt durch geeignete Tools und
+> GenAI (Generative Künstliche Intelligenz). In diesem interaktiven
+> Podcast beantworte ich deine Fragen zur praktischen Umsetzung des
+> Prozesses. Lass uns über Erfahrungen, Herausforderungen und
+> Lösungsansätze sprechen.
+
+## Gabriele Schobess, Katharina Nolden, Silvia Roderus: lernOS für gesellschaftliches Engagement und Beteiligung
+
+> lernOS für gesellschaftliches Engagement und Beteiligung unterstützt
+> Menschen dabei, ihre eigenen Stärken zu entdecken und sich aktiv in
+> die Gestaltung unserer Gesellschaft einzubringen. In einer Zeit großer
+> gesellschaftlicher Herausforderungen wollen wir Mut machen,
+> Verantwortung zu übernehmen und Demokratie sowie Vielfalt
+> mitzugestalten. lernOS bietet Impulse, Reflexionsfragen und praxisnahe
+> Werkzeuge, um aus eigener Motivation heraus aktiv zu werden. Dabei
+> geht es nicht nur um große Projekte -- auch kleine Schritte bewirken
+> Veränderung. Gemeinsam schaffen wir Räume für Beteiligung, in denen
+> Hoffnung und Zusammenhalt wachsen können
+
+## Simon Dückert, Christian Kaiser: Peer Learning groß machen - wie wir das selbstorganisierte Lernen als neues Normal etablieren (wollen)
+
+> Beim Corporate Learning MOOC (clmooc24) und beim Corporate Learning
+> Camp gab es Sessions zum Thema Peer Learning groß denken mit dem Ziel
+> eine Allianz zu gründen, die mit Peer Learning Wissen und Erfahrungen
+> über Unternehmensgrenzen hinweg überträgt. In diesem Podcast wollen
+> wir darüber sprechen, ob und wie das gelingt und welche Barrieren und
+> Wissenslücken es zu überwinden gibt. Simon wird einen kurzen Überblick
+> über die bisherigen Aktivitäten geben und Christian über die
+> Praxiserfahrungen bei DATEV berichten. Danach können sich alle mit
+> ihren Gedanken einbringen. Fokus liegt auf der praktischen
+> Umsetzbarkeit und welche Rolle die lernOS Community dabei spielen
+> kann. Wir haben die Inhalte der bisherigen Session in maschinenlesbare
+> Form gebracht und daraus einen Peer Learning Bot als CustomGPT gebaut.
+> So könnt ihr euch vorab mit dem bisherigen Diskussionsstand vertraut
+> machen. Für die Nutzung von CustomGPTs ist ein kostenpflichtiges Konto
+> notwendig. Wenn ihr das nicht habt, könnt ihr auch diese Markdowndatei
+> herunterladen und in das KI-Tool eurer Wahl hochladen (Coplilot,
+> Gemini, LeChat etc.).
+
+## Oliver Grobs, Tobias Gerndt: Sharing is Caring - Teilen macht reich
+
+> Viele Menschen in den großen Organisationen glauben immer noch, das
+> ihr Wissen einzigartig ist und sie durch ihre Erfahrung einzigartig
+> und unersetzbar sind. Wir wollen uns Gedanken machen, wie wir diese
+> Menschen dazu bewegen können, ihr Wissen gerne zu teilen und ihnen
+> auch Wege zeigen, wie sie das bewerkstelligen.
 
 # Anhang
 
