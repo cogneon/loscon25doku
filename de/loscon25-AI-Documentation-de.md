@@ -7255,13 +7255,14 @@ die zum Gelingen der lernOS Convention 2025 beigetragen haben:
 2.  **Moderationen:** Harald, Victoria (Hauptmoderation), Marina, Gerd
     (Promptathon)
 3.  **Video-Team:** Benedikt, Magnus, Marcel, Florian
-4.  **Room-Buddys:** Julia, Kerstin, Thomas, Hans
-5.  **Empfang:** Andja
-6.  **loscon Satelliten:** Oliver, Alex, Karl, Brigitte
-7.  **loscon Smartcards:** Marlene
-8.  **lernOS Supporter:** LV1871, DATEV, SAP, Netzsch, EnBW, bayernwerk,
+4.  **Room-Buddys:** Julia, Kerstin, Thomas, Felix
+5.  \*\*Po
+6.  **Empfang:** Andja
+7.  **loscon Satelliten:** Oliver, Alex, Karl, Brigitte
+8.  **loscon Smartcards:** Marlene
+9.  **lernOS Supporter:** LV1871, DATEV, SAP, Netzsch, EnBW, bayernwerk,
     IPI, Schaeffler
-9.  **Und natürlich die 152 Teilnehmer:innen!**
+10. **Und natürlich die 152 Teilnehmer:innen!**
 
 Tipp: wer nächstes Jahr im Orga-Team mitmachen will, kann gerne
 jederzeit an loscon@lernos.org schreiben.
