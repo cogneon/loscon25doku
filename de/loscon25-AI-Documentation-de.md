@@ -7265,4 +7265,6 @@ die zum Gelingen der lernOS Convention 2025 beigetragen haben:
 10. **Und natürlich die 152 Teilnehmer:innen!**
 
 Tipp: wer nächstes Jahr im Orga-Team mitmachen will, kann gerne
-jederzeit an loscon@lernos.org schreiben.
+jederzeit an
+[loscon@lernos.org](mailto:loscon@lernos.org?subject=Interesse%20loscon%20Orga-Team)
+schreiben.

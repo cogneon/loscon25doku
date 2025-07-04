@@ -13,4 +13,4 @@ Vielen Dank an dieser Stelle an die vielen Menschen und Organisationen, die zum 
 1. **lernOS Supporter:** LV1871, DATEV, SAP, Netzsch, EnBW, bayernwerk, IPI, Schaeffler
 1. **Und natürlich die 152 Teilnehmer:innen!**
 
-Tipp: wer nächstes Jahr im Orga-Team mitmachen will, kann gerne jederzeit an loscon@lernos.org schreiben.
+Tipp: wer nächstes Jahr im Orga-Team mitmachen will, kann gerne jederzeit an [loscon@lernos.org](mailto:loscon@lernos.org?subject=Interesse%20loscon%20Orga-Team) schreiben.
