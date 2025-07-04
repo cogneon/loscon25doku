@@ -7256,7 +7256,7 @@ die zum Gelingen der lernOS Convention 2025 beigetragen haben:
     (Promptathon)
 3.  **Video-Team:** Benedikt, Magnus, Marcel, Florian
 4.  **Room-Buddys:** Julia, Kerstin, Thomas, Felix
-5.  \*\*Po
+5.  **Podcast-Tisch:** Silvia
 6.  **Empfang:** Andja
 7.  **loscon Satelliten:** Oliver, Alex, Karl, Brigitte
 8.  **loscon Smartcards:** Marlene

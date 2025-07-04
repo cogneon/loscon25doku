@@ -6,7 +6,7 @@ Vielen Dank an dieser Stelle an die vielen Menschen und Organisationen, die zum 
 1. **Moderationen:** Harald, Victoria (Hauptmoderation), Marina, Gerd (Promptathon)
 1. **Video-Team:** Benedikt, Magnus, Marcel, Florian
 1. **Room-Buddys:** Julia, Kerstin, Thomas, Felix
-1. **Po
+1. **Podcast-Tisch:** Silvia
 1. **Empfang:** Andja
 1. **loscon Satelliten:** Oliver, Alex, Karl, Brigitte
 1. **loscon Smartcards:** Marlene
