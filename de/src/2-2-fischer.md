@@ -86,6 +86,6 @@ Der Vortrag schließt mit einem klaren Ausblick auf die Fortsetzung am folgenden
 
 Die Struktur zeigt eine durchdachte Veranstaltungsplanung, bei der zunächst Interesse geweckt und dann in einer separaten Session vertieft wird. Dies ermöglicht es Interessierten, sich gezielt für die relevanten Inhalte zu entscheiden.
 
-## Fazit
+### Fazit
 
 Das 6K-Modell der LV 1871 präsentiert sich als praxiserprobter, wissenschaftlich fundierter Ansatz zur Messung und Entwicklung von Selbstorganisation in Teams. Die Kombination aus theoretischer Fundierung, praktischer Erprobung und der geplanten Verfügbarmachung für andere Organisationen macht es zu einem vielversprechenden Instrument für die Organisationsentwicklung. Die sechs Dimensionen Kollegialität, Koordination, Kooperation, Kontrolle, Kompetenzen und Kommunikation bieten einen ganzheitlichen Rahmen für die systematische Verbesserung von Teamleistung.

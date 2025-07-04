@@ -24,7 +24,7 @@
 - Rolle von Multiplikatoren
 - Mehrwert des Wissensteilens
 
-## Kernaussagen
+### Kernaussagen
 
 ### Der Working Learning Gap als zentrale Herausforderung
 
@@ -86,7 +86,7 @@ Persönliche, direkte Ansprache erweist sich als effektives Mittel, um passive T
 
 Die typische Verteilung in Communities zeigt, dass nur ein kleiner Prozentsatz aktiv beiträgt, während die Mehrheit passiv konsumiert. Diese Erkenntnis ist wichtig für realistische Erwartungen und gezielte Aktivierungsmaßnahmen.
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Für Unternehmen und Führungskräfte
 

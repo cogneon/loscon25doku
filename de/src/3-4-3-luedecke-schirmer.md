@@ -24,7 +24,7 @@
 - Regelmäßige Treffen und Wissensaustausch
 - Langfristige Ziele der digitalen Transformation
 
-## Kernaussagen des Vortrags
+### Kernaussagen des Vortrags
 
 ### Die Notwendigkeit bewusster digitaler Entscheidungen
 
@@ -74,7 +74,7 @@ Ein philosophischer Aspekt des Vortrags ist die Idee des Lernens durch Ausprobie
 
 Diese Herangehensweise führt zu einer grundlegenden digitalen Kompetenz: *"Und wenn morgen ein neuer Chat-Client kommt, dann werde ich den sicher ausprobieren, um zu sehen, wer immer noch so funktioniert wie alle anderen Chat-Client."*
 
-## Handlungsempfehlungen und Call to Actions
+### Handlungsempfehlungen und Call to Actions
 
 ### Sofortiger Einstieg mit Passwort-Management
 

@@ -1,4 +1,4 @@
-## Nele Hirsch - Modellierung als 'Mind the knowledge gap'-Ansatz bei der Interaktion mit KI-Sprachmodellen
+## Nele Hirsch: Modellierung als 'Mind the knowledge gap'-Ansatz bei der Interaktion mit KI-Sprachmodellen
 
 > Der Ansatz der Modellierung (= sich seiner eigenen mentalen Modelle bewusst werden, diese reflektieren und weiter entwickeln) kann sehr gut als Grundlage zur Interaktion mit KI-Sprachmodellen genutzt werden. Auf diese Weise wird ausgehend von bestehendem Wissen in Interaktion mit KI-Sprachmodellen weiter gelernt.
 Ich werde vorstellen, wie das praktisch aussehen kann und von meinen Erfahrungen mit dem Ansatz berichten.

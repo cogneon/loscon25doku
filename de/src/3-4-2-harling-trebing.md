@@ -24,7 +24,7 @@
 ### Rolle der KI im Zettelkasten
 - Grenzen und Möglichkeiten von KI-Unterstützung
 
-## Kernaussagen des Vortrags
+### Kernaussagen des Vortrags
 
 ### Der fundamentale Unterschied zwischen Sammeln und Verarbeiten
 
@@ -90,7 +90,7 @@ Andreas positioniert KI klar: *"Es geht sehr stark beim Zettelkasten darum, es i
 
 KI kann höchstens beim Reflektieren helfen, aber der Content muss selbst geschrieben werden, um den Lerneffekt zu erzielen.
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Sofortiger Einstieg möglich
 

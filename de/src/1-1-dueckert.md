@@ -2,13 +2,7 @@
 
 > Gerade in turbulenten Zeiten wie unseren ist das strategische Wissensmanagement von großer Bedeutung. Umfelder und Rahmenbedingungen ändern sich kontinuierlich. Neue technologische Trends wie die Künstliche Intelligenz zwingen uns, unsere Aufgaben, Rollen, Geschäftsprozesse und vielleicht sogar Geschäftsmodelle kritische zu hinterfragen und auftauchende Wissenslücken systematisch zu schließen. Dieser Impuls gibt einen kompakten Überblick wie der Werkzeugkasten des Wissensmanagement und lernOS Individuen, Teams und Organisationen bei diesem Kraftakt helfen kann.
 
-# lernOS - Wenn wir nur wüssten, was wir wissen (sollten)
-
-### Kurze Zusammenfassung des Vortrags
-
-Simon Dückert präsentiert einen innovativen Ansatz zum Wissensmanagement durch den praktischen Einsatz von KI-Tools. Er demonstriert live, wie Künstliche Intelligenz als Sparringspartner für strategische Reflexion und Entwicklungsplanung eingesetzt werden kann. Dabei nutzt er die "Future Backwards"-Methode und zeigt auf, wie Organisationen ihre Wissenslücken identifizieren und schließen können. Der Vortrag verdeutlicht die Diskrepanz zwischen der rasanten technologischen Entwicklung und den noch immer hierarchischen Organisationsstrukturen des 20. Jahrhunderts.
-
-### Gliederung und Aufbau des Vortrags
+**Simon Dückert präsentiert einen innovativen Ansatz zum Wissensmanagement durch den praktischen Einsatz von KI-Tools. Er demonstriert live, wie Künstliche Intelligenz als Sparringspartner für strategische Reflexion und Entwicklungsplanung eingesetzt werden kann. Dabei nutzt er die "Future Backwards"-Methode und zeigt auf, wie Organisationen ihre Wissenslücken identifizieren und schließen können. Der Vortrag verdeutlicht die Diskrepanz zwischen der rasanten technologischen Entwicklung und den noch immer hierarchischen Organisationsstrukturen des 20. Jahrhunderts.**
 
 Der Vortrag gliedert sich in mehrere aufeinander aufbauende Abschnitte:
 

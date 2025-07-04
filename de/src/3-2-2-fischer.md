@@ -22,7 +22,7 @@ Das Problem war, dass ohne strukturierte Bewertung keine gezielte Unterstützung
 
 Die Motivation war klar definiert: Selbstorganisierte Teams sind zentral für agiles Arbeiten, ein Reifegradmodell hilft dabei, Stärken und Entwicklungsfelder sichtbar zu machen, und es bietet einen strukturierten Rahmen für Reflexion und Entwicklung.
 
-## Die sechs Dimensionen des 6K-Modells
+### Die sechs Dimensionen des 6K-Modells
 
 ### Koordination - Zusammenarbeit nach außen
 
@@ -82,7 +82,7 @@ Die sechste Dimension bewertet die zwischenmenschliche Ebene:
 
 Fischer betonte: *"Man spricht ja oft von Sicherheit im Team. Und genau das prüfen wir an der Stelle ab."*
 
-## Praktische Anwendung des 6K-Modells
+### Praktische Anwendung des 6K-Modells
 
 ### Workshop-Format und Durchführung
 
@@ -113,7 +113,7 @@ Fischer betonte: *"Es geht eigentlich mehr um den Dialog als um den Durchschnitt
 
 Ein entscheidender Erfolgsfaktor ist die professionelle Moderation: *"Das ist ein großer Erfolgsfaktor, dass man sowas moderiert macht und nicht den Teams das selber überlässt."* Bei der LV 1871 moderieren agile Coaches die Workshops und sorgen für strukturierte Ergebnisse.
 
-## Auswertung und Maßnahmenableitung
+### Auswertung und Maßnahmenableitung
 
 ### Abgleich von Selbst- und Fremdbild
 
@@ -135,7 +135,7 @@ Die Maßnahmen sind *"sehr teamindividuell"* und werden von den entsprechenden V
 
 Der einjährige Rhythmus hat sich bewährt, da die abgeleiteten Maßnahmen Zeit zur Umsetzung benötigen. Fischer begründete: *"Da kommen in der Regel jetzt nicht Dinge raus, die so super kurzfristig lösbar sind."*
 
-## Erfahrungen und Erkenntnisse
+### Erfahrungen und Erkenntnisse
 
 ### Vertraulichkeit der Ergebnisse
 
@@ -157,7 +157,7 @@ Interessant ist, dass gelegentlich die Fremdeinschätzung positiver ausfällt al
 
 Das Modell wird kontinuierlich weiterentwickelt. Aktuell experimentiert die LV 1871 mit einem Kurzformat, bei dem Teams und Stakeholder gemeinsam in einem Raum bewerten, anstatt parallel zu arbeiten.
 
-## Handlungsempfehlungen und Aufrufe
+### Handlungsempfehlungen und Aufrufe
 
 ### Angebot zur Weitergabe
 
@@ -180,7 +180,7 @@ Obwohl das Modell bisher nur in Software-Teams eingesetzt wird, sieht Fischer Po
 
 Das Modell ist flexibel gestaltbar. Die Stakeholder-Zusammensetzung kann je nach Kontext angepasst werden, und auch die Häufigkeit der Workshops kann variiert werden.
 
-## Fazit
+### Fazit
 
 Das 6K-Modell der LV 1871 bietet einen strukturierten Ansatz zur Bewertung und Entwicklung von Selbstorganisation in Teams. Durch die Kombination von Selbst- und Fremdeinschätzung, professioneller Moderation und konkreter Maßnahmenableitung entsteht ein wertvolles Instrument für die Teamentwicklung.
 

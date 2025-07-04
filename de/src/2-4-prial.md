@@ -20,7 +20,7 @@ Prial stellte gleich zu Beginn die zentrale These seines Vortrags vor: *"Wenn KI
 
 Der Sprecher positionierte sich dabei bewusst nicht als Experte mit fertigen Antworten, sondern als jemand, der aus eigener Erfahrung heraus Fragen aufwirft. Seine Rolle als US-Amerikaner in Deutschland, der für eine belgische Firma arbeitet, machte ihn zu einem authentischen Zeitzeugen der Herausforderungen multilingualer Kommunikation.
 
-## Das persönliche Dilemma: Authentizität versus Eloquenz
+### Das persönliche Dilemma: Authentizität versus Eloquenz
 
 Ein zentraler Baustein von Prials Argumentation war seine persönliche Reflexion über den Sprachgebrauch. Er bekannte: *"Ich spreche seit über die Hälfte meines Lebens Deutsch [...] Aber zu Professor Baldwins Missfallen heute schreibe ich alle meine ersten Entwürfe auf Englisch und KI übersetzt es."*
 

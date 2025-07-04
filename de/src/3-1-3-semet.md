@@ -4,8 +4,6 @@
 
 **Der Vortrag behandelt die zunehmende Bedeutung digitaler Assistenten in der Arbeitswelt und deren Auswirkungen auf Learning & Development. Der Referent führt durch eine interaktive Diskussion über bereits existierende digitale Assistenten (vom Waschzettel bis zum Navigationssystem) und zeigt auf, wie diese Technologien Vergessenslücken schließen, Entscheidungsfindung beschleunigen und die Arbeitseffizienz steigern können. Dabei werden sowohl die Potenziale als auch die ethischen Herausforderungen dieser Entwicklung beleuchtet.**
 
-## Gliederung und Aufbau des Vortrags
-
 ### Einleitung und Kontext
 - Vorstellung der Think Tank Learning and Friends Gruppe
 - Studienergebnisse zu KI-Einsatz und erwartetem Nutzen
@@ -23,7 +21,7 @@
 - Praktische Erfahrungen der Teilnehmer
 - Zukunftsperspektiven und Herausforderungen
 
-## Kernaussagen
+### Kernaussagen
 
 ### Digitale Assistenten sind bereits allgegenwärtig
 
@@ -113,7 +111,7 @@ Potenziale und Herausforderungen im Gesundheitswesen:
 - Gefahr der unkritischen Übernahme von Empfehlungen
 - Notwendigkeit menschlicher Expertise und Empathie
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Für Unternehmen und Führungskräfte
 

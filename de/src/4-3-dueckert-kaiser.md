@@ -29,7 +29,7 @@
 - Peer-Learning-Allianz
 - Konkrete nächste Schritte
 
-## Kernaussagen
+### Kernaussagen
 
 ### Die Evolution von Peer-Learning-Formaten
 
@@ -71,7 +71,7 @@ Christian beschrieb ein fundamentales Problem: *"Und mein wirkliches Problem ist
 
 Ellen Braun brachte eine wichtige Erkenntnis ein: *"Und da waren wir zur Quintessenz gekommen, nicht nur die Aufklärung, also immer wieder predigen, wir ziehen uns in Talar über, sondern auch Räume schaffen. Und das hatten wir vor zwei Jahren auch schon mal. Crafting Rooms war damals das Motto von der LOSCON. Aber das hatte ich dann auch nochmal definiert. Und da haben dann die Führungskräfte dann auch gesagt, ja, wir müssen Raum schaffen für Sollen und Dürfen. Ihr sollt und ihr dürft."*
 
-## Handlungsempfehlungen und Call to Actions
+### Handlungsempfehlungen und Call to Actions
 
 ### Monatliche Meetups etablieren
 

@@ -24,7 +24,7 @@
 - Kommunikationsoptimierung
 - Praktische Umsetzung am Beispiel des eigenen Startups
 
-## Kernaussagen des Vortrags
+### Kernaussagen des Vortrags
 
 ### Information ist kontextabhängig und subjektiv
 
@@ -68,7 +68,7 @@ Der Großteil des organisationalen Wissens existiert in den Köpfen der Mitarbei
 
 Zoike positioniert organisationales Wissen als den entscheidenden Wettbewerbsfaktor im KI-Zeitalter. Unternehmen, die ihr Wissen erfolgreich für KI-Systeme zugänglich machen, werden deutliche Produktivitätsvorteile erzielen.
 
-## Handlungsempfehlungen und Call to Actions
+### Handlungsempfehlungen und Call to Actions
 
 ### Aufwand für Wissensdokumentation reduzieren
 

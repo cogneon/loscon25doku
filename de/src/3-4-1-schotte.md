@@ -27,7 +27,7 @@
 - Kurzfristige, mittelfristige und langfristige Maßnahmen
 - Beispielarchitekturen und Use Cases
 
-## Kernaussagen des Vortrags
+### Kernaussagen des Vortrags
 
 ### Wissen als Wertschöpfungsfaktor
 
@@ -76,7 +76,7 @@ Ein besonders interessanter Aspekt betrifft die Veränderungen in der Softwareen
 
 Er beschreibt einen neuen Ansatz: *"Damit man in der Softwareentwicklung erfolgreich mit AI ist [...] geht man vor wie ein guter Architekt und wie ein guter Planer."* Dies bedeutet, zunächst in eine planerische Diskussion mit dem KI-System zu gehen, bevor in kleinen Schritten entwickelt wird.
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Kurzfristige Maßnahmen
 

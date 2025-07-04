@@ -18,7 +18,7 @@ Die Diskussion folgt einer strukturierten Herangehensweise:
 - **Implementation-Phase**: Umsetzung und Rollout
 - **Evaluation-Phase**: Bewertung und kontinuierliche Verbesserung
 
-## Kernaussagen
+### Kernaussagen
 
 ### Was ist ein KI-Agent?
 
@@ -40,7 +40,7 @@ Ein konkretes Beispiel aus der Praxis: *"Co-Pilot Agent auf diesen IT Campus los
 #### Vorstandsassistent
 Ein innovatives Beispiel zeigt einen Agenten für Führungskräfte: *"habe darauf jeweils einen Agent gebaut, der mir dann bei künftigen Sitzungen [...] wurde dieses Thema schon mal irgendwann besprochen, was war da die Zusammenfassung aus den Protokollen"*.
 
-## Anwendungsfälle entlang des ADDIE-Modells
+### Anwendungsfälle entlang des ADDIE-Modells
 
 ### Analyse-Phase: Bedarfsermittlung und Zielgruppenanalyse
 
@@ -80,7 +80,7 @@ Statt standardisierter Fragebögen könnten Agenten *"eher ein Interview"* führ
 #### Zielgerichtete Evaluation
 Ein Agent könnte analysieren, *"wer jetzt dieses Learning durchlaufen hat. Und nach einer gewissen Statistik überlegt er sich, wen er ins Tiefeninterview holt"*.
 
-## Herausforderungen und Grenzen
+### Herausforderungen und Grenzen
 
 ### Datenschutz und rechtliche Aspekte
 Die Diskussion zeigt Bedenken bezüglich Datenzugriff: *"wir haben ja alle Lernplattformen in den Unternehmen im Einsatz. [...] das zieht ja dann wahrscheinlich ein Rattenschwanz nach sich mit rechtlichen Geschichten und Datenschutz"*.
@@ -91,7 +91,7 @@ Ein wichtiger Punkt ist die Gefahr von Verzerrungen: *"ob sich das System dann n
 ### Technologische Reife
 Die Diskussion macht deutlich: *"im Moment ein Riesenhype, jeder spricht drüber, die Definition ist oder das Verständnis davon, was so ein Agent eigentlich ist, ist sehr unterschiedlich"*.
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Experimentieren und Lernen
 Die Teilnehmer ermutigen zum praktischen Ausprobieren und Experimentieren mit verfügbaren Tools und Frameworks.

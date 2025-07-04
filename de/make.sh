@@ -2,7 +2,7 @@ w#PATH=$PATH:/opt/homebrew/bin
 echo Starting Generation ...
 
 # Variables
-filename="loscon-Documentation-de"
+filename="loscon25-AI-Documentation-de"
 # chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Grundidee.md ./src/1-2-Lebenszyklus.md ./src/1-3-Inhaltsverzeichnis.md ./src/1-4-Inhalt-Schreibstil.md ./src/1-5-Markdown-Syntax.md ./src/1-6-Produktionskette.md ./src/1-7-Github.md ./src/2-0-Lernpfad.md ./src/3-0-Anhang.md"
 chapters=$(find ./src -type f -name "[0-9]*.md" | sort | tr '\n' ' ')
 chapters="./src/index.md $chapters"

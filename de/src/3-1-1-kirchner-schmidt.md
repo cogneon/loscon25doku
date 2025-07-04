@@ -73,7 +73,7 @@ Die Lernreise hatte positive Auswirkungen auf andere Bereiche des Unternehmens. 
 
 Dies führte zu weiteren Lernreisen: *"Wir wissen also, dass es in bestimmten Departments ähnlich weiter durchgeführt wird gerade, also es gibt drei oder vier weitere Lernreisen, die gerade stattfinden."*
 
-## Handlungsempfehlungen und Call to Actions
+### Handlungsempfehlungen und Call to Actions
 
 Die Referenten formulierten mehrere konkrete Handlungsempfehlungen für andere Organisationen:
 

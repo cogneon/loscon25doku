@@ -25,7 +25,7 @@
 - Unterscheidung zwischen "dürfen" und "brauchen"
 - Sicherheitsrelevante Ausnahmen
 
-## Kernaussagen des Vortrags
+### Kernaussagen des Vortrags
 
 ### Wiki-Definition und Grundprinzipien
 
@@ -57,7 +57,7 @@ Bei notwendigen Einschränkungen empfahl der Referent die Leitfrage: *"Dürfen d
 
 Das Fazit lautete: *"Das ideale Wiki sollte sich auf eine offene, gleichwertige und lernende Organisationskultur stützen und frei von auf Misstrauen basierten Restriktionen sein"*.
 
-## Diskussionsergebnisse und praktische Erfahrungen
+### Diskussionsergebnisse und praktische Erfahrungen
 
 ### Herausforderungen bei der Einführung
 
@@ -75,7 +75,7 @@ Die Diskussion machte deutlich, dass Wiki-Einführungen Zeit benötigen. Ein Tei
 
 Die Diskussion erweiterte sich auf alternative Tools wie OneNote oder Blogs, wobei betont wurde, dass das Ziel wichtiger sei als das spezifische Tool. Eine Teilnehmerin berichtete: *"Ich habe mich damals für einen Blog entschieden, auch nicht für einen Wiki bewusst, weil ich das Blog einfach nochmal dynamischer finde"*.
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Schulung und Kulturentwicklung
 - Umfassende Schulungen für alle Mitarbeitenden durchführen

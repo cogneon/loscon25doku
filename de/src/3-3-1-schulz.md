@@ -24,7 +24,7 @@
 - Entwicklung neutralerer Formulierungen
 - Praktisches Ausprobieren mit KI-Tools
 
-## Kernaussagen des Vortrags
+### Kernaussagen des Vortrags
 
 ### Das Diversity Gap als systematisches Problem
 
@@ -84,7 +84,7 @@ Interessant war dabei die Beobachtung, dass bei DALL-E 3 die dargestellten Männ
 
 Diese Aussage unterstreicht die gesellschaftliche Relevanz des Themas: KI-generierte Inhalte können Rollenbilder verfestigen und damit reale Auswirkungen auf Lebensentscheidungen haben.
 
-## Handlungsempfehlungen und Call to Actions
+### Handlungsempfehlungen und Call to Actions
 
 ### Bewusstseinsschaffung als erster Schritt
 
@@ -119,7 +119,7 @@ Die Referentin stellt konkrete Hilfsmittel vor:
 
 Diese Empfehlung richtet sich an Entwicklerteams und Organisationen, die KI-Systeme erstellen oder implementieren.
 
-## Diskussion und Erkenntnisse aus der Praxis
+### Diskussion und Erkenntnisse aus der Praxis
 
 ### Überraschende Beobachtungen der Teilnehmenden
 

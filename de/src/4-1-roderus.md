@@ -4,8 +4,6 @@
 
 **Der Podcast-Vortrag behandelt die Methode des Expertenbriefings als systematischen Ansatz zur Wissenssicherung beim Ausscheiden von Mitarbeitern. Die Diskussion zwischen den Teilnehmern Carsten (Conti Tech), Benjamin (Brose Fahrzeugteile) und Jean-Claude (Omega Consulting) beleuchtet praktische Erfahrungen, technische Möglichkeiten mit KI-Tools und die Herausforderungen bei der Umsetzung. Zentrale Themen sind die Wertschätzung von Erfahrungswissen, der Einsatz moderner Technologien zur Unterstützung des Prozesses und die Notwendigkeit, Wissen nicht nur zu dokumentieren, sondern auch für Nachfolger attraktiv und zugänglich zu gestalten.**
 
-## Gliederung und Aufbau des Vortrags
-
 ### Einführung und Vorstellung der Teilnehmer
 - Begrüßung und Vorstellungsrunde
 - Bisherige Erfahrungen mit Expertenbriefing
@@ -30,7 +28,7 @@
 - Kontextbezogene Wissensvermittlung
 - Nachhaltige Implementierung im Unternehmen
 
-## Kernaussagen
+### Kernaussagen
 
 ### Die Expertenbriefing-Methode als bewährter Ansatz
 
@@ -72,7 +70,7 @@ Dennoch bleibt Erfahrungswissen oft implizit: *"Aber je höher ich dann in der P
 
 Die Quantifizierung des Nutzens bleibt eine Herausforderung: *"Das ist der heilige Graal, so ein Price Tag, den Management verkaufen könnte."* Ansätze liegen in der Verkürzung der Einarbeitungszeit: *"Das ist der Wirkzeug an den Onboarding. Das kann man, glaube ich, schon am ehesten messen generell, wenn der Nachfolger das Ding auch nutzt. Anstatt nach einem halben Jahr ist der in zwei, drei Nolten schon drinnen."*
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Für Unternehmen
 

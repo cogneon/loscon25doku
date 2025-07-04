@@ -4,8 +4,6 @@
 
 **In dieser Session beschäftigten sich Achim (Community Manager bei Mercedes-Benz) und Tanja (selbstständige Community-Beraterin) mit der Frage, wie Communities dabei helfen können, unbekanntes Unwissen zu erkunden. Basierend auf dem Konferenz-Leitmotiv "Mind the Gap" entwickelten sie gemeinsam mit den Teilnehmenden Prinzipien und Methoden, um Wissenslücken aufzudecken, die man nicht einmal als solche erkennt. Die Session kombinierte theoretische Impulse mit praktischen Übungen und mündete in einer lebhaften Diskussion über die Rolle von Vertrauen, Konflikt und psychologischer Sicherheit beim gemeinsamen Lernen.**
 
-## Gliederung und Aufbau des Vortrags
-
 ### Einführung und Kontext
 - Vorstellung der Referenten und Einordnung in das Konferenz-Thema
 - Erläuterung des Rumsfeld-Quadranten von Wissen und Unwissen
@@ -24,7 +22,7 @@
 - Zusammenführung der Erkenntnisse
 - Handlungsempfehlungen für die Praxis
 
-## Kernaussagen
+### Kernaussagen
 
 ### Das Rumsfeld-Quadrat als Ausgangspunkt
 
@@ -87,7 +85,7 @@ Eine wichtige Erkenntnis war, dass *"sich so die Gruppendynamik in den Vordergru
 #### Achtsamkeit kultivieren
 *"Manchmal ist es ja so, dass man so Scheuklappen anhat und dass jemand etwas sagt oder etwas einem begegnet, ohne dass man es wirklich wahrnimmt. Also sich selber in Achtsamkeit zu üben und zu gucken, wie kann ich das verinnerlichen."*
 
-## Handlungsempfehlungen
+### Handlungsempfehlungen
 
 ### Für Community Manager
 

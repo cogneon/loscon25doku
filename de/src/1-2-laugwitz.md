@@ -1,14 +1,8 @@
-## Bettina Laugwitz - Mind the AI Safety Gap
+## Bettina Laugwitz: Mind the AI Safety Gap
 
 > Safety im Sinne von “AI soll so konstruiert sein und verwendet werden, dass sie nicht schädlich für Menschen ist”, da spielen ethische Prinzipien eine wichtige Rolle, aber auch “AI Literacy”, die allen Beteiligten ermöglicht, Risiken, Grenzen und Möglichkeiten bewusst abzuwägen.
 
-# Mind the AI Safety Gap - KI-Sicherheit und Ethik in der Praxis
-
-## Kurze Zusammenfassung
-
-Bettina Laugwitz von SAP präsentierte einen umfassenden Überblick über AI Safety und KI-Ethik, wobei sie die Parallelen zwischen der Entwicklung der Automobilindustrie und der heutigen KI-Revolution aufzeigte. Der Vortrag behandelte die drei Grundpfeiler vertrauenswürdiger KI - Rechtmäßigkeit, Robustheit und Ethik - und stellte SAPs Ansatz zur verantwortungsvollen KI-Entwicklung vor. Durch anschauliche Beispiele verdeutlichte sie sowohl die Potenziale als auch die Risiken aktueller KI-Technologien und präsentierte konkrete Lösungsansätze für die Implementierung ethischer KI-Systeme.
-
-## Gliederung und Aufbau des Vortrags
+**Bettina Laugwitz von SAP präsentierte einen umfassenden Überblick über AI Safety und KI-Ethik, wobei sie die Parallelen zwischen der Entwicklung der Automobilindustrie und der heutigen KI-Revolution aufzeigte. Der Vortrag behandelte die drei Grundpfeiler vertrauenswürdiger KI - Rechtmäßigkeit, Robustheit und Ethik - und stellte SAPs Ansatz zur verantwortungsvollen KI-Entwicklung vor. Durch anschauliche Beispiele verdeutlichte sie sowohl die Potenziale als auch die Risiken aktueller KI-Technologien und präsentierte konkrete Lösungsansätze für die Implementierung ethischer KI-Systeme.**
 
 Der Vortrag folgte einer strukturierten 3x3-Gliederung:
 

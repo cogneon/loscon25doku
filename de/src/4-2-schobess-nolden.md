@@ -4,8 +4,6 @@
 
 **Der Vortrag stellt ein innovatives Projekt vor, das einen Lernpfad für gesellschaftliches Engagement entwickelt. Initiiert durch die Sorge um demokratische Entwicklungen nach den Wahlen, arbeitet ein Team um Gabriele Schobess und Katharina Nolden an einem strukturierten Weg, der Menschen dabei unterstützt, den Einstieg in zivilgesellschaftliches Engagement zu finden. Der Lernpfad basiert auf einem Canvas-Format und soll sowohl für Einzelpersonen als auch für Gruppen nutzbar sein, um Menschen von der ersten Motivation bis zur konkreten Umsetzung ihres gesellschaftlichen Engagements zu begleiten.**
 
-## Gliederung und Aufbau des Vortrags
-
 ### Entstehungsgeschichte und Motivation
 Der Vortrag beginnt mit der persönlichen Geschichte der Entstehung des Projekts, ausgelöst durch die Wahlergebnisse und den Wunsch nach aktivem Handeln.
 
@@ -21,7 +19,7 @@ Einblicke in die Arbeitsweise des Entwicklungsteams und den aktuellen Stand.
 ### Zukunftsperspektiven und Verbreitung
 Diskussion über Marketing, Zielgruppen und Multiplikatoren.
 
-## Kernaussagen des Vortrags
+### Kernaussagen des Vortrags
 
 ### Die Notwendigkeit strukturierter Zugänge zum Engagement
 
@@ -85,7 +83,7 @@ Der Vortrag thematisiert auch die Unterscheidung zwischen Graswurzelbewegungen u
 
 Der Lernpfad soll beide Wege aufzeigen und Menschen dabei helfen zu erkennen, welcher Ansatz besser zu ihrer Persönlichkeit und ihren Zielen passt.
 
-## Handlungsempfehlungen und Call to Actions
+### Handlungsempfehlungen und Call to Actions
 
 ### Für potentiell Engagierte
 
