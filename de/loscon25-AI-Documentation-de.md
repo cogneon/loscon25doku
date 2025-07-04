@@ -5763,9 +5763,9 @@ Wissensmanagement transformiert werden kann.**
 
 ### Einführung und Vorstellung der Referenten
 
-- Andreas Harling: Ingenieur und Zettelkasten-Experte, Mitautor des
+- Andreas Trebing: Ingenieur und Zettelkasten-Experte, Mitautor des
   Zettelkasten-Leitfadens
-- Felix Trebing: Zettelkasten-Neuling mit praktischen Erfahrungen aus
+- Felix Harling: Zettelkasten-Neuling mit praktischen Erfahrungen aus
   der Lernreise
 
 ### Check-in: Vertrautheit mit dem Zettelkasten
