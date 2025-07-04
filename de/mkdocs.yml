@@ -7,21 +7,25 @@ edit_uri: ''
 nav:
     - Willkommen: index.md
     - Impulsvorträge:
-      - Simon Dückert - Ni lernOS - Wenn wir nur wüssten, was wir wissen: 1-1.md
-      - Bettina Laugwitz - Mind the AI Safety Gap: 1-2.md
+      - Simon Dückert - Ni lernOS - Wenn wir nur wüssten, was wir wissen: 1-1-dueckert.md
+      - Bettina Laugwitz - Mind the AI Safety Gap: 1-2-laugwitz.md
     - Lightning Talks:
-      - Nele Hirsch - Modellierung als 'Mind the knowledge gap'-Ansatz bei der Interaktion mit KI-Sprachmodellen: 2-1.md
-      - Oliver Fischer - Selbstorganisation zum Anfassen – Was Teams wirklich stark macht: 2-2.md
-      - Victoria Köstner - Mind the Knowledge Gap – are your lessons really learned?: 2-3.md
-      - Daniel Prial - KI - Überbrücken wir die Kommunikations-Gaps oder klingen wir alle wie Roboter?: 2-4.md
-      - Jan Bretschneider - Wissenslücken schließen durchs Lösen von Problemen: 2-5.md
-      - Felix Harling - Was Organisationen von Pilzen lernen können.: 2-6.md
-      - Harald Schirmer - The Knowledge Gap in Management: 2-7.md
-      - Dajana Prellwitz - Wissenslücken füllt man nicht mit Tools – Wissensmanagement neu gedacht bei NETZSCH: 2-8.md
-      - Armin Zoike - Mind the AI Gap - Warum dokmentiertes Wissen das wichtigste Asset im KI-Zeitalter ist und wie man es einfach aufbaut: 2-9.md
-      - Thomas Jenewein - Von Wissenslücken zu Veränderungserfolg – Wie Change Management Wissen und Emotionen verbindet: 2-10.md
-#    - Sessions und  Workshops:
-#   - Podcasts:
+      - Nele Hirsch - Modellierung als 'Mind the knowledge gap'-Ansatz bei der Interaktion mit KI-Sprachmodellen: 2-1-hirsch.md
+      - Oliver Fischer - Selbstorganisation zum Anfassen – Was Teams wirklich stark macht: 2-2-fischer.md
+      - Victoria Köstner - Mind the Knowledge Gap – are your lessons really learned?: 2-3-kostner.md
+      - Daniel Prial - KI - Überbrücken wir die Kommunikations-Gaps oder klingen wir alle wie Roboter?: 2-4-prial.md
+      - Jan Bretschneider - Wissenslücken schließen durchs Lösen von Problemen: 2-5-bretschneider.md
+      - Felix Harling - Was Organisationen von Pilzen lernen können.: 2-6-harling.md
+      - Harald Schirmer - The Knowledge Gap in Management: 2-7-schirmer.md
+      - Dajana Prellwitz - Wissenslücken füllt man nicht mit Tools – Wissensmanagement neu gedacht bei NETZSCH: 2-8-prellwitz.md
+      - Armin Zoike - Mind the AI Gap - Warum dokmentiertes Wissen das wichtigste Asset im KI-Zeitalter ist und wie man es einfach aufbaut: 2-9-zoike.md
+      - Thomas Jenewein - Von Wissenslücken zu Veränderungserfolg – Wie Change Management Wissen und Emotionen verbindet: 2-10-jenewein.md
+#   - Sessions und  Workshops:
+    - Podcasts:
+      - Silvia Roderus - Expert Debriefing unplugged: 4-1-roderus.md
+      - Gabriele Schobess, Katharina Nolden - lernOS für gesellschaftliches Engagement und Beteiligung: 4-2-schobess-nolden.md
+      - Simon Dückert, Christian Kaiser - Peer Learning groß machen: 4-3-dueckert-kaiser.md
+      - Oliver Grobs, Tobias Gerndt - Sharing is Caring - Teilen macht reich: 4-4-grobs-gerndt.md
     - Download:
       - Word-Version: https://github.com/cogneon/loscon25doku/blob/master/de/loscon-Documentation-de.docx
       - HTML-Version: https://github.com/cogneon/loscon25doku/blob/master/de/loscon-Documentation-de.html

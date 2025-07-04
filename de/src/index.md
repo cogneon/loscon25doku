@@ -2,10 +2,52 @@
 
 ![](./images/loscon25-key-visual-banner.png)
 
-Die [lernOS Convention 2025](https://community.sap.com/t5/sap-training-and-change-management/sap-learning-and-adoption-forum-2025-save-the-date/ba-p/14048737) findet vom 1.-2. Juli 2025 in Nürnberg, an drei Satelliten Lokationen (München, Hamburg, Berlin) und Online statt. Die Inhalte dieser Dokumentation stammen aus den Aufzeichnungen der Impulsvorträge, Lightning Talks, Sessions, Workshops und Podcasts.
+Die [lernOS Convention 2025](https://loscon.lernos.org) findet vom 1.-2. Juli 2025 in Nürnberg, an drei Satelliten Lokationen (München, Hamburg, Berlin) und Online statt. Die Inhalte dieser Dokumentation stammen aus den Aufzeichnungen der Impulsvorträge, Lightning Talks, Sessions, Workshops und Podcasts. Mit der Dokumentation könnt ihr sogar [mit diesem Chatbot](https://chatgpt.com/g/g-685e35df934c8191bdfbd56cd136038b-loscon25-doku-bot) (CustomGPT, Modell GPT-4o) "reden" ... das funktioniert sogar in natürlicher Sprache mit dem Voice Mode. Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen ;-)
 
-!!! note "Hinweis"
-    Mit der Dokumentation könnt ihr sogar [mit diesem Chatbot](https://chatgpt.com/g/g-685e35df934c8191bdfbd56cd136038b-loscon25-doku-bot) (CustomGPT, Modell GPT-4o) "reden" ... das funktioniert sogar in natürlicher Sprache mit dem Voice Mode. Die KI-generierten Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler machen 😉
+![](./images/loscon25-gruppenbild.jpg)
+
+## Programm
+
+Im Programm der loscon gab es Impulsvorträge, Lightning Talks, Sessions, Workshops und Live-Podcasts:
+
+| ID | Titel | Referent |
+| --- | --- | --- |
+|    | **Impulsvorträge** | |
+|    | [Ni lernOS – Wenn wir nur wüssten, was wir wissen (sollten)](1-1-dueckert.md) | Simon Dückert (Cogneon Akademie) |
+|    | [Mind the AI Safety Gap](1-2-laugwitz.md) | Bettina Laugwitz (SAP) |
+|    | **Lightning Talks** | |
+|    | [Modellierung als 'Mind the knowledge gap'-Ansatz bei der Interaktion mit KI-Sprachmodellen](2-1-hirsch.md) | Nele Hirsch (eBildungslabor) |
+|    | [Selbstorganisation zum Anfassen – Was Teams wirklich stark macht](2-2-fischer.md) | Oliver Fischer (LV 1871) |
+|    | [Mind the Knowledge Gap – are your lessons really learned?](2-3-koestner.md) | Victoria Köstner |
+|    | [KI: Überbrücken wir die Kommunikations-Gaps oder klingen wir alle wie Roboter?](2-4-prial.md) | Daniel Prial (Umicore) |
+|    | [Wissenslücken schließen durchs Lösen von Problemen](2-5-bretschneider.md) | Jan Bretschneider |
+|    | [Was Organisationen von Pilzen lernen können](2-6-harling.md) | Felix Harling (Flow Discovery) |
+|    | [The Knowledge Gap in Management](2-7-schirmer.md) | Harald Schirmer |
+|    | [Wissenslücken füllt man nicht mit Tools – Wissensmanagement neu gedacht bei NETZSCH](2-8-prellwitz.md) | Dajana Prellwitz |
+|    | [Mind the AI Gap](2-9-zoike.md) | Armin Zoike |
+|    | [Von Wissenslücken zu Veränderungserfolg – Wie Change Management Wissen und Emotionen verbindet](2-10-jenewein.md) | Thomas Jenewein (SAP) |
+|    | **Sessions und Workshops** | |
+|    | Was braucht eine Community, die "unbekanntes Unwissen" erkunden will? | Achim Brueck (Mercedes-Benz) |
+|    | Never Prompt Alone! | Marcel Kirchner (Continental), Thomas Schmidt (Continental) |
+|    | Der Working-Learning Gap | Simone Engelhard, Simon Qualmann (lernglust) |
+|    | Wie wichtig sind DIGITALE ASSISTENTEN? | Sven Semet |
+|    | The Human & Artificial Intelligence Gap | Magnus Rode (IPI), Daniel Prial (Umicore) |
+|    | Wie kann KI den Austausch ... verändern? | Armin Zoike |
+|    | Selbstorganisation sichtbar machen – Praxiserfahrungen mit dem 6K-Modell | Oliver Fischer (LV 1871) |
+|    | Use Cases für KI Agenten in Learning & Development | Thomas Jenewein (SAP) |
+|    | Mind the Diversity Gap | Susann Schulz (TH Wildau) |
+|    | How to close the Knowledge Gap in Management | Harald Schirmer |
+|    | Enterprise Wikis | Martin Harnisch (SIS) |
+|    | Schließe die Wissenslücke in deiner Projektwelt | Victoria Köstner |
+|    | Der große Technologie-Struktur-Gap | Björn Schotte (Mayflower) |
+|    | Digitale Souveränität #DigitalBewusstHandeln | Brigitte Lüdecke, Harald Schirmer |
+|    | The Second Brain Gap | Felix Harling (Flow Discovery), Andreas Trebing |
+|    | Zukunft der Softwareentwicklung in 2035 | Martin Heider |
+|    | **Podcasts** | |
+|    | [Expert Debriefing unplugged](4-1-roderus.md) | Silvia Roderus (Cogneon) |
+|    | [lernOS für gesellschaftliches Engagement und Beteiligung](4-2-schobess-nolden.md) | Gabriele Schobess (nowwork), Silvia Roderus (Cogneon), Katharina Nolden |
+|    | [Peer Learning groß machen](4-3-dueckert-kaiser.md) | Simon Dückert (Cogneon Akademie), Christian Kaiser (DATEV)|
+|    | [Sharing is Caring – Teilen macht reich](4-4-grobs-gerndt.md) | Oliver Grobs (EnBW), Tobias Gerndt |
 
 ## Workflow der KI-generierten Zusammenfassung
 Um die KI-basierte Dokumentation den Teilnehmenden schon während der Veranstaltung bereitstellen zu können, wurde die Auswertung und Bereitstellnug der Inhalte weitgehend automatisiert:

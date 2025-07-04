@@ -20,19 +20,142 @@ toc-own-page: true
 
 ![](./images/loscon25-key-visual-banner.png)
 
-Die [lernOS Convention
-2025](https://community.sap.com/t5/sap-training-and-change-management/sap-learning-and-adoption-forum-2025-save-the-date/ba-p/14048737)
-findet vom 1.-2. Juli 2025 in Nürnberg, an drei Satelliten Lokationen
-(München, Hamburg, Berlin) und Online statt. Die Inhalte dieser
-Dokumentation stammen aus den Aufzeichnungen der Impulsvorträge,
-Lightning Talks, Sessions, Workshops und Podcasts.
-
-!!! note "Hinweis" Mit der Dokumentation könnt ihr sogar [mit diesem
+Die [lernOS Convention 2025](https://loscon.lernos.org) findet vom 1.-2.
+Juli 2025 in Nürnberg, an drei Satelliten Lokationen (München, Hamburg,
+Berlin) und Online statt. Die Inhalte dieser Dokumentation stammen aus
+den Aufzeichnungen der Impulsvorträge, Lightning Talks, Sessions,
+Workshops und Podcasts. Mit der Dokumentation könnt ihr sogar [mit
+diesem
 Chatbot](https://chatgpt.com/g/g-685e35df934c8191bdfbd56cd136038b-loscon25-doku-bot)
 (CustomGPT, Modell GPT-4o) "reden" ... das funktioniert sogar in
 natürlicher Sprache mit dem Voice Mode. Die KI-generierten
 Zusammenfassungen wurden **NICHT** nachberarbeitet. Die KI kann Fehler
-machen 😉
+machen ;-)
+
+![](./images/loscon25-gruppenbild.jpg)
+
+## Programm
+
+Im Programm der loscon gab es Impulsvorträge, Lightning Talks, Sessions,
+Workshops und Live-Podcasts:
+
+  --------------------------------------------------------------------------------------
+  ID                      Titel                                  Referent
+  ----------------------- -------------------------------------- -----------------------
+                          **Impulsvorträge**                     
+
+                          [Ni lernOS -- Wenn wir nur wüssten,    Simon Dückert (Cogneon
+                          was wir wissen                         Akademie)
+                          (sollten)](1-1-dueckert.md)            
+
+                          [Mind the AI Safety                    Bettina Laugwitz (SAP)
+                          Gap](1-2-laugwitz.md)                  
+
+                          **Lightning Talks**                    
+
+                          [Modellierung als 'Mind the knowledge  Nele Hirsch
+                          gap'-Ansatz bei der Interaktion mit    (eBildungslabor)
+                          KI-Sprachmodellen](2-1-hirsch.md)      
+
+                          [Selbstorganisation zum Anfassen --    Oliver Fischer (LV
+                          Was Teams wirklich stark               1871)
+                          macht](2-2-fischer.md)                 
+
+                          [Mind the Knowledge Gap -- are your    Victoria Köstner
+                          lessons really                         
+                          learned?](2-3-koestner.md)             
+
+                          [KI: Überbrücken wir die               Daniel Prial (Umicore)
+                          Kommunikations-Gaps oder klingen wir   
+                          alle wie Roboter?](2-4-prial.md)       
+
+                          [Wissenslücken schließen durchs Lösen  Jan Bretschneider
+                          von Problemen](2-5-bretschneider.md)   
+
+                          [Was Organisationen von Pilzen lernen  Felix Harling (Flow
+                          können](2-6-harling.md)                Discovery)
+
+                          [The Knowledge Gap in                  Harald Schirmer
+                          Management](2-7-schirmer.md)           
+
+                          [Wissenslücken füllt man nicht mit     Dajana Prellwitz
+                          Tools -- Wissensmanagement neu gedacht 
+                          bei NETZSCH](2-8-prellwitz.md)         
+
+                          [Mind the AI Gap](2-9-zoike.md)        Armin Zoike
+
+                          [Von Wissenslücken zu                  Thomas Jenewein (SAP)
+                          Veränderungserfolg -- Wie Change       
+                          Management Wissen und Emotionen        
+                          verbindet](2-10-jenewein.md)           
+
+                          **Sessions und Workshops**             
+
+                          Was braucht eine Community, die        Achim Brueck
+                          "unbekanntes Unwissen" erkunden will?  (Mercedes-Benz)
+
+                          Never Prompt Alone!                    Marcel Kirchner
+                                                                 (Continental), Thomas
+                                                                 Schmidt (Continental)
+
+                          Der Working-Learning Gap               Simone Engelhard, Simon
+                                                                 Qualmann (lernglust)
+
+                          Wie wichtig sind DIGITALE ASSISTENTEN? Sven Semet
+
+                          The Human & Artificial Intelligence    Magnus Rode (IPI),
+                          Gap                                    Daniel Prial (Umicore)
+
+                          Wie kann KI den Austausch ...          Armin Zoike
+                          verändern?                             
+
+                          Selbstorganisation sichtbar machen --  Oliver Fischer (LV
+                          Praxiserfahrungen mit dem 6K-Modell    1871)
+
+                          Use Cases für KI Agenten in Learning & Thomas Jenewein (SAP)
+                          Development                            
+
+                          Mind the Diversity Gap                 Susann Schulz (TH
+                                                                 Wildau)
+
+                          How to close the Knowledge Gap in      Harald Schirmer
+                          Management                             
+
+                          Enterprise Wikis                       Martin Harnisch (SIS)
+
+                          Schließe die Wissenslücke in deiner    Victoria Köstner
+                          Projektwelt                            
+
+                          Der große Technologie-Struktur-Gap     Björn Schotte
+                                                                 (Mayflower)
+
+                          Digitale Souveränität                  Brigitte Lüdecke,
+                          #DigitalBewusstHandeln                 Harald Schirmer
+
+                          The Second Brain Gap                   Felix Harling (Flow
+                                                                 Discovery), Andreas
+                                                                 Trebing
+
+                          Zukunft der Softwareentwicklung in     Martin Heider
+                          2035                                   
+
+                          **Podcasts**                           
+
+                          [Expert Debriefing                     Silvia Roderus
+                          unplugged](4-1-roderus.md)             (Cogneon)
+
+                          [lernOS für gesellschaftliches         Gabriele Schobess
+                          Engagement und                         (nowwork), Silvia
+                          Beteiligung](4-2-schobess-nolden.md)   Roderus (Cogneon),
+                                                                 Katharina Nolden
+
+                          [Peer Learning groß                    Simon Dückert (Cogneon
+                          machen](4-3-dueckert-kaiser.md)        Akademie), Christian
+                                                                 Kaiser (DATEV)
+
+                          [Sharing is Caring -- Teilen macht     Oliver Grobs (EnBW),
+                          reich](4-4-grobs-gerndt.md)            Tobias Gerndt
+  --------------------------------------------------------------------------------------
 
 ## Workflow der KI-generierten Zusammenfassung
 
@@ -2929,7 +3052,191 @@ und entsprechend handeln.
 > Prozesses. Lass uns über Erfahrungen, Herausforderungen und
 > Lösungsansätze sprechen.
 
-## Gabriele Schobess, Katharina Nolden, Silvia Roderus: lernOS für gesellschaftliches Engagement und Beteiligung
+**Der Podcast-Vortrag behandelt die Methode des Expertenbriefings als
+systematischen Ansatz zur Wissenssicherung beim Ausscheiden von
+Mitarbeitern. Die Diskussion zwischen den Teilnehmern Carsten (Conti
+Tech), Benjamin (Brose Fahrzeugteile) und Jean-Claude (Omega Consulting)
+beleuchtet praktische Erfahrungen, technische Möglichkeiten mit KI-Tools
+und die Herausforderungen bei der Umsetzung. Zentrale Themen sind die
+Wertschätzung von Erfahrungswissen, der Einsatz moderner Technologien
+zur Unterstützung des Prozesses und die Notwendigkeit, Wissen nicht nur
+zu dokumentieren, sondern auch für Nachfolger attraktiv und zugänglich
+zu gestalten.**
+
+## Gliederung und Aufbau des Vortrags
+
+### Einführung und Vorstellung der Teilnehmer
+
+- Begrüßung und Vorstellungsrunde
+- Bisherige Erfahrungen mit Expertenbriefing
+
+### Die Expertenbriefing-Methode im Überblick
+
+- Sechs-Schritte-Prozess
+- Wissenslernkarte als zentrales Element
+- Maßnahmenableitung und Priorisierung
+
+### Praktische Erfahrungen und Herausforderungen
+
+- Erfolgsgeschichten und Negativbeispiele
+- Rolle der Führungskräfte und des Betriebsrats
+- Wertschätzung als Erfolgsfaktor
+
+### Technische Unterstützung durch KI-Tools
+
+- Einsatz von Transkription und automatischer Zusammenfassung
+- Podcast-Erstellung und Mindmapping
+- Grenzen und Möglichkeiten der Automatisierung
+
+### Zukunftsperspektiven und Handlungsempfehlungen
+
+- Kollaboratives Arbeiten als Präventionsmaßnahme
+- Kontextbezogene Wissensvermittlung
+- Nachhaltige Implementierung im Unternehmen
+
+## Kernaussagen
+
+### Die Expertenbriefing-Methode als bewährter Ansatz
+
+*"Die Methode gibt es schon relativ lang, haben wir bei Cognion schon
+seit über 20 Jahren im Einsatz. Es besteht aus letztlich sechs
+Schritten."* Die Methode folgt einem strukturierten Prozess:
+Bedarfsermittlung, Vorgespräch, Erstellung einer Wissenslernkarte,
+Priorisierung, Feedback-Schleife und Maßnahmenumsetzung mit
+abschließendem Reflexionsgespräch.
+
+Das Herzstück bildet die Wissenslernkarte, die systematisch das
+Erfahrungswissen erfasst: *"Und da geht es dann wirklich darum, eben
+dieses Erfahrungswissen, was eben im Kopf steckt und was sonst mit der
+Person besonders viel verlässt, eben zu sichern."* Dabei gilt der
+Grundsatz *"the map is not the territory"* - es geht um eine
+strukturierte Übersicht, nicht um vollständige Detailerfassung.
+
+### Wertschätzung als Erfolgsfaktor
+
+Ein zentraler Erfolgsfaktor ist die Wertschätzung des ausscheidenden
+Mitarbeiters: *"Das ist das große Thema, warum das viele Mitarbeiter
+auch generell machen, weil sie eben sagen, das Wissen geht weiter. Das
+geht jetzt nicht verloren, wenn ich weg bin, gerade nach 30, 40
+Jahren."*
+
+Die Visualisierung des Wissens durch die Landkarte erzeugt oft
+Überraschung: *"Da ist ein riesiger Aha-Effekt da. Da ist das Wissen mal
+visualisiert und das ist unglaublich. Das habe ich in jedem Bibliothek,
+wo dann alle sagen, okay, das habe ich gemacht, habe ich gar nicht
+gewusst."*
+
+### Herausforderungen bei der Nachfolge
+
+Moderne Arbeitsstrukturen erfordern neue Ansätze: *"Ich glaube, die eine
+Nachfolgeperson, die gibt es heutzutage nicht mehr. Oft werden
+Positionen gestrichen oder reduziert oder verteilt."* Dies führt zu
+1-zu-N-Übergaben, bei denen das Wissen einer Person auf mehrere
+Nachfolger verteilt werden muss.
+
+Ein Negativbeispiel verdeutlicht die Risiken: *"Der kam dann an und
+hatte etwas andere Designvorstellungen bei seinem Büro und an den
+Aktenschrank passt er da nicht rein. Da wollte er lieber ein schönes
+Bild hinhängen und meinte, was soll der Mist, der kommt hier raus, das
+brauche ich nicht zu wissen."*
+
+### KI-Tools als Unterstützung
+
+Moderne Technologien können den Prozess erheblich verbessern: *"Wir
+haben dann das Ding aufgezeichnet, haben es transkribiert durch
+Microsoft, haben dann das über Clean Voice, diese AS und M
+rausgeschmissen, haben dann das in Mappify reingeschmissen, das Tool für
+automatische Mindmap-Einstellung."*
+
+Besonders wertvoll ist die Unterstützung bei der Fragenerstellung: *"Als
+Inspiration, welche Fragen kann ich stellen? Denke mal an das, denke an
+das. Und das ist als Spallingspartner zu nutzen gigantisch."*
+
+### Grenzen der Automatisierung
+
+Trotz technischer Möglichkeiten bleibt die menschliche Komponente
+entscheidend: *"Ich glaube, da wird sich wahrscheinlich dann irgendwann
+mal, ich hoffe mal, die Spreu vom Weizen trennen, mir versus der KI."*
+Der Aufbau von Vertrauen und emotionaler Bindung ist für das Erreichen
+des Erfahrungswissens unerlässlich.
+
+*"Da passiert, zumindest von meiner Frage nach, die erste Viertelstunde,
+wenn so diese kleineren Themen gefragt werden, welche Serientermine hast
+du, was sind deine Laufwerke, deine Quellen, dann kommen die in dieses
+Fragen-Antwort-Fragen-Antwort rein, dann vergessen die alles drumherum
+und dann haben die Vertrauensverhältnisse."*
+
+### Zukunft des Wissensmanagements
+
+Die Diskussion zeigt auf, dass kollaboratives Arbeiten das
+Expertenbriefing ergänzen, aber nicht ersetzen kann: *"Wenn wir wirklich
+auf eine neue Arbeitsmethodik umsteigen, dass wir einfach von vornherein
+kollaborativ arbeiten, unser Wissen eben nicht auf dem Notebook
+konzentriert mit Passwort schützen, sondern in wohl administrierten
+Sharepoints mit den Leuten teilen."*
+
+Dennoch bleibt Erfahrungswissen oft implizit: *"Aber je höher ich dann
+in der Pyramide gehe, gerade in der Verantwortung her, ist es so, dass
+meistens dann tatsächlich auch der Disconnect passiert."*
+
+### Wirtschaftliche Bewertung
+
+Die Quantifizierung des Nutzens bleibt eine Herausforderung: *"Das ist
+der heilige Graal, so ein Price Tag, den Management verkaufen könnte."*
+Ansätze liegen in der Verkürzung der Einarbeitungszeit: *"Das ist der
+Wirkzeug an den Onboarding. Das kann man, glaube ich, schon am ehesten
+messen generell, wenn der Nachfolger das Ding auch nutzt. Anstatt nach
+einem halben Jahr ist der in zwei, drei Nolten schon drinnen."*
+
+## Handlungsempfehlungen
+
+### Für Unternehmen
+
+- **Frühzeitige Planung**: Beginnen Sie mit dem Expertenbriefing 3-6
+  Monate vor dem Ausscheiden wichtiger Mitarbeiter
+- **Wertschätzung zeigen**: Kommunizieren Sie deutlich die Wichtigkeit
+  des Wissens und würdigen Sie die Expertise der ausscheidenden Person
+- **Technische Unterstützung nutzen**: Setzen Sie KI-Tools für
+  Transkription, Zusammenfassung und Strukturierung ein, aber behalten
+  Sie die menschliche Moderation bei
+- **Systematische Integration**: Integrieren Sie Expertenbriefing in
+  bestehende Austrittsprozesse, besonders für kritische Rollen
+
+### Für Moderatoren
+
+- **Vertrauen aufbauen**: Beginnen Sie mit einfachen, nicht-bedrohlichen
+  Fragen zu Terminen und Routinen
+- **KI als Sparringspartner**: Nutzen Sie KI-Tools zur Vorbereitung von
+  Fragen und zur Nachbereitung von Gesprächen
+- **Aufzeichnung und Dokumentation**: Zeichnen Sie Gespräche auf und
+  nutzen Sie automatische Transkription zur Entlastung
+- **Feedback-Schleifen**: Holen Sie systematisch Rückmeldungen von
+  Kollegen und Vorgesetzten ein
+
+### Für ausscheidende Mitarbeiter
+
+- **Proaktive Dokumentation**: Beginnen Sie frühzeitig mit der
+  Dokumentation Ihres Wissens, idealerweise 2 Jahre vor dem geplanten
+  Ausscheiden
+- **Offenheit zeigen**: Teilen Sie auch informelle Arbeitsweisen und
+  "Workarounds" mit
+- **Lessons Learned dokumentieren**: Erfassen Sie nicht nur Erfolge,
+  sondern auch Fehler und deren Vermeidung
+- **Kollaborative Haltung**: Sehen Sie das Expertenbriefing als Chance,
+  Ihr Lebenswerk zu würdigen und weiterzugeben
+
+### Für Nachfolger
+
+- **Aktive Teilnahme**: Beteiligen Sie sich wenn möglich bereits am
+  Expertenbriefing-Prozess
+- **Wertschätzung des Vorhandenen**: Nutzen Sie das dokumentierte Wissen
+  als Fundament, bevor Sie eigene Wege entwickeln
+- **Kontinuierlicher Kontakt**: Halten Sie wenn möglich Kontakt zum
+  Vorgänger für Rückfragen
+- **Eigene Dokumentation**: Beginnen Sie von Anfang an mit der
+  Dokumentation Ihrer eigenen Erkenntnisse und Weiterentwicklungen
+
+## Gabriele Schobess, Katharina Nolden: lernOS für gesellschaftliches Engagement und Beteiligung
 
 > lernOS für gesellschaftliches Engagement und Beteiligung unterstützt
 > Menschen dabei, ihre eigenen Stärken zu entdecken und sich aktiv in
@@ -2941,6 +3248,234 @@ und entsprechend handeln.
 > geht es nicht nur um große Projekte -- auch kleine Schritte bewirken
 > Veränderung. Gemeinsam schaffen wir Räume für Beteiligung, in denen
 > Hoffnung und Zusammenhalt wachsen können
+
+**Der Vortrag stellt ein innovatives Projekt vor, das einen Lernpfad für
+gesellschaftliches Engagement entwickelt. Initiiert durch die Sorge um
+demokratische Entwicklungen nach den Wahlen, arbeitet ein Team um
+Gabriele Schobess und Katharina Nolden an einem strukturierten Weg, der
+Menschen dabei unterstützt, den Einstieg in zivilgesellschaftliches
+Engagement zu finden. Der Lernpfad basiert auf einem Canvas-Format und
+soll sowohl für Einzelpersonen als auch für Gruppen nutzbar sein, um
+Menschen von der ersten Motivation bis zur konkreten Umsetzung ihres
+gesellschaftlichen Engagements zu begleiten.**
+
+## Gliederung und Aufbau des Vortrags
+
+### Entstehungsgeschichte und Motivation
+
+Der Vortrag beginnt mit der persönlichen Geschichte der Entstehung des
+Projekts, ausgelöst durch die Wahlergebnisse und den Wunsch nach aktivem
+Handeln.
+
+### Konzeptioneller Aufbau des Lernpfads
+
+Vorstellung der verschiedenen Felder des Canvas-Formats, die den
+strukturierten Weg zum Engagement bilden.
+
+### Praktische Erfahrungen und Beispiele
+
+Konkrete Beispiele aus der eigenen Engagementpraxis der Vortragenden.
+
+### Entwicklungsprozess und Zusammenarbeit
+
+Einblicke in die Arbeitsweise des Entwicklungsteams und den aktuellen
+Stand.
+
+### Zukunftsperspektiven und Verbreitung
+
+Diskussion über Marketing, Zielgruppen und Multiplikatoren.
+
+## Kernaussagen des Vortrags
+
+### Die Notwendigkeit strukturierter Zugänge zum Engagement
+
+*"Wir haben uns dann getroffen und haben dann gesagt, okay, wir möchten
+uns erstmal, also wir haben angefangen uns damit zu beschäftigen. Was
+bedeutet gesellschaftliches Engagement? Was bedeutet
+Demokratieverständnis? Was bedeutet Engagement für die Demokratie?"*
+
+Die Vortragenden erkannten, dass viele Menschen zwar den Wunsch haben,
+sich gesellschaftlich zu engagieren, aber nicht wissen, wie sie den
+Zugang finden können. Der Lernpfad soll diese Lücke schließen, indem er
+einen strukturierten Weg vom ersten Impuls bis zur konkreten Umsetzung
+bietet.
+
+Die Entwicklung entstand aus der persönlichen Erfahrung heraus, dass der
+Weg ins zivilgesellschaftliche Engagement oft unklar und schwer
+zugänglich ist. Besonders Menschen, die bisher nicht engagiert waren,
+benötigen Orientierung und Struktur, um ihre Motivation in konkretes
+Handeln umzusetzen.
+
+### Der Canvas-Ansatz als strukturierender Rahmen
+
+*"Also wir sind relativ schnell dann dazu gekommen, dass wir gesagt
+haben, wir möchten den Lernpfad in Form eines Canvas aufbauen und haben
+uns dann mit den Feldern beschäftigt, die wir eben da letztendlich
+sozusagen befüllen müssen oder wie eben der Weg durch den Lernpfad
+geht."*
+
+Das Team entwickelt den Lernpfad als Canvas mit verschiedenen Feldern,
+die systematisch bearbeitet werden:
+
+- **Werte und Why**: Klärung der persönlichen Motivation und Grundwerte
+- **Problemidentifikation**: Gegen welche Probleme möchte ich etwas
+  unternehmen?
+- **Utopie-Entwicklung**: Wo möchte ich hin? Was ist meine Vision?
+- **Zielgruppen**: Für wen tue ich es? Wer sind die Interessengruppen?
+- **Vernetzung**: Wo finde ich Gemeinschaft? Mit wem kann ich wirken?
+- **Ressourcen**: Welche zeitlichen und anderen Ressourcen kann ich
+  einbringen?
+- **Kompetenzen**: Was kann ich einbringen? Welche Fähigkeiten habe ich?
+
+### Die Bedeutung persönlicher Kompetenzen für erfolgreiches Engagement
+
+*"Und da haben sowohl Katharina wie ich gute Erfahrungen gemacht. Also
+Katharina hat zum Beispiel, die war auch bei so einem
+Neumitgliedertreffen und fand es irgendwie eher so ein bisschen so, und
+hat dann eingebracht, hey, ich kann facilitieren, ich kenne Methoden,
+mit denen wir solche Meetings anders gestalten können."*
+
+Ein zentraler Erfolgsfaktor für nachhaltiges Engagement ist die
+Identifikation und der Einsatz der eigenen Kompetenzen. Die Vortragenden
+betonen, dass Menschen oft nicht erkennen, welche wertvollen Fähigkeiten
+sie in bestehende Strukturen einbringen können.
+
+Das Beispiel zeigt, wie durch das bewusste Einbringen von
+Facilitationsfähigkeiten nicht nur persönliche Wirksamkeit entsteht,
+sondern auch die Qualität der Gruppenarbeit verbessert wird. Diese
+Win-Win-Situation motiviert sowohl die engagierte Person als auch die
+aufnehmende Organisation.
+
+### Strukturelle Barrieren und Lösungsansätze
+
+*"Weil die haben einfach definitiv oft keine Zeit für
+zivilgesellschaftliches Engagement. Die bringen dann
+zivilgesellschaftliches Engagement in Form von Elternbeirat zu sein oder
+da eben über Eltern etwas zu treiben, aber eben nicht noch im größer
+gedachten Umfeld noch abends an Sitzungen oder an sonst was teilnehmen
+zu können."*
+
+Ein wichtiger Aspekt des Lernpfads ist die Auseinandersetzung mit
+strukturellen Barrieren, insbesondere für berufstätige Eltern. Die
+traditionellen Engagementstrukturen sind oft auf Menschen ausgerichtet,
+die mehr zeitliche Flexibilität haben.
+
+Der Lernpfad soll Menschen dabei helfen, realistische Einschätzungen
+ihrer Möglichkeiten zu entwickeln und Wege zu finden, wie sie sich
+entsprechend ihrer Lebenssituation einbringen können. Dies kann durch
+projektbezogenes Engagement oder durch das Einbringen spezifischer
+Kompetenzen geschehen.
+
+### Der Generationenwandel im Ehrenamt
+
+*"Meine Befürchtung ist im Moment ein bisschen, dass wenn diese Gruppe
+wegbricht, also diese Alt-68er, die noch gemerkt haben, sie müssen sich
+wehren, weil ansonsten, dass das zum einen eine große Lücke hinterlassen
+wird."*
+
+Die Vortragenden thematisieren den demografischen Wandel im
+ehrenamtlichen Engagement. Die Generation der 68er, die viele
+zivilgesellschaftliche Strukturen aufgebaut hat, geht in den Ruhestand
+oder wird weniger aktiv. Gleichzeitig haben jüngere Generationen oft
+andere Lebensumstände und Engagementformen.
+
+Diese Entwicklung macht es umso wichtiger, neue Menschen für
+gesellschaftliches Engagement zu gewinnen und dabei auch neue,
+flexiblere Formen der Beteiligung zu entwickeln. Der Lernpfad soll dabei
+helfen, diese Lücke zu schließen.
+
+### Vielfalt der Engagementmöglichkeiten
+
+*"Also man kann sich auch bei der Feuerwehr zivilgesellschaftlich
+engagieren. Es ist so viel, wo man im Ehrenamt arbeiten muss oder kann.
+Und manche wissen auch gar nicht, dass sie schon im Ehrenamt sind."*
+
+Ein wichtiger Baustein des Lernpfads ist die Bewusstmachung der Vielfalt
+gesellschaftlichen Engagements. Viele Menschen sind bereits ehrenamtlich
+aktiv, ohne es als solches zu erkennen. Der Lernpfad soll diese Vielfalt
+aufzeigen und Menschen dabei helfen, das für sie passende Engagement zu
+finden.
+
+Dies umfasst sowohl traditionelle Formen wie Vereinsarbeit oder
+Feuerwehr als auch neue Formen wie Online-Communities oder
+projektbezogenes Engagement. Wichtig ist dabei, dass nicht alle Formen
+für alle Menschen gleich geeignet sind.
+
+### Graswurzelbewegungen versus etablierte Strukturen
+
+*"Also ich würde mal behaupten wollen, dass viele der zumindest
+umweltpolitischen Gruppen Graswurzbewegungen sind. Also so wie ich es
+jetzt im Moment beobachte. Also top down passiert eigentlich, finde ich,
+in vielen dieser aktiven Gruppen nichts."*
+
+Der Vortrag thematisiert auch die Unterscheidung zwischen
+Graswurzelbewegungen und etablierten Strukturen. Während manche Menschen
+sich eher in bestehende Organisationen einbringen möchten, bevorzugen
+andere die Gründung neuer Initiativen oder die Arbeit in informelleren
+Strukturen.
+
+Der Lernpfad soll beide Wege aufzeigen und Menschen dabei helfen zu
+erkennen, welcher Ansatz besser zu ihrer Persönlichkeit und ihren Zielen
+passt.
+
+## Handlungsempfehlungen und Call to Actions
+
+### Für potentiell Engagierte
+
+- **Selbstreflexion beginnen**: Sich Gedanken über die eigenen Werte,
+  Motivationen und verfügbaren Ressourcen machen
+- **Kompetenzen identifizieren**: Bewusst werden, welche Fähigkeiten man
+  in gesellschaftliches Engagement einbringen kann
+- **Realistische Einschätzung**: Ehrlich bewerten, welche zeitlichen und
+  anderen Ressourcen tatsächlich verfügbar sind
+- **Vielfalt erkunden**: Sich über die verschiedenen Möglichkeiten
+  gesellschaftlichen Engagements informieren
+- **Kleine Schritte wagen**: Auch kleine Beiträge wie regelmäßige
+  Spenden können ein Anfang sein
+
+### Für bestehende Organisationen
+
+- **Niedrigschwellige Zugänge schaffen**: Verschiedene Formen der
+  Beteiligung anbieten, die unterschiedlichen Lebenssituationen gerecht
+  werden
+- **Kompetenzen abfragen**: Neue Mitglieder nach ihren Fähigkeiten
+  fragen und entsprechende Einsatzmöglichkeiten schaffen
+- **Projektbezogenes Engagement ermöglichen**: Nicht nur dauerhafte
+  Mitgliedschaft, sondern auch zeitlich begrenzte Projekte anbieten
+- **Moderne Kommunikationswege nutzen**: Online-Präsenz aufbauen, um
+  Engagement sichtbar zu machen
+
+### Für Multiplikatoren
+
+- **Lernpfad bekannt machen**: Den fertigen Lernpfad in relevanten
+  Netzwerken verbreiten
+- **Zielgruppen identifizieren**: Besonders Menschen ansprechen, die
+  Interesse an Engagement haben, aber nicht wissen, wie sie anfangen
+  sollen
+- **Infrastruktur nutzen**: Bestehende Strukturen wie
+  Freiwilligenagenturen, Unternehmen oder Bildungseinrichtungen als
+  Verbreitungskanäle nutzen
+
+### Für das Entwicklungsteam
+
+- **Flow optimieren**: Den Lernpfad so gestalten, dass die einzelnen
+  Schritte logisch aufeinander aufbauen
+- **Zielgruppengerechte Gestaltung**: Sowohl Solo-Teilnehmende als auch
+  Gruppen berücksichtigen
+- **Praxistauglichkeit sicherstellen**: Den Lernpfad mit verschiedenen
+  Testgruppen erproben
+- **Marketing-Strategie entwickeln**: Frühzeitig überlegen, wie der
+  fertige Lernpfad bekannt gemacht werden kann
+
+Der Vortrag macht deutlich, dass gesellschaftliches Engagement ein
+komplexes Thema ist, das strukturierte Unterstützung benötigt. Der
+entwickelte Lernpfad verspricht, eine wichtige Lücke zu schließen und
+Menschen dabei zu helfen, von der ersten Motivation bis zur konkreten
+Umsetzung ihres gesellschaftlichen Engagements zu gelangen. Dabei
+berücksichtigt er sowohl individuelle Unterschiede als auch strukturelle
+Herausforderungen und bietet praktische Lösungsansätze für beide
+Seiten - sowohl für Menschen, die sich engagieren möchten, als auch für
+Organisationen, die neue Mitstreiter suchen.
 
 ## Simon Dückert, Christian Kaiser: Peer Learning groß machen - wie wir das selbstorganisierte Lernen als neues Normal etablieren (wollen)
 
@@ -2962,6 +3497,205 @@ und entsprechend handeln.
 > herunterladen und in das KI-Tool eurer Wahl hochladen (Coplilot,
 > Gemini, LeChat etc.).
 
+**Die Session "Peer Learning groß machen" auf der LosCon behandelte die
+Herausforderungen und Möglichkeiten, Peer-Learning-Formate in
+Organisationen zu etablieren und zu verbreiten. Die Diskussion umfasste
+Erfahrungen aus verschiedenen Unternehmen wie der Deutschen Telekom
+(Lex), DATEV und Bosch sowie die Entwicklung von LernOS-Formaten.
+Zentrale Themen waren die Überwindung von Barrieren zwischen formellem
+und informellem Lernen, die Schaffung von Vertrauen in
+Peer-Learning-Ansätze und konkrete Strategien zur breiteren
+Implementierung.**
+
+### Einführung und Vorgeschichte
+
+- Setup der Session mit Discord-Integration
+- Rückblick auf Corporate Learning MOOC und Camp-Sessions
+- Vorstellung des Peer-Learning-Bots als Custom-GPT
+
+### Entwicklung von Peer-Learning-Formaten
+
+- Telekom Lex als Pionierformat
+- Adaptionen bei DATEV und Bosch
+- Definition von Peer-Learning nach Jöran Muuß-Merholz
+
+### Aktuelle Herausforderungen und Barrieren
+
+- Qualitätssicherung und Vertrauen
+- Organisatorische Hürden
+- Integration in bestehende Lernsysteme
+
+### Erfolgsbeispiele und Best Practices
+
+- Updates von Telekom Lex
+- DATEV-Erfahrungen
+- LernOS Learning Circles
+
+### Zukunftsperspektiven und Handlungsempfehlungen
+
+- Monatliche Meetups ab September
+- Peer-Learning-Allianz
+- Konkrete nächste Schritte
+
+## Kernaussagen
+
+### Die Evolution von Peer-Learning-Formaten
+
+*"Telekom Lex ist eigentlich gestartet als eine Community im Social
+Intranet bei der Telekom mit einer Liste von Experten und einer Liste
+von Communities of Practice. Das war eigentlich der Ausgangspunkt."*
+
+Die Entwicklung zeigt, wie aus einfachen Expertenlisten komplexe
+Lernökosysteme entstehen können. Shaquille berichtete über die
+beeindruckende Entwicklung: *"Wir haben aufgezeichnet. Ah, juhu. Ja, das
+tun wir bei uns ganz selten. Also für die, die mich nicht kennen, ich
+bin der Shaquille. bei der Deutschen Telekom, heute in der
+Personalentwicklung seit fünf Jahren und bin der Erfinder von Lex. Lex
+ist die Abkürzung von Learning from Experts oder Lernen von Experten.
+Und das ist eine Plattform, die es heute gibt innerhalb der Deutschen
+Telekom, circa 20.000 Mitglieder. Wir bieten an offene Sessions von
+Mitarbeitenden für Mitarbeitende. Im letzten Jahr hatten wir 6.500 in
+unserer Liste."*
+
+### Das Vertrauensproblem als zentrale Barriere
+
+*"Das Thema Peer Learning auf Augenhöhe gleichwertig anerkannt im
+Unternehmen zum formellen Lernen, das spüre ich so in meiner Realität
+noch nicht. Die Frage treibt mich um, wie schafft man es?"*
+
+Heidi von Schaeffler brachte das Kernproblem auf den Punkt: Die
+Notwendigkeit, Vertrauen in alle Richtungen zu schaffen - sowohl beim
+Management als auch bei den Lernenden selbst. *"Und das ist eine offene
+Frage, wahrscheinlich ohne gute Lösung. Und ich denke, da geht es unterm
+Strich egal, welche Möglichkeit man nutzt, um Vertrauen zu schaffen in
+alle Richtungen."*
+
+### Die Messbarkeits-Paradoxie
+
+Ein wichtiger Diskussionspunkt war die unterschiedliche Bewertung von
+formellem und informellem Lernen bezüglich der Wirksamkeitsmessung.
+*"Genau, richtig. Also da ist, denke ich, Vertrauen wieder das richtige
+Wort. Warum vertrauen eigentlich alle darauf, dass der Besuch eines
+Classroom-Trainings unmittelbar zur Verbesserung des Outcomes, der
+Performance im Job oder was auch immer führt? Warum auch immer das
+Vertrauen da ist, aber es scheint da zu sein."*
+
+### Storytelling als Erfolgsfaktor
+
+Christian betonte die Bedeutung von Erfolgsgeschichten: *"Naja, mein
+Geheimrezept des Storytelling habe ich dir ja schon verraten. Wir machen
+sehr nah an dem Konzept der LernOS-Idee auch die übergreifenden
+Boxen-Stops. Und es ist für mich immer wieder berührend, wenn mittelalte
+Menschen sagen, ich habe wegen dem Lernzeitel mein Leben verändert."*
+
+### Integration von formellem und informellem Lernen
+
+Ein Durchbruch bei Telekom Lex war die Integration in das offizielle
+Lernsystem: *"Unsere Inhalte finden sich mittlerweile seit kurzem auch
+im offiziellen Lerntool der Deutschen Telekom wieder. Das heißt, mehr
+oder weniger alles an einer Stelle."*
+
+### Die Bedeutung arbeitsplatznaher Themen
+
+Marcel identifizierte einen wichtigen Erfolgsfaktor: *"Ich glaube, dass
+es sinnvoll ist, und das probieren wir ja auch schon, aber wir haben mit
+den Leitfäden natürlich Grundlagen geschaffen für relativ generische
+Themen. Change Management, Podcasting lernen, Sketchnoten lernen,
+E-Portfolio bauen, Content Curation. Das sind ja alles Themen, die ganz
+viele umtreiben, aber im Arbeitsalltag dann manchmal nicht anknüpfen
+gleich. Und ich glaube, wir müssen halt Themen schaffen, wo sich
+Lernreisen lohnen, wo du tatsächlich ein Arbeitsalltagsproblem hast."*
+
+### Technische Einfachheit als Erfolgsfaktor
+
+Die Diskussion zeigte, dass technische Komplexität oft ein Hindernis
+darstellt: *"Und wenn jemand eine Session anbieten will, drückt er auf
+Plus, trägt seinen Titel ein, trägt seine Kurzbeschreibung ein, schmeißt
+seinen Teams-Link da rein und dann ist das im Kalender."*
+
+### Das Henne-Ei-Problem der Bekanntheit
+
+Christian beschrieb ein fundamentales Problem: *"Und mein wirkliches
+Problem ist, dass sich einfach niemand eingeladen fühlt, weil ich dieses
+Henne-Ei-Problem kenne, dass ganz viele nicht wissen, was es ist. Und
+weil sie nicht wissen, was es ist, kommen, stell dir vor, im März kam
+eine Steuerbehörterin und hat einfach missverstanden."*
+
+### Räume schaffen statt nur predigen
+
+Ellen Braun brachte eine wichtige Erkenntnis ein: *"Und da waren wir zur
+Quintessenz gekommen, nicht nur die Aufklärung, also immer wieder
+predigen, wir ziehen uns in Talar über, sondern auch Räume schaffen. Und
+das hatten wir vor zwei Jahren auch schon mal. Crafting Rooms war damals
+das Motto von der LOSCON. Aber das hatte ich dann auch nochmal
+definiert. Und da haben dann die Führungskräfte dann auch gesagt, ja,
+wir müssen Raum schaffen für Sollen und Dürfen. Ihr sollt und ihr
+dürft."*
+
+## Handlungsempfehlungen und Call to Actions
+
+### Monatliche Meetups etablieren
+
+*"Wir wollen ab September so ein monatliches Meetup auf die Beine
+stellen. Dass man halt jetzt so ähnlich seite, wie ihr das macht, mit
+Kaffee-Ecke irgendwie monatlich und dann gibt es das Forum einmal
+groß."*
+
+Die Community soll regelmäßige Austauschmöglichkeiten schaffen, um
+kontinuierlich an der Verbreitung von Peer-Learning zu arbeiten.
+
+### Aktive Teilnahme an der LernOS-Community
+
+*"Also wer da Lust hat, ein bisschen mitzuhirnen, wäre ich froh, wenn da
+ein paar Leute Gehirnzellen mit in den Hut reinwerfen. Herzliche
+Einladung, am 9. Juli, 11 Uhr, ist der Tinder-Moment, um in
+Lern-Circle-Gruppen zu kommen."*
+
+Konkrete Termine und Möglichkeiten zur Beteiligung wurden genannt, um
+die Community zu stärken.
+
+### Newsletter-Anmeldung für kontinuierliche Information
+
+*"Also wer da Bock hat, auf der LinkedIn-Seite LernOS gibt es
+mittlerweile auch ein Newsletter, da kann man sich eintragen. Wir werden
+aber auch in Nachkommunikation jetzt von der Loscon einmal da einen Link
+rumschicken, wo man sich anmelden kann."*
+
+### Experimentierbereitschaft fördern
+
+*"Aber ja, also das ist die Frage, die mich umtreibt, wo ich auch bereit
+bin zu experimentieren auf Basis von vorgelebten Beispielen."*
+
+Die Teilnehmenden wurden ermutigt, selbst Experimente zu wagen und von
+erfolgreichen Beispielen zu lernen.
+
+### Peer-Learning-Bot nutzen
+
+Der entwickelte Custom-GPT mit allen Session-Transkripten wurde als
+Ressource zur Verfügung gestellt, um die Vergangenheit zu erschließen
+und Input zu erhalten.
+
+### Übergreifende Zusammenarbeit stärken
+
+Die Idee einer Peer-Learning-Allianz wurde wieder aufgegriffen, auch
+wenn sie bisher nicht umgesetzt wurde. Die Bereitschaft zur
+unternehmensübergreifenden Zusammenarbeit wurde betont.
+
+### Führungskräfte als Multiplikatoren gewinnen
+
+Das Beispiel "Leaders at Lex" zeigt, wie Führungskräfte als Vorbilder
+und Türöffner fungieren können: *"Explizit werden Führungskräfte
+gesucht, damit die ihr Wissen bei uns teilen über Lex in sogenannten Lex
+Sessions. Einerseits ist es schön, mal zu hören, was der Chef sagt und
+die Chefin. Andersherum sollen die auch so die Tür öffnen für Menschen
+aus ihren Teams."*
+
+Die Session endete mit der klaren Botschaft, dass Peer-Learning nur
+durch gemeinsame Anstrengungen und kontinuierliche Experimentierfreude
+in Organisationen etabliert werden kann. Die verschiedenen
+Erfolgsbeispiele zeigen, dass es möglich ist, aber individueller Mut und
+organisatorische Unterstützung gleichermaßen erforderlich sind.
+
 ## Oliver Grobs, Tobias Gerndt: Sharing is Caring - Teilen macht reich
 
 > Viele Menschen in den großen Organisationen glauben immer noch, das
@@ -2969,6 +3703,198 @@ und entsprechend handeln.
 > und unersetzbar sind. Wir wollen uns Gedanken machen, wie wir diese
 > Menschen dazu bewegen können, ihr Wissen gerne zu teilen und ihnen
 > auch Wege zeigen, wie sie das bewerkstelligen.
+
+**In diesem Podcast diskutieren Tobias Gerndt (EnBW) und Oliver Grobs
+(SAP) gemeinsam mit dem Publikum auf der LernOS Convention (LosCon) in
+Nürnberg die zentrale Frage: Wie können Unternehmen ihre Mitarbeitenden
+dazu motivieren, ihr Wissen zu teilen? Die Diskussion beleuchtet die
+Herausforderungen beim Übergang vom reinen Lernen hin zum aktiven
+Wissensaustausch und stellt praktische Ansätze vor, wie Unternehmen eine
+Kultur des Teilens etablieren können.**
+
+### Einführung und Problemstellung
+
+- Vorstellung der Sprecher und des Kontexts (LosCon 2024)
+- Definition des "Working Learning Gap"
+- Übergang von der Lernbereitschaft zur Teilungsbereitschaft
+
+### Kernherausforderungen beim Wissensaustausch
+
+- Das "Unkündbarkeits-Paradigma"
+- Kulturelle Barrieren in Unternehmen
+- Die Rolle von Führungskräften
+
+### Praktische Lösungsansätze
+
+- Multiplikatoren und Aktivatoren
+- Zertifizierungsprogramme als Motivationsinstrument
+- Community-Building und direkte Ansprache
+
+### Diskussion mit dem Publikum
+
+- Erfahrungsaustausch verschiedener Unternehmen
+- Rolle von Multiplikatoren
+- Mehrwert des Wissensteilens
+
+## Kernaussagen
+
+### Der Working Learning Gap als zentrale Herausforderung
+
+*"Wie bekomme ich jetzt die Menschen dazu, dass sie auch bereit sind,
+ihr Wissen zu teilen? Denn wenn ich nichts teile, bin ich unkündbar.
+Denn das Wissen ist ja in meinem Kopf, da wird man mich schon nicht
+rauswerfen."*
+
+Tobias Gerndt identifiziert eine zweistufige Herausforderung: Während
+viele Unternehmen bereits erfolgreich Lernformate etabliert haben,
+bleibt die Bereitschaft zum Wissensaustausch oft gering. Das
+traditionelle Denkmuster, Wissen als persönlichen Schutz vor Kündigung
+zu betrachten, stellt dabei ein zentrales Hindernis dar.
+
+### Wissensteilung als Katalysator für persönliches Wachstum
+
+*"Wenn ich mein Wissen teile und andere mein Wissen weitergeben, dann
+habe ich ja wieder etwas mehr Zeit, was Neues zu lernen, was ich dann
+wieder weitergeben kann."*
+
+Oliver Grobs argumentiert, dass Wissensteilung paradoxerweise zu mehr
+persönlichem Wissen führt. Durch das Erklären und Diskutieren entstehen
+neue Erkenntnisse und Freiräume für weiteres Lernen. Dieser
+Multiplikationseffekt wird jedoch oft übersehen.
+
+### Die Bedeutung des Erklärens für das eigene Verständnis
+
+*"Wir beide haben das ja ganz oft, wir sitzen zu zweit vor irgendeinem
+Problem, du erklärst mir, in dem Moment geht dir nochmal extra ein Licht
+auf, dass du sagst, auf den Aspekt bin ich noch gar nicht gekommen, gut,
+dass ich es dir gerade erklärt habe."*
+
+Das Erklären von Wissen führt zu tieferem Verständnis beim Erklärenden
+selbst. Dieser Lerneffekt durch Lehren wird als wichtiger
+Motivationsfaktor für Wissensteilung identifiziert.
+
+### Kulturelle Unterschiede in der Teilungsbereitschaft
+
+*"Tatsächlich ist das bei uns eigentlich Unternehmenskultur, dass wir
+tatsächlich teilen, weil ich meine letztendlich, ihr habt die Frage
+gestellt, was hat der Teilende davon? Er ist ja auch Teilnehmer quasi."*
+
+Die SAP-Erfahrung zeigt, dass Wissensteilung als etablierte
+Unternehmenskultur funktionieren kann, wenn sie als gegenseitiger
+Austausch verstanden wird. Die Teilenden profitieren gleichzeitig als
+Empfänger von Wissen anderer.
+
+### Die Rolle von Führungskräften
+
+*"Es kommt auf die Persönlichkeit des Managers, der Managerin an und es
+kommt auf das Team an. Also ich glaube, da gibt es keine pauschale
+Antwort."*
+
+Die Anwesenheit von Führungskräften in Wissensaustausch-Formaten kann
+sowohl förderlich als auch hinderlich sein, abhängig von der
+individuellen Führungskultur und Teamdynamik.
+
+### Multiplikatoren als Schlüssel zur Skalierung
+
+*"Ich glaube, ohne Multiplikatoren geht es nicht. Das ist ein ganz
+großer Faktor."*
+
+Die Identifikation und Entwicklung von Multiplikatoren wird als
+essentiell für die Verbreitung einer Teilungskultur erkannt. Diese
+Personen fungieren als Brücken zwischen verschiedenen
+Organisationseinheiten und Hierarchieebenen.
+
+### Zertifizierung als Motivationsinstrument
+
+*"Wir bieten eine Zertifizierung an. Und diese Zertifizierung, die
+machen wir ganz niedrigschwellig. Basic-Zertifizierung."*
+
+Ein strukturiertes Zertifizierungsprogramm kann Menschen schrittweise
+vom Lernen zum Lehren führen. Die EnBW-Erfahrung zeigt, wie durch
+gestufte Zertifizierungen (Basic, Advanced, Expert, Engineer) eine
+Lernreise gestaltet werden kann, die letztendlich zur Wissensteilung
+motiviert.
+
+### Der Mehrwert muss transparent werden
+
+*"Ich glaube, da ist für mich der größte Hebel, wenn wir es schaffen,
+die Leute dazu zu bewegen, Sachen nicht als Hoheitswissen zu behalten,
+sondern eben zu sagen, in dem Moment, wo ich es teile, wird es mehr."*
+
+Die mathematische Logik des Wissens - es ist das Einzige, was durch
+Teilung vermehrt wird - muss den Mitarbeitenden bewusst gemacht werden.
+Der persönliche Mehrwert durch Wissensteilung muss klar kommuniziert
+werden.
+
+### Direkte Ansprache als wirksames Instrument
+
+*"Ich spreche die Leute direkt an. \[...\] Und dann sage ich, Mensch,
+Max Mustermann, warum hast du denn die Kamera aus? Sag doch mal was, du
+kennst dich doch da ganz gut aus. Auf einmal geht die Kamera an."*
+
+Persönliche, direkte Ansprache erweist sich als effektives Mittel, um
+passive Teilnehmer zu aktivieren. Diese Methode ist jedoch nicht
+skalierbar für große Organisationen.
+
+### Die 90-10-Regel in Communities
+
+*"Wir haben tatsächlich so fünf bis zehn Prozent Superaktive haben und
+der Rest mit Sicherheit was zum Beitragen hat, aber es nicht tut bis
+dato."*
+
+Die typische Verteilung in Communities zeigt, dass nur ein kleiner
+Prozentsatz aktiv beiträgt, während die Mehrheit passiv konsumiert.
+Diese Erkenntnis ist wichtig für realistische Erwartungen und gezielte
+Aktivierungsmaßnahmen.
+
+## Handlungsempfehlungen
+
+### Für Unternehmen und Führungskräfte
+
+- **Multiplikatoren-Netzwerke aufbauen**: Identifizieren und entwickeln
+  Sie Personen, die als Wissensbrücken zwischen verschiedenen Bereichen
+  fungieren können
+- **Niedrigschwellige Zertifizierungsprogramme etablieren**: Schaffen
+  Sie strukturierte Lernpfade, die schrittweise zur Wissensteilung
+  führen
+- **Den Mehrwert transparent kommunizieren**: Machen Sie deutlich,
+  welche persönlichen und beruflichen Vorteile Wissensteilung bringt
+- **Kulturwandel aktiv vorantreiben**: Etablieren Sie Wissensteilung als
+  selbstverständlichen Teil der Unternehmenskultur
+- **Verschiedene Formate anbieten**: Nutzen Sie Sprechstunden, virtuelle
+  Kaffeerunden und Community-Plattformen für unterschiedliche
+  Teilungsbedarfe
+
+### Für Wissensarbeiter
+
+- **Aktiv das Gespräch suchen**: Nutzen Sie direkte Ansprache und
+  Cross-Posting, um aus der eigenen "Bubble" herauszukommen
+- **Klein anfangen**: Beginnen Sie mit der Teilung kleiner Erkenntnisse
+  und Lifehacks
+- **Lerneffekt durch Lehren nutzen**: Erkennen Sie das Erklären als
+  Möglichkeit zur eigenen Weiterentwicklung
+- **Netzwerk erweitern**: Suchen Sie aktiv den Austausch mit Kollegen
+  aus anderen Bereichen
+- **Mut zur Unperfektion**: Teilen Sie auch unvollständiges Wissen und
+  Erfahrungen mit Fehlern
+
+### Für Community-Manager
+
+- **Gezielte Aktivierung statt generisches Wachstum**: Sprechen Sie
+  potenzielle Beitragende direkt an, anstatt auf spontane Beteiligung zu
+  hoffen
+- **Verschiedene Beteiligungsebenen schaffen**: Ermöglichen Sie
+  unterschiedliche Formen der Teilnahme, von passivem Konsum bis zu
+  aktiver Moderation
+- **Erfolgsgeschichten sichtbar machen**: Kommunizieren Sie positive
+  Beispiele von Karriereentwicklung durch Wissensteilung
+- **Barrieren abbauen**: Identifizieren und beseitigen Sie kulturelle,
+  technische und organisatorische Hindernisse für Wissensaustausch
+
+*"Das Einzige, was mehr wird, wenn man es teilt, ist Wissen"* - diese
+mathematische Wahrheit sollte zur Grundlage einer neuen
+Unternehmenskultur werden, in der Sharing is Caring nicht nur ein
+Slogan, sondern gelebte Realität ist.
 
 # Anhang
 
