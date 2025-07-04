@@ -8,7 +8,7 @@ Die [lernOS Convention 2025](https://loscon.lernos.org) findet vom 1.-2. Juli 20
 
 ## Programm
 
-Im Programm der loscon gab es Impulsvorträge, Lightning Talks, Sessions, Workshops und Live-Podcasts:
+Im [Programm der loscon25](https://pretalx.com/loscon25/schedule/) gab es Impulsvorträge, Lightning Talks, Sessions, Workshops und Live-Podcasts:
 
 | ID | Titel | Referent |
 | --- | --- | --- |
@@ -27,22 +27,22 @@ Im Programm der loscon gab es Impulsvorträge, Lightning Talks, Sessions, Worksh
 |    | [Mind the AI Gap](2-9-zoike.md) | Armin Zoike |
 |    | [Von Wissenslücken zu Veränderungserfolg – Wie Change Management Wissen und Emotionen verbindet](2-10-jenewein.md) | Thomas Jenewein (SAP) |
 |    | **Sessions und Workshops** | |
-|    | Was braucht eine Community, die "unbekanntes Unwissen" erkunden will? | Achim Brueck (Mercedes-Benz) |
-|    | Never Prompt Alone! | Marcel Kirchner (Continental), Thomas Schmidt (Continental) |
-|    | Der Working-Learning Gap | Simone Engelhard, Simon Qualmann (lernglust) |
-|    | Wie wichtig sind DIGITALE ASSISTENTEN? | Sven Semet |
-|    | The Human & Artificial Intelligence Gap | Magnus Rode (IPI), Daniel Prial (Umicore) |
-|    | Wie kann KI den Austausch ... verändern? | Armin Zoike |
-|    | Selbstorganisation sichtbar machen – Praxiserfahrungen mit dem 6K-Modell | Oliver Fischer (LV 1871) |
-|    | Use Cases für KI Agenten in Learning & Development | Thomas Jenewein (SAP) |
-|    | Mind the Diversity Gap | Susann Schulz (TH Wildau) |
-|    | How to close the Knowledge Gap in Management | Harald Schirmer |
-|    | Enterprise Wikis | Martin Harnisch (SIS) |
-|    | Schließe die Wissenslücke in deiner Projektwelt | Victoria Köstner |
-|    | Der große Technologie-Struktur-Gap | Björn Schotte (Mayflower) |
-|    | Digitale Souveränität #DigitalBewusstHandeln | Brigitte Lüdecke, Harald Schirmer |
-|    | The Second Brain Gap | Felix Harling (Flow Discovery), Andreas Trebing |
-|    | Zukunft der Softwareentwicklung in 2035 | Martin Heider |
+|    | [Never Prompt Alone!](3-1-1-kirchner-schmidt.md) | Marcel Kirchner (Continental), Thomas Schmidt (Continental) |
+|    | [Der Working-Learning Gap](3-1-2-engelhard-qualmann.md) | Simone Engelhard, Simon Qualmann (lernglust) |
+|    | [Wie wichtig sind digitale Assistenten?](3-1-3-semet.md) | Sven Semet |
+|    | [Was braucht eine Community, die "unbekanntes Unwissen" erkunden will?](3-1-4-brueck.md) | Achim Brueck (Mercedes-Benz) |
+|    | [The Human & Artificial Intelligence Gap](3-2-1-rode-prial.md) | Magnus Rode (IPI), Daniel Prial (Umicore) |
+|    | [Selbstorganisation sichtbar machen – Praxiserfahrungen mit dem 6K-Modell](3-2-2-fischer.md) | Oliver Fischer (LV 1871) |
+|    | [Use Cases für KI Agenten in Learning & Development](3-2-3-jenewein.md) | Thomas Jenewein (SAP) |
+|    | [Wie kann KI den Austausch ... verändern?](3-2-4-zoike.md) | Armin Zoike |
+|    | [Mind the Diversity Gap](3-3-1-schulz.md) | Susann Schulz (TH Wildau) |
+|    | [Enterprise Wikis](3-3-2-harnisch.md) | Martin Harnisch (SIS) |
+|    | [Schließe die Wissenslücke in deiner Projektwelt](3-3-3-koestner.md) | Victoria Köstner |
+|    | [How to close the Knowledge Gap in Management](3-3-4-schirmer.md) | Harald Schirmer |
+|    | [Der große Technologie-Struktur-Gap](3-4-1-schotte.md) | Björn Schotte (Mayflower) |
+|    | [The Second Brain Gap](3-4-2-harling-trebing.md) | Felix Harling (Flow Discovery), Andreas Trebing |
+|    | [Digitale Souveränität DigitalBewusstHandeln](3-4-3-luedecke-schirmer.md) | Brigitte Lüdecke, Harald Schirmer |
+|    | [Zukunft der Softwareentwicklung in 2035](3-4-4-heider.md) | Martin Heider |
 |    | **Podcasts** | |
 |    | [Expert Debriefing unplugged](4-1-roderus.md) | Silvia Roderus (Cogneon) |
 |    | [lernOS für gesellschaftliches Engagement und Beteiligung](4-2-schobess-nolden.md) | Gabriele Schobess (nowwork), Silvia Roderus (Cogneon), Katharina Nolden |
