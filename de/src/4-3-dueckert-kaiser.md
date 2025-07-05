@@ -4,6 +4,12 @@
 
 **Die Session "Peer Learning groß machen" auf der LosCon behandelte die Herausforderungen und Möglichkeiten, Peer-Learning-Formate in Organisationen zu etablieren und zu verbreiten. Die Diskussion umfasste Erfahrungen aus verschiedenen Unternehmen wie der Deutschen Telekom (Lex), DATEV und Bosch sowie die Entwicklung von LernOS-Formaten. Zentrale Themen waren die Überwindung von Barrieren zwischen formellem und informellem Lernen, die Schaffung von Vertrauen in Peer-Learning-Ansätze und konkrete Strategien zur breiteren Implementierung.**
 
+<iframe width="100%" height="112" frameborder="0" scrolling="no" style="width: 100%; height: 112px; overflow: hidden;" src="https://podcasts.cogneon.io/@loa/episodes/peer-learning-gros-machen-loscon25/embed"></iframe>
+
+- **Session Owner:** [Simon Dückert](https://www.linkedin.com/in/simondueckert/), [Christian Kaiser](https://www.linkedin.com/in/christian-kaiser-datev/)
+- **Material:** [Blog zur CLC-Session Peer Learning groß denken](https://pretalx.com/redirect/?url=https%3A//colearn.de/ergaenzung-peer-learning-gross-denken-2/%3A8wB5yqVfkFlZkKNZp9-xwJmOryHPcyuakAivvUffYN0) (auch [als Chatbot](https://pretalx.com/redirect/?url=https%3A//chatgpt.com/g/g-68611edcf6708191a1991afd34303a5e-peer-learning-bot%3AVLIciaNfgRaevhldkJEoJeWVLyWN14PqgqExnEq9TR4) verfügbar)
+- **Transkript:** [4-3-dueckert-kaiser.txt](4-3-dueckert-kaiser.txt)
+
 ### Einführung und Vorgeschichte
 - Setup der Session mit Discord-Integration
 - Rückblick auf Corporate Learning MOOC und Camp-Sessions
