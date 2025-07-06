@@ -4,6 +4,8 @@
 
 **Die Session "The Human and Artificial Intelligence Gap" des Leitfaden-Teams für digitale Zusammenarbeit untersuchte die zentrale Frage, ob Künstliche Intelligenz die digitale Zusammenarbeit verbessert oder verschlechtert. In einem hybriden Format diskutierten Teilnehmer vor Ort und online sowohl die Chancen als auch die Risiken von KI-Tools in der Zusammenarbeit. Dabei kristallisierten sich wichtige Erkenntnisse über die Notwendigkeit bewusster Regeln, ethischer Überlegungen und der Balance zwischen menschlicher und künstlicher Intelligenz heraus.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6R2m6QAs3f0?si=2YnJ70ME_aeKmQBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Der Beitrag gliederte sich in folgende Hauptabschnitte:
 
 1. **Einführung und Vorstellung** des Leitfadens für digitale Zusammenarbeit Version 2.0

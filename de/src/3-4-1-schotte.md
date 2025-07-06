@@ -4,6 +4,8 @@
 
 **Der Beitrag von Björn Schotte behandelt die zentrale These, dass KI-Implementierungen in Unternehmen nicht primär an der verfügbaren Technologie scheitern, sondern an ungeeigneten Organisationsstrukturen. Er argumentiert, dass Unternehmen ihre Strukturen grundlegend überdenken müssen, um die vollen Potenziale von KI-Systemen zu nutzen. Dabei steht die Transformation von isolierten Wissenssilos hin zu vernetzten, semantischen Wissensarchitekturen im Mittelpunkt. Der Vortrag zeigt auf, wie metakognitive Agentensysteme und plattformbasierte Ansätze Unternehmen dabei helfen können, Wissensarbeit zu skalieren und echte Wettbewerbsvorteile zu erzielen.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wa2eL9n3M7s?si=tR6grTTTJpAJCB8S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Einführung und Problemstellung
 - Interaktive Diskussion über aktuelle KI-Nutzung in Unternehmen
 - Grundsätzliche Einordnung von Sprachmodellen vs. autonomen Workflows

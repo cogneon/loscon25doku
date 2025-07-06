@@ -4,6 +4,8 @@
 
 **Der Beitrag von Zoike behandelt die transformative Rolle von Künstlicher Intelligenz beim Wissensaustausch und der Kommunikation in Organisationen. Als KI-Experte mit siebenjähriger Erfahrung präsentiert er eine Vision, wie KI den Informationsfluss in Unternehmen revolutionieren kann. Der Fokus liegt auf der Überwindung traditioneller Barrieren beim Wissenstransfer durch intelligente, autonome Systeme, die sowohl explizites als auch implizites Wissen zugänglich machen. Zoike stellt dabei auch sein eigenes Startup-Projekt vor, das eine KI-Plattform entwickelt hat, welche Wissen durch Konversationen erlernt und verfügbar macht.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UIaL6Nk33mI?si=uNeCoaUU7XtuBABC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Begriffsdefinitionen und theoretische Grundlagen
 - Information vs. Daten: Informationstheoretische Betrachtung
 - Kommunikationsformen: Direkt vs. indirekt, personalisiert vs. generisch

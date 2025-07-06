@@ -4,6 +4,8 @@
 
 **Der Vortrag behandelt eine offene Diskussion über KI-Agenten im Kontext von Corporate Learning und deren Anwendungsmöglichkeiten entlang des ADDIE-Modells. Die Teilnehmer reflektieren gemeinsam über Definition, aktuelle Anwendungsbeispiele und zukünftige Potentiale von KI-Agenten in der Personalentwicklung. Dabei wird deutlich, dass trotz des aktuellen Hypes um KI-Agenten noch wenige konkrete, vollständig autonome Implementierungen existieren, während gleichzeitig vielversprechende Anwendungsfelder identifiziert werden.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZFdVfGUlUm8?si=Phad9fE4G_M3ngLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Die Diskussion folgt einer strukturierten Herangehensweise:
 
 ### Definition und Grundlagen von KI-Agenten

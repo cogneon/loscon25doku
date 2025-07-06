@@ -4,6 +4,8 @@
 
 **In dieser Session diskutierten Simone Engelhard und Simon Qualmann gemeinsam mit den Teilnehmenden das Phänomen des "Working Learning Gap" - die Kluft zwischen dem Wunsch nach kontinuierlichem Lernen und der Realität des Arbeitsalltags. Trotz einer Fülle an verfügbaren Lernformaten und -inhalten scheitert die praktische Umsetzung oft an fehlender Zeit, mangelnder Struktur und unzureichender Motivation. Die Session entwickelte sich zu einer lebendigen Diskussion über organisationale Herausforderungen, individuelle Verantwortung und praktische Lösungsansätze für nachhaltiges Lernen im Arbeitskontext.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSoUC3OmnN0?si=CGpj8bNNbzdGFXxt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Gliederung und Aufbau des Vortrags
 
 Die Session war bewusst interaktiv gestaltet und folgte einem offenen Diskussionsformat:

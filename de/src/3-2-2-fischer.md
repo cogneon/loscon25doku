@@ -4,6 +4,8 @@
 
 **Oliver Fischer von der LV 1871 präsentierte das von seinem Unternehmen entwickelte 6K-Modell zur Messung und Entwicklung von Selbstorganisation in agilen Teams. Das Modell wurde in Kooperation mit der Ludwig-Maximilians-Universität München entwickelt und umfasst sechs Dimensionen: Koordination, Kooperation, Kontrolle, Kompetenzen, Kommunikation und Kollegialität. Durch jährliche Workshops mit Selbst- und Fremdeinschätzung werden Stärken und Entwicklungsfelder sichtbar gemacht und konkrete Maßnahmen zur Verbesserung der Teamarbeit abgeleitet.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y2q9pUvHccc?si=Iz36rplUUs9_dUB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Der Beitrag gliederte sich in vier Hauptteile:
 1. **Einführung und Motivation** - Warum braucht es ein Modell für Selbstorganisation?
 2. **Die sechs Dimensionen des 6K-Modells** - Detaillierte Vorstellung der Bewertungskriterien

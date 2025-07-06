@@ -4,6 +4,8 @@
 
 **In diesem Beitrag von Andreas Harling und Felix Trebing geht es um die Unterscheidung zwischen dem bloßen Sammeln von Informationen und dem aktiven Verarbeiten von Wissen durch die Zettelkasten-Methode. Die beiden Referenten erläutern, wie man von einem passiven Informationssammler zu einem aktiven Wissensverarbeiter wird und dabei das volle Potenzial seiner gesammelten Erkenntnisse ausschöpft. Der Vortrag basiert auf praktischen Erfahrungen aus einer zwölfwöchigen Zettelkasten-Lernreise und zeigt konkrete Wege auf, wie persönliches Wissensmanagement transformiert werden kann.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TXoxsVbFETE?si=3GKnZ4eZy3s1IjN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Einführung und Vorstellung der Referenten
 - Andreas Trebing: Ingenieur und Zettelkasten-Experte, Mitautor des Zettelkasten-Leitfadens
 - Felix Harling: Zettelkasten-Neuling mit praktischen Erfahrungen aus der Lernreise

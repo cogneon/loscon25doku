@@ -4,6 +4,8 @@
 
 **Der Vortrag von Susanne Schulz behandelt das Phänomen des "Diversity Gap" in der Künstlichen Intelligenz und zeigt auf, wie KI-Systeme gesellschaftliche Stereotype nicht nur widerspiegeln, sondern sogar verstärken. Anhand praktischer Beispiele aus der Bildgenerierung demonstriert sie, wie geschlechtsspezifische und kulturelle Vorurteile in KI-Outputs sichtbar werden. Der Vortrag schließt mit einer interaktiven Übung, in der die Teilnehmenden lernen, Rollenbilder zu identifizieren und neutralere Prompts zu entwickeln.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o5CKBzu_y40?si=2YlaUJMOQKOWJpsN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Einführung in die Begrifflichkeiten
 - Definition des Gender Data Gap
 - Überleitung zum Diversity Gap

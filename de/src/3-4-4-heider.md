@@ -4,6 +4,8 @@
 
 **Der Beitrag von Martin Heider beschäftigte sich mit der Zukunft der Softwareentwicklung im Jahr 2035 und untersuchte verschiedene Szenarien zwischen einem "Heaven"- und einem "Hell"-Zustand. Mithilfe einer interaktiven Future-Backwards-Methode diskutierten die Teilnehmer sechs zentrale Entwicklungsbereiche: KI als Co-Entwickler, selbstoptimierende Architekturen, menschliche Teams, experimentelle Entwicklung, neue Arbeitsweisen und notwendige Lernfelder. Der Fokus lag darauf, realistische Einschätzungen für die nächsten zehn Jahre zu entwickeln und Handlungsempfehlungen für heutige Entwicklungsteams abzuleiten.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PMj9szbatk0?si=rNx-rmrQnnJr97Fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Die Session folgte einer strukturierten Future-Backwards-Methodik:
 
 1. **Einführung und Kontextualisierung** - Vorstellung der Teilnehmer und ihrer Entwicklungshintergründe

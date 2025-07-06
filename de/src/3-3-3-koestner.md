@@ -4,6 +4,8 @@
 
 **Viktoria Köstner präsentierte in ihrem Beitrag einen ganzheitlichen Ansatz zum Wissensmanagement in Projekten, der über die klassische Dokumentation hinausgeht. Basierend auf ihren Erfahrungen aus einem gescheiterten Wissensmanagement-Projekt während ihrer Bachelorarbeit entwickelte sie ein dreistufiges Modell: faktenbasierte Analyse, erfahrungsbasierte Reflexion und Transfer mit Umsetzung. Der Vortrag wurde als interaktiver Erfahrungsaustausch gestaltet, bei dem die Teilnehmenden ihre eigenen Herausforderungen und Lösungsansätze im Projektwissensmanagement teilten.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DIVdIcQAsBY?si=X95j4hlioZcc4Q9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Persönlicher Werdegang und Motivation
 - Vorstellung der Referentin und ihrer Reise zum Wissensmanagement
 - Analyse eines gescheiterten Wissensmanagement-Projekts aus der Bachelorarbeit

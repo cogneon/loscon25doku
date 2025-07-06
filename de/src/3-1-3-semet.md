@@ -4,6 +4,8 @@
 
 **Der Vortrag behandelt die zunehmende Bedeutung digitaler Assistenten in der Arbeitswelt und deren Auswirkungen auf Learning & Development. Der Referent führt durch eine interaktive Diskussion über bereits existierende digitale Assistenten (vom Waschzettel bis zum Navigationssystem) und zeigt auf, wie diese Technologien Vergessenslücken schließen, Entscheidungsfindung beschleunigen und die Arbeitseffizienz steigern können. Dabei werden sowohl die Potenziale als auch die ethischen Herausforderungen dieser Entwicklung beleuchtet.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-pefHPWxeK4?si=rd6ztmh5RqiRy5U9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Einleitung und Kontext
 - Vorstellung der Think Tank Learning and Friends Gruppe
 - Studienergebnisse zu KI-Einsatz und erwartetem Nutzen

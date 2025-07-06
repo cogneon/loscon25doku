@@ -4,6 +4,8 @@
 
 **Martin Harnisch, Wissensmanager und Wiki-Berater, präsentierte eine fundierte Argumentation für vollständig offene Enterprise Wikis. In seinem Vortrag erläuterte er, warum alle Mitarbeitenden in Organisationen sowohl Lese- als auch Bearbeitungsrechte für das Unternehmens-Wiki haben sollten. Dabei ging er auf die Definition von Wikis ein, stellte die Vorteile offener Systeme dar und entkräftete häufige Bedenken. Der Vortrag mündete in eine lebhafte Diskussion über praktische Erfahrungen und Herausforderungen bei der Implementierung offener Wiki-Kulturen.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iy6r3pzqhcw?si=-xp4YPcCgPDd32Rq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Definition und Grundlagen von Wikis
 - Wiki-Definition nach Ward Cunningham
 - Kernmerkmale: Bearbeitung durch alle Nutzer und thematische Verlinkung

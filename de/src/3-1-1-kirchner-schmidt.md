@@ -4,6 +4,8 @@
 
 **Der Vortrag von Marcel Kirchner und Thomas Schmidt berichtet über den erfolgreichen globalen Einsatz des LernOS KI-Leitfadens bei Continental. Die beiden Referenten teilten ihre Erfahrungen mit einer Lernreise, an der über 3.000 Mitarbeitende teilnahmen, und zeigten auf, wie KI-Kompetenzen in einem Großkonzern systematisch aufgebaut werden können. Der Titel *"Never Prompt Alone"* spiegelt das zentrale Motto wider: KI sollte nicht isoliert, sondern gemeinsam in Learning Circles erlernt und angewendet werden.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7aR1HXXJrhI?si=dsHRByB3Akb_1_N5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Der Vortrag gliederte sich in vier Hauptthemen:
 
 1. **Company Framework**: Wie schließt man Wissenslücken, um KI in einem größeren Konzern einsetzbar zu machen?

@@ -4,6 +4,8 @@
 
 **Der Beitrag von Brigitte Lüdecke und Harald Schirmer behandelt die praktische Umsetzung einer digitalen Transformation weg von US-amerikanischen Diensten hin zu europäischen und Open-Source-Alternativen. Die beiden Referenten teilen ihre persönlichen Erfahrungen beim Wechsel zu datenschutzfreundlicheren Lösungen und demonstrieren live die Nutzung von Nextcloud als zentrale Plattform für Kommunikation, Dateiverwaltung und Zusammenarbeit. Der Fokus liegt auf dem *"bewussten digitalen Handeln"* und der Bildung einer Lerngemeinschaft, um gemeinsam die Herausforderungen der digitalen Souveränität zu meistern.**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Rj7f-OLlbUA?si=EYjs_N7MgieaYxem" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Einführung und persönliche Motivation
 - Persönliche Geschichten der Referenten
 - Zwangsumzüge durch Providerwechsel
