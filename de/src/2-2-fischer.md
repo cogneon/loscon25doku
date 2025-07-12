@@ -2,6 +2,8 @@
 
 > Was haben Kommunikation, Kontrolle und Kollegialität gemeinsam? Sie gehören zu den sechs Dimensionen, mit denen wir bei der LV 1871 die Selbstorganisation unserer Teams sichtbar machen. In diesem 5-Minuten-Impuls zeige ich, wie ein einfaches Modell echte Aha-Momente erzeugen kann – nicht nur im Team, sondern auch bei Führungskräften und im Change-Prozess. Wer wissen will, wie sich agile Reife nicht nur fühlen, sondern auch messen lässt, sollte am nächsten Tag unbedingt beim ausführlichen Vortrag vorbeischauen. Plus: Das Modell gibt’s für Neugierige auch zum Ausprobieren.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Der Vortrag stellt das 6K-Modell vor, ein wissenschaftlich fundiertes Instrument zur Messung und Entwicklung von Selbstorganisation in Teams. Die LV 1871, ein mittelständischer Lebensversicherer aus München, entwickelte dieses Modell vor vier Jahren gemeinsam mit der Ludwig-Maximilians-Universität. Das Modell basiert auf sechs Dimensionen, die alle mit dem Buchstaben "K" beginnen und ermöglicht es, selbstorganisierte Teams systematisch zu bewerten und weiterzuentwickeln.**
 
 Der Vortrag folgt einer klaren, aufbauenden Struktur:

@@ -2,6 +2,8 @@
 
 > Wer Peer Learning Enthusiast:in in einer Organisation ist, fühlst sich sicher manchmal als Untergrund-Agent:in. Was können wir von den Untergrund-Stars - den Pilzen - lernen? Inspiriert von "Verwobenes Leben" (Merlin Sheldrake) ist dieser Lightning Talk ein Plädoyer für Wissensökologie. Mit einem Augenzwinkern - und drei Fragen für alle, die tiefer graben wollen. Dieser Talk ist ein Ergebnis aus meiner Lernreise mit dem Zettelkasten Leitfaden.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=1730" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Der Vortrag von Felix führt die Teilnehmenden in die faszinierende Welt der Pilze ein und zieht dabei Parallelen zu organisationalen Lernprozessen. Inspiriert von Merlin Sheldrakes Buch "Verwobenes Leben" werden Pilze als "Underground Stars" präsentiert, deren unsichtbare Netzwerke (Mycel) als Metapher für Peer-Learning und organisationale Transformation dienen. Der interaktive Vortrag ermutigt die Teilnehmenden, sich als Teil eines Mycel-Netzwerks zu verstehen und organisationale Herausforderungen durch die Brille der Pilzwelt zu betrachten.**
 
 ### Aufbau und Gliederung des Vortrags

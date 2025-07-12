@@ -3,6 +3,8 @@
 > Bringt uns KI als Menschen näher zusammen oder treibt sie uns weiter auseinander? Einer der größten Anwendungsfälle für KI-basierte LLM ist das Übersetzen und Verbessern des Schreibens. Dies wirft eine tiefgreifende Frage über die Auswirkungen von KI auf die menschliche Kommunikation auf.
 Verbessert KI das Verständnis und überbrückt die Kommunikations-Gaps zwischen Kolleg*Innen, die über Sprachgrenzen hinweg sprechen, oder nimmt sie die Authentizität unserer Fehler und Missverständnisse weg? Verbinden wir uns mehr auf der Welt, oder klingen wir alle wie Klone von ChatGPT? So erstaunlich diese Technologie auch ist, die Frage bleibt bestehen.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=1161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Daniel Prial, ein US-Amerikaner, der für eine belgische Firma arbeitet und in Deutschland lebt, hinterfragte in seinem Vortrag die Auswirkungen von KI-gestützter Übersetzung auf zwischenmenschliche Kommunikation. Er stellte die zentrale Frage, ob uns die Fähigkeit, durch KI jede Sprache zu sprechen, wirklich näher zusammenbringt oder eine robotische Fassade zwischen uns aufbaut. Anhand persönlicher Erfahrungen und Beobachtungen aus seinem multinationalen Arbeitsumfeld beleuchtete er sowohl die Chancen als auch die Risiken des Universal Translators für authentische Kommunikation.**
 
 Der Vortrag folgte einer klaren argumentativen Struktur:

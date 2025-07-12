@@ -2,6 +2,8 @@
 
 > Das bestehenden Ansätze zum Wissensmanagement es nur begrenzt schaffen Wissen aus den Köpfen von Mitarbeitern zu digitalisieren, führt nicht nur zu direkten Produktivitätsverlusten durch Wissensverlust, Wissenssilos und verlorener Zeit bei der Suche und beim Teilen von Informationen, sondern bedroht fundamental die Wettbewerbsfähigkeit von Unternehmen im KI-Zeitalter. Ich gehe kurz darauf ein warum Unternehmen nur in dem Maße von KI profitieren können, in dem sie dieser ihr Wissen digital dokumentiert zur Verfügung stellen können und zeige dann auf wie das am effektivsten gelingt.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sd2LON9RlBNqVc_o&amp;start=2780" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Armin, Mitgründer des Nürnberger Startups Complemental AI, präsentierte einen innovativen Ansatz zur Verbindung von Wissensmanagement und Künstlicher Intelligenz. In seinem Vortrag stellte er dar, wie Unternehmen durch besseres Wissensmanagement ihre KI-Initiativen deutlich effektiver gestalten können. Seine zentrale These: Wissensmanagement und KI müssen strategisch zusammen gedacht werden, um echten wirtschaftlichen Wert zu schaffen. Dabei präsentierte er eine Lösung, die menschliche Kommunikationsmuster nachahmt und automatisch Wissen aus Gesprächen extrahiert und für zukünftige Anfragen verfügbar macht.**
 
 ### Gliederung und Aufbau des Vortrags

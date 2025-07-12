@@ -2,6 +2,8 @@
 
 > Change Management minimiert Risiken und Widerstände, fördert die Akzeptanz bei den Mitarbeitern und stellt sicher, dass Veränderungen nachhaltig und erfolgreich umgesetzt werden können. Wir schauen auf die wesentlichen Praktiken anhand des neuen lernOS Leitfadens.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sd2LON9RlBNqVc_o&amp;start=3052" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **In diesem Vortrag stellt Thomas einen praxisorientierten Ansatz für erfolgreiches Change Management vor, der sich auf den Zusammenhang zwischen Emotionen und Wissenslücken konzentriert. Er präsentiert zehn fundamentale "Gebote" für effektives Change Management, die von der Schaffung von Dringlichkeit und Klarheit bis hin zur agilen und iterativen Herangehensweise reichen. Der Vortrag betont besonders die Bedeutung emotionaler Aspekte in Veränderungsprozessen und schließt mit einem Aufruf zur Teilnahme am LernOS Leitfaden Change Management.**
 
 Der Vortrag folgt einer klaren, strukturierten Gliederung in drei Hauptteilen:

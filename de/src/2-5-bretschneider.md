@@ -2,6 +2,8 @@
 
 > Ausgehend von Gerd Wohlands Definition eines Problem, will ich zeigen, dass Probleme auch Wissenslücken sind. Methodisches Vorgehen kann uns helfen, diese Lücken zu schließen.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=1480" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Jan präsentiert in seinem Vortrag ein systematisches Framework zur Problemlösung, basierend auf Dave Snowdens Kategorisierung von Problemauslösern. Er argumentiert, dass regelmäßige strukturierte Problemlösung wie ein Muskeltraining funktioniert und Organisationen befähigt, sowohl mit bekannten als auch mit unvorhersehbaren Herausforderungen umzugehen. Der Kern seiner These: Wer strukturierte Problemlösung praktiziert, entwickelt die Fähigkeit zur Improvisation in kritischen Situationen.**
 
 Der Vortrag folgt einer klaren, aufbauenden Struktur:

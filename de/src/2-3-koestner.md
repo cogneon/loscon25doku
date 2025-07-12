@@ -2,6 +2,8 @@
 
 > Viele Projekte dokumentieren Erkenntnisse – aber lernen sie auch daraus? In diesem Lightning Talk zeige ich, warum Lessons Learned oft ins Leere laufen und wie kollektives Lernen mit dem Projekt-Trialog gelingt.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Viktoria Köstner zeigt in ihrem Vortrag auf, warum traditionelle Lessons-Learned-Prozesse in vielen Unternehmen scheitern und eher zu "Project Documented" als zu echtem Lernen führen. Anhand einer praxisnahen Geschichte über die Projektleiter John und Sonja verdeutlicht sie, wie Wissenslücken entstehen und sechs Jahre später zu erheblichen Projektverzögerungen führen können. Sie identifiziert vier zentrale Schwachstellen in herkömmlichen Lessons-Learned-Ansätzen und präsentiert einen dreistufigen Lösungsansatz für strategisches Wissensmanagement.**
 
 Der Vortrag folgt einer klaren Struktur, die von einem konkreten Praxisbeispiel ausgeht und zu systematischen Lösungsansätzen führt:

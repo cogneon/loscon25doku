@@ -2,6 +2,8 @@
 
 > Wie gelingt es, Wissenslücken in einem internationalen Industrieunternehmen systematisch zu schließen – und dabei nicht nur Tools, sondern vor allem Kultur zu verändern? In diesem Lightning Talk gibt Dajana Prellwitz Einblicke in das Strategieprojekt „Knowledge Culture“ der NETZSCH-Gruppe – mit Blick auf die Roadmap, erste Umsetzungsschritte und die Herausforderungen auf dem Weg zu einer gelebten Wissenskultur.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=2072" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Der Vortrag von Dajana behandelt die Herausforderungen eines traditionellen Unternehmens beim Aufbau eines strategischen Wissensmanagements. Sie beschreibt, wie ihr 150 Jahre altes Unternehmen mit einer alternden Belegschaft vor der Aufgabe steht, Wissen zu bewahren und zu vernetzen. Dabei betont sie, dass Wissensmanagement weit über IT-Tools hinausgeht und eine ganzheitliche Herangehensweise erfordert, die Kultur, Führung und Prozesse umfasst. Trotz guter Voraussetzungen kämpft das Unternehmen damit, aus einzelnen Maßnahmen eine nachhaltige Bewegung zu entwickeln.**
 
 ### Gliederung und Aufbau des Vortrags
