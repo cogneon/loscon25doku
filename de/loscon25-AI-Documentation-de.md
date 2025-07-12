@@ -775,6 +775,9 @@ Beteiligten erfordert.
 > vorstellen, wie das praktisch aussehen kann und von meinen Erfahrungen
 > mit dem Ansatz berichten.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=290" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 **Der Vortrag behandelt einen pädagogischen Ansatz zur sinnvollen
 Nutzung von KI-Sprachmodellen im Lernprozess. Die Referentin Nele stellt
 ein dreistufiges Modell vor, das verhindert, dass Lernende von der Fülle
@@ -967,6 +970,9 @@ reflektiertes Lernen.
 > Akzeptanz bei den Mitarbeitern und stellt sicher, dass Veränderungen
 > nachhaltig und erfolgreich umgesetzt werden können. Wir schauen auf
 > die wesentlichen Praktiken anhand des neuen lernOS Leitfadens.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sd2LON9RlBNqVc_o&amp;start=3052" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 **In diesem Vortrag stellt Thomas einen praxisorientierten Ansatz für
 erfolgreiches Change Management vor, der sich auf den Zusammenhang
@@ -1182,6 +1188,9 @@ in der heutigen Zeit unerlässlich ist.
 > beim ausführlichen Vortrag vorbeischauen. Plus: Das Modell gibt's für
 > Neugierige auch zum Ausprobieren.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=624" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 **Der Vortrag stellt das 6K-Modell vor, ein wissenschaftlich fundiertes
 Instrument zur Messung und Entwicklung von Selbstorganisation in Teams.
 Die LV 1871, ein mittelständischer Lebensversicherer aus München,
@@ -1359,6 +1368,9 @@ von Teamleistung.
 > daraus? In diesem Lightning Talk zeige ich, warum Lessons Learned oft
 > ins Leere laufen und wie kollektives Lernen mit dem Projekt-Trialog
 > gelingt.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=840" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 **Viktoria Köstner zeigt in ihrem Vortrag auf, warum traditionelle
 Lessons-Learned-Prozesse in vielen Unternehmen scheitern und eher zu
@@ -1597,6 +1609,9 @@ partizipativen Charakter effektiver Lernprozesse widerspiegelt.
 > klingen wir alle wie Klone von ChatGPT? So erstaunlich diese
 > Technologie auch ist, die Frage bleibt bestehen.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=1161" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 **Daniel Prial, ein US-Amerikaner, der für eine belgische Firma arbeitet
 und in Deutschland lebt, hinterfragte in seinem Vortrag die Auswirkungen
 von KI-gestützter Übersetzung auf zwischenmenschliche Kommunikation. Er
@@ -1774,6 +1789,9 @@ wie wir mit ihr umgehen wollen.
 > Ausgehend von Gerd Wohlands Definition eines Problem, will ich zeigen,
 > dass Probleme auch Wissenslücken sind. Methodisches Vorgehen kann uns
 > helfen, diese Lücken zu schließen.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=1480" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 **Jan präsentiert in seinem Vortrag ein systematisches Framework zur
 Problemlösung, basierend auf Dave Snowdens Kategorisierung von
@@ -2015,6 +2033,9 @@ Herausforderungen erforderlich sind.
 > die tiefer graben wollen. Dieser Talk ist ein Ergebnis aus meiner
 > Lernreise mit dem Zettelkasten Leitfaden.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=1730" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 **Der Vortrag von Felix führt die Teilnehmenden in die faszinierende
 Welt der Pilze ein und zieht dabei Parallelen zu organisationalen
 Lernprozessen. Inspiriert von Merlin Sheldrakes Buch "Verwobenes Leben"
@@ -2233,6 +2254,9 @@ führen kann.
 > so weniger Zeit und Lernlust im Management ... wir werfen einen Blick
 > auf eine "Referenzgruppe" - das globale GUIDE Netzwerk und
 > vergleichen.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=2410" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 **Harald präsentiert eine kritische Analyse der unterschiedlichen
 Lernkulturen zwischen Management und operativen Mitarbeitern (Guides) in
@@ -2465,6 +2489,9 @@ wechseln, bevor dieser Gap unaufholbar wird.
 > Umsetzungsschritte und die Herausforderungen auf dem Weg zu einer
 > gelebten Wissenskultur.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sepn-5BAv89cqtCk&amp;start=2072" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 **Der Vortrag von Dajana behandelt die Herausforderungen eines
 traditionellen Unternehmens beim Aufbau eines strategischen
 Wissensmanagements. Sie beschreibt, wie ihr 150 Jahre altes Unternehmen
@@ -2664,6 +2691,9 @@ eine authentische Grundlage für den gewünschten Erfahrungsaustausch.
 > Unternehmen nur in dem Maße von KI profitieren können, in dem sie
 > dieser ihr Wissen digital dokumentiert zur Verfügung stellen können
 > und zeige dann auf wie das am effektivsten gelingt.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BFAstADUUp4?si=sd2LON9RlBNqVc_o&amp;start=2780" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 **Armin, Mitgründer des Nürnberger Startups Complemental AI,
 präsentierte einen innovativen Ansatz zur Verbindung von
