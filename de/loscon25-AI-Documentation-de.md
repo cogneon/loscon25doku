@@ -230,6 +230,9 @@ Frage mich zuerst nach dem Transkript und bearbeite dies dann mit diesen Anweisu
 > des Wissensmanagement und lernOS Individuen, Teams und Organisationen
 > bei diesem Kraftakt helfen kann.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rc94aQaxNZo?si=6QWSn1rSBXXmnAXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+
 **Simon Dückert präsentiert einen innovativen Ansatz zum
 Wissensmanagement durch den praktischen Einsatz von KI-Tools. Er
 demonstriert live, wie Künstliche Intelligenz als Sparringspartner für
@@ -531,6 +534,9 @@ entscheidende Wettbewerbsvorteile erlangen.
 > Prinzipien eine wichtige Rolle, aber auch "AI Literacy", die allen
 > Beteiligten ermöglicht, Risiken, Grenzen und Möglichkeiten bewusst
 > abzuwägen.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FJ15hUg8KiQ?si=Z4NKlkMy0XfEeXXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 **Bettina Laugwitz von SAP präsentierte einen umfassenden Überblick über
 AI Safety und KI-Ethik, wobei sie die Parallelen zwischen der
